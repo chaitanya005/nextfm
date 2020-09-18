@@ -38,7 +38,7 @@ export default function Home() {
           content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
         />
 
-        <title></title>
+        <title>Vercel Deployment</title>
 
         <link
           rel="apple-touch-icon"

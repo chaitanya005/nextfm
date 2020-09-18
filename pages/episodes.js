@@ -246,7 +246,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/5e13nDd91PTOycmR1LCACd                      "
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -297,7 +297,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/4p0BkFGr4tuLWZ0Q7ERxH6"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -344,7 +344,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/0A0n4MmmR7ybo30Pl5ZmLU"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -399,7 +399,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/3ov9iobaiesvLyUw6Ya90f"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -447,7 +447,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/0HGH27BNoMu0X0lWewgANt"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -497,7 +497,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/4dqM19MPjhkfOXAgnSAikD"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -548,7 +548,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/30Mhriw4VzXkhOhsZqi6AB"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -597,7 +597,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/2CITL9oJJYtJVSIDR22VNr"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -646,7 +646,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/5RbgqW4hHQTqClSP8xzrOr"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>
@@ -696,7 +696,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/5tcTFKP4R3ZJbi9vDZ4htG"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>{" "}
@@ -747,7 +747,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/4bsiOTn5VFHW3o6gpG7x7t"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>{" "}
