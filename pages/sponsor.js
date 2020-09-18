@@ -122,7 +122,7 @@ class Contact extends Component {
     return (
       <>
         <Head>
-          <title>Exploiting with Tejakummarikuntla</title>
+          {/*<title>Exploiting with Tejakummarikuntla</title>*/}
           <link
             rel="apple-touch-icon"
             sizes="57x57"

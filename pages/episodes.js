@@ -7,7 +7,7 @@ const podItem = () => {
   return (
     <>
       <Head>
-        <title>Exploiting | Episodes</title>
+        {/*<title>Exploiting | Episodes</title>*/}
 
         <link
           rel="apple-touch-icon"
@@ -197,7 +197,7 @@ const podItem = () => {
                       src="https://open.spotify.com/embed-podcast/episode/68j3t4eHwWY9GBaXPzoWR0"
                       width="100%"
                       height="232"
-                      frameborder="0"
+                      frameBorder="0"
                       allowtransparency="true"
                       allow="encrypted-media"
                     ></iframe>

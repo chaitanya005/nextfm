@@ -10,7 +10,7 @@ const TeamTest = () => {
     <>
       <div>
         <Head>
-          <title>Exploiting | Crew</title>
+          {/*<title>Exploiting | Crew</title>*/}
 
           <link
             rel="apple-touch-icon"
