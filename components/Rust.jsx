@@ -39,7 +39,7 @@ const Rustconf = () => {
               data-wow-delay="300ms"
             >
               <img
-                src="../img/rust_conf/4.jpg"
+                src="../img/rust_conf/resize4.jpg"
                 alt=""
                 style={{ borderRadius: "10px" }}
               />

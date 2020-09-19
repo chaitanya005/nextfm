@@ -23,7 +23,7 @@ const Sponsor = () => {
                       style={{
                         borderRadius: "10px",
                       }}
-                      src="../img/core-img/TalkPython.png"
+                      src="../img/core-img/TalkPython_gt.png"
                       alt=""
                     />
                   </a>
@@ -37,7 +37,7 @@ const Sponsor = () => {
                     {" "}
                     <img
                       style={{ borderRadius: "10px" }}
-                      src="../img/core-img/manning_logo.png"
+                      src="../img/core-img/manning_logo_gt.png"
                       alt=""
                     />
                   </a>
@@ -48,7 +48,7 @@ const Sponsor = () => {
                     {" "}
                     <img
                       style={{ borderRadius: "10px" }}
-                      src="../img/core-img/crio.png"
+                      src="../img/core-img/crio_gt.png"
                       alt=""
                     />
                   </a>
