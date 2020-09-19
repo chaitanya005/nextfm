@@ -131,6 +131,10 @@ export default function Home() {
           href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap"
           rel="stylesheet"
         />
+
+        <script src="../js/jquery.min.js"></script>
+        <script src="../js/popper.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
       </Head>
       <Layout />
 

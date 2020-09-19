@@ -103,6 +103,10 @@ const TeamTest = () => {
             href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap"
             rel="stylesheet"
           />
+
+          <script src="../js/jquery.min.js"></script>
+          <script src="../js/popper.min.js"></script>
+          <script src="../js/bootstrap.min.js"></script>
         </Head>
         <Navbar />
         <section
@@ -168,7 +172,7 @@ const TeamTest = () => {
                         className="nav-link"
                         id="tuesday-tab"
                         data-toggle="tab"
-                        href="#steptwo"
+                        href="#step-two"
                         role="tab"
                         aria-controls="steptwo"
                         aria-expanded="true"
@@ -201,7 +205,7 @@ const TeamTest = () => {
                   {/*Adivsory Tab */}
                   <div
                     className="tab-pane fade"
-                    id="steptwo"
+                    id="step-two"
                     role="tabpanel"
                     aria-labelledby="tuesday-tab"
                   >

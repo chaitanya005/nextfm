@@ -177,9 +177,21 @@ export default class Subscribe extends Component {
                       >
                         <h5 className="widget-title" style={{ color: "white" }}>
                           {" "}
-                          Subscribe Here !
+                          Newsletter
                         </h5>
-                        <Input
+                        <iframe
+                          src="https://exploit.substack.com/embed"
+                          width="100%"
+                          style={{
+                            border: "1px solid #EEE",
+                            background: "white",
+                            borderRadius: "5px",
+                          }}
+                          frameBorder="0"
+                          scrolling="no"
+                        ></iframe>
+
+                        {/*<Input
                           value={this.state.name}
                           type="email"
                           placeholder="Enter Name"
@@ -206,7 +218,7 @@ export default class Subscribe extends Component {
                           type="submit"
                         >
                           Subscribe
-                        </Button>
+                        </Button> */}
                       </div>
                     </Form>
                   </SubscribeNewsletterContainer>
