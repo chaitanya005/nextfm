@@ -1920,6 +1920,28 @@ input:required {
 .breadcrumb-content .breadcrumb .breadcrumb-item a:focus {
   color: #df42b1;
 }
+
+/*Nav Item Rewrite*/
+#navitems {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: "#ffffff";
+}
+
+@media only screen and (min-width: 992px) {
+  #navitems {
+    color: "#ffffff";
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  #tooltip333589074:hover .nav-link-icon:focus {
+    color: #ffffff !important;
+  }
+}
+
 /*NavLInk*/
 .breadcrumb-content .breadcrumb .breadcrumb-item .nav-link-icon:hover,
 .breadcrumb-content .breadcrumb .breadcrumb-item .nav-link-icon:focus {
@@ -1998,7 +2020,7 @@ input:required {
 
 /* :: 14.0 Blog Area CSS */
 #our-blog-area {
-  background-image: url(../img/Podcast/Exploiting_v2.png);
+  background-image: url(../img/Podcast/Exploiting_v2_400s.png);
 }
 
 .our-blog-area .row {

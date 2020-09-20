@@ -1,5 +1,7 @@
 import React from "react";
 import Headroom from "headroom.js";
+import Link from "next/link";
+
 import {
   Button,
   UncontrolledCollapse,
@@ -77,61 +79,85 @@ class DemoNavbar extends React.Component {
                   navbar
                   style={{ backgroundColor: "black" }}
                 >
-                  <NavItem>
-                    <NavLink
+                  <NavItem
+                    id="navitems"
+                    style={{
+                      color: "#ffffff",
+                    }}
+                  >
+                    <Link
                       className="nav-link-icon"
                       href="/"
                       target="_self"
                       id="tooltip333589074"
-                      style={{ color: "white" }}
                     >
                       HOME
-                    </NavLink>
+                    </Link>
                   </NavItem>
-                  <NavItem>
-                    <NavLink
+                  <NavItem
+                    id="navitems"
+                    style={{
+                      color: "#ffffff",
+                    }}
+                  >
+                    <Link
                       className="nav-link-icon"
                       href="/episodes"
                       id="tooltip356693867"
                       target="_self"
-                      style={{ color: "white" }}
                     >
                       EPISODES
-                    </NavLink>
+                    </Link>
                   </NavItem>
-                  <NavItem>
-                    <NavLink
+                  <NavItem
+                    id="navitems"
+                    style={{
+                      color: "#ffffff",
+
+                      paddingTop: "8px",
+                      paddingBottom: "8px",
+                    }}
+                  >
+                    <Link
                       className="nav-link-icon"
                       href="/newsletter"
                       target="_blank"
                       id="tooltip184698705"
                       target="_blank"
-                      style={{ color: "white" }}
                     >
                       NEWSLETTER
-                    </NavLink>
+                    </Link>
                   </NavItem>
-                  <NavItem>
-                    <NavLink
+                  <NavItem
+                    id="navitems"
+                    style={{
+                      color: "#ffffff",
+                    }}
+                  >
+                    <Link
                       className="nav-link-icon"
                       href="/team"
                       target="_blank"
                       id="tooltip184698705"
                       target="_self"
-                      style={{ color: "white" }}
                     >
                       TEAM
-                    </NavLink>
+                    </Link>
                   </NavItem>
-                  <NavItem>
-                    <NavLink
+                  <NavItem
+                    id="navitems"
+                    style={{
+                      color: "#ffffff",
+                    }}
+                  >
+                    <Link
                       className="nav-link-icon"
                       href="/sponsor"
                       id="tooltip112445449"
                       style={{ color: "white" }}
                     >
                       SUPPORT US
-                    </NavLink>
+                    </Link>
                     {/*<UncontrolledTooltip delay={0} target="tooltip112445449">
                       Star us on Github
                     </UncontrolledTooltip> */}
