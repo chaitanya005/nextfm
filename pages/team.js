@@ -67,7 +67,7 @@ const TeamTest = () => {
             rel="icon"
             type="image/png"
             sizes="32x32"
-            href="img/core-img/favicons/favicon-32x32.png"
+            href="img/core-img/favicons/favicon-32x32_resize.png"
           />
           <link
             rel="icon"

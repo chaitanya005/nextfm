@@ -10,7 +10,7 @@ const sidebar_4 = () => {
             <div className="post-author-widget">
               <div className="post-author-avatar">
                 <img
-                  src="../img/Podcast/episodes/ep_4/guest/luisserrano_resize.jpg"
+                  src="../img/Podcast/episodes/ep_4/guest/luisserrano_resize_2.jpg"
                   alt=""
                 />
               </div>

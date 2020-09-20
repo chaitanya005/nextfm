@@ -68,7 +68,7 @@ export default ({
     {
       customerName: "Luis Serrano",
       customerProfile: "Serrano Academy",
-      imageSrc: "../img/Podcast/episodes/ep_4/guest/luisserrano_resize.jpg",
+      imageSrc: "../img/Podcast/episodes/ep_4/guest/luisserrano_resize_2.jpg",
       quote:
         "The Exploiting podcast is wonderful for anyone who wants to stay in touch with the latest technology in AI and related fields. Teja does a wonderful job making the guests feel at home, and asking the right questions to keep the users informed and entertained. All in all, a wonderful podcast!",
     },
@@ -82,14 +82,15 @@ export default ({
     {
       customerName: "Michael Kennedy",
       customerProfile: "Founder,Tak Python Training",
-      imageSrc: "../img/Podcast/episodes/ep_9/guest/Michael_resize.jpg",
+      imageSrc: "../img/Podcast/episodes/ep_9/guest/Michael_resize_2.jpg",
       quote:
         "I love Teja's Idea of The Exploiting Podcast about taking ownership of life, career, and what we are actually passionate about and taking them to the next level.His questions to me are deep with full of fun, we had a lovely and exciting conversation. That was fantastic.",
     },
     {
       customerName: "Miguel Morales",
       customerProfile: "Staff Software Engineer, Lockheed Martin",
-      imageSrc: "../img/Podcast/episodes/ep_11/guest/Morales_Miguel_resize.jpg",
+      imageSrc:
+        "../img/Podcast/episodes/ep_11/guest/Morales_Miguel_resize_2.jpg",
       quote:
         "Teja's questions were really interesting, he does work a lot before asking something, those questions are well connected and deeply engaging, I enjoyed our conversation with a lot of fun, didn't realize we spoke over hours and totally enjoyed our chat. I appreciate his work towards podcasting, Btw, I love the name 'Exploiting'.",
     },
