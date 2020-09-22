@@ -161,7 +161,7 @@ const Episdoes = () => {
                 >
                   <li className="nav-item">
                     <a
-                      className="nav-link active"
+                      className="nav-link"
                       id="monday-tab"
                       data-toggle="tab"
                       href="#step-one"
@@ -174,7 +174,7 @@ const Episdoes = () => {
                   </li>
                   <li className="nav-item">
                     <a
-                      className="nav-link"
+                      className="nav-link active"
                       id="tuesday-tab"
                       data-toggle="tab"
                       href="#step-two"
@@ -197,7 +197,7 @@ const Episdoes = () => {
               >
                 {/*Team Tab */}
                 <div
-                  className="tab-pane fade show active"
+                  className="tab-pane fade"
                   id="step-one"
                   role="tabpanel"
                   aria-labelledby="monday-tab"
@@ -213,7 +213,7 @@ const Episdoes = () => {
 
                 {/*Adivsory Tab */}
                 <div
-                  className="tab-pane fade"
+                  className="tab-pane fade  show active"
                   id="step-two"
                   role="tabpanel"
                   aria-labelledby="tuesday-tab"
