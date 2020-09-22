@@ -1,6 +1,7 @@
 import React from "react";
 import Headroom from "headroom.js";
 import Link from "next/link";
+import Search from "./Search";
 
 import {
   Button,
@@ -21,7 +22,53 @@ import {
   UncontrolledTooltip,
 } from "reactstrap";
 
+const episodes = [
+  {
+    id: "1",
+    episodeName: "first",
+    guestName: "Rathinamurthy R",
+    description:
+      "Something Something Something Something Something Something Something ",
+    url:
+      "https://open.spotify.com/embed-podcast/episode/61JyUcCVJv8lDHivX4rrdN",
+    date: "Sep 14, 2020",
+  },
+  {
+    id: "2",
+    episodeName: "Secound",
+    guestName: "Frank Kane",
+    description:
+      "Something Something Something Something Something Something Something ",
+    url:
+      "https://open.spotify.com/embed-podcast/episode/30Mhriw4VzXkhOhsZqi6AB",
+    date: "Sep 14, 2020",
+  },
+];
+
+function searchingTerm(searchterm) {
+  return function (x) {
+    return (
+      x.episodeName.toLowerCase().includes(searchterm.toLowerCase()) ||
+      !searchterm
+    );
+  };
+}
+
 class DemoNavbar extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      episodes: episodes,
+      searchterm: "",
+    };
+    this.searchHandler = this.searchHandler.bind(this);
+  }
+
+  searchHandler(event) {
+    this.setState({ searchterm: event.target.value });
+  }
+
   componentDidMount() {
     let headroom = new Headroom(document.getElementById("navbar-main"));
     // initialise
@@ -45,6 +92,7 @@ class DemoNavbar extends React.Component {
   };
 
   render() {
+    const { searchterm, episodes } = this.state;
     return (
       <>
         <header className="header-area">
@@ -162,6 +210,7 @@ class DemoNavbar extends React.Component {
                       Star us on Github
                     </UncontrolledTooltip> */}
                   </NavItem>
+
                   <NavItem className="d-none d-lg-block ml-lg-4">
                     <Button
                       className="btn-neutral btn-icon"

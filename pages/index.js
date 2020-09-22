@@ -116,8 +116,8 @@ export default function Home() {
           content="img/core-img/favicons/ms-icon-144x144.png"
         />
         <meta name="theme-color" content="#ffffff" />
-
         <link rel="stylesheet" href="../css/style.css" />
+        <link rel="stylesheet" href="../css/search.css" />
         <link rel="stylesheet" href="../css/indeStyle.css" />
         <link rel="stylesheet" href="../css/404.css" />
         <link rel="stylesheet" href="../css/partner.css" />
@@ -131,10 +131,6 @@ export default function Home() {
           href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap"
           rel="stylesheet"
         />
-
-        <script src="../js/jquery.min.js"></script>
-        <script src="../js/popper.min.js"></script>
-        <script src="../js/bootstrap.min.js"></script>
       </Head>
       <Layout />
 

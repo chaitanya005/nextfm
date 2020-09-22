@@ -10,7 +10,7 @@ const TeamTest = () => {
     <>
       <div>
         <Head>
-          {/*<title>Exploiting | Crew</title>*/}
+          <title>Exploiting | Crew</title>
 
           <link
             rel="apple-touch-icon"
@@ -105,7 +105,6 @@ const TeamTest = () => {
           />
 
           <script src="../js/jquery.min.js"></script>
-          <script src="../js/popper.min.js"></script>
           <script src="../js/bootstrap.min.js"></script>
         </Head>
         <Navbar />

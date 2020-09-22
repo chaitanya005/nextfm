@@ -5,7 +5,7 @@ const Ama1 = () => {
   return (
     <div>
       <Head>
-        {/*<title>Nidhi Thakkar -Ask Me Anything</title>*/}
+        <title>Nidhi Thakkar -Ask Me Anything</title>
 
         <link
           rel="apple-touch-icon"

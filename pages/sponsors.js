@@ -7,7 +7,7 @@ const Sponsor = () => {
   return (
     <>
       <Head>
-        {/*<title>Exploiting with Teja Kummarikuntla</title>*/}
+        <title>Exploiting with Teja Kummarikuntla</title>
 
         <link
           rel="apple-touch-icon"

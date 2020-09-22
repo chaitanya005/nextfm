@@ -10,41 +10,6 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta charset="UTF-8" />
-          <meta
-            name="description"
-            content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
-          />
-          <meta
-            name="keywords"
-            content="Exploiting, Exploit chat, exploit.chat, podcast, Exploiting with Teja Kummarikuntla, Exploiting Podcast, exploiting podcast, the exploiting podcast"
-          ></meta>
-          <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1, shrink-to-fit=no"
-          />
-
-          <meta
-            property="og:title"
-            content="Exploiting with Teja Kummarikuntla"
-          />
-          <meta
-            property="og:description"
-            content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
-          />
-          <meta
-            property="og:image"
-            content="https://exploit.chat/img/Podcast/Exploiting_v2_400s.png"
-          />
-          <meta property="og:url" content="https://exploit.chat" />
-          <meta
-            name="twitter:card"
-            content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
-          />
-
-          <title>Exploiting with Teja Kummarikuntla</title>
-
           <link
             rel="apple-touch-icon"
             sizes="57x57"

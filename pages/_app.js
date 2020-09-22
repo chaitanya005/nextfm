@@ -52,7 +52,7 @@ function MyApp({ Component, pageProps }) {
         content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
       />
 
-      <title>Exploiting with Teja Kummarikuntla</title>
+      {/*<title>Exploiting with Teja Kummarikuntla</title>*/}
 
       <link
         rel="apple-touch-icon"
