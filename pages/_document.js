@@ -101,6 +101,24 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap"
             rel="stylesheet"
           />
+
+          {/*<!-- Global site tag (gtag.js) - Google Analytics -->*/}
+
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+            <script
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=UA-175221452-1"
+          ></script>
+          <script>
+            window.dataLayer = window.dataLayer || []; function gtag()
+            {dataLayer.push(arguments)}
+            gtag('js', new Date()); gtag('config', 'UA-175221452-1');
+          </script>
+              `,
+            }}
+          />
         </Head>
         <body>
           <Main />
