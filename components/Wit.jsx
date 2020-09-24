@@ -40,7 +40,7 @@ const Witconf = () => {
               data-wow-delay="300ms"
             >
               <img
-                src="../img/rust_conf/3_wit.jpg"
+                src="../img/rust_conf/3_wit_resize.jpg"
                 alt=""
                 style={{ borderRadius: "10px" }}
               />

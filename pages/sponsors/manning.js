@@ -7,7 +7,7 @@ const Rust = () => {
   return (
     <>
       <Head>
-        <title>Rust Conference | Manning</title>
+        <title>WIT Conference | Manning</title>
 
         <link
           rel="apple-touch-icon"
