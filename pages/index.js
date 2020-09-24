@@ -117,7 +117,6 @@ export default function Home() {
         />
         <meta name="theme-color" content="#ffffff" />
         <link rel="stylesheet" href="../css/style.css" />
-        <link rel="stylesheet" href="../css/search.css" />
         <link rel="stylesheet" href="../css/indeStyle.css" />
         <link rel="stylesheet" href="../css/404.css" />
         <link rel="stylesheet" href="../css/partner.css" />

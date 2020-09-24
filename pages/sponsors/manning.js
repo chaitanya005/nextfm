@@ -115,7 +115,7 @@ const Rust = () => {
                       <a href="/">Home</a>
                     </li>
                     <li className="breadcrumb-item">
-                      <a href="/episodes/all">Sponsors</a>
+                      <a href="/sponsors">Sponsors</a>
                     </li>
                     <li className="breadcrumb-item active" aria-current="page">
                       Manning
@@ -135,40 +135,41 @@ const Rust = () => {
               <div className="pr-lg-4 mb-100">
                 <div className="post-details-content">
                   <div className="post-blog-thumbnail mb-30">
-                    <img src="../img/rust_conf/4.jpg" alt="" />
+                    <img src="../img/rust_conf/3_wit.jpg" alt="" />
                   </div>
 
-                  <h4 className="post-title">
-                    <a href="https://http://mng.bz/1g9X">
-                      Rust: live@Manning conferences{" "}
+                  <h4 className="post-title" id="witconf">
+                    <a href="http://mng.bz/P1ow">
+                      Women in Tech Conference: live@Manning conferences{" "}
                     </a>
                   </h4>
 
-                  <p> </p>
-                  <h4></h4>
-
                   <p>
-                    Let’s talk about <i>#Rust</i>! <b>Sep 15</b> , at the{" "}
-                    <a href="http://mng.bz/1g9X">live@Manning</a> conference in
-                    one Rust-full day go from ways to learn it, to where and how
-                    to use it from game-dev to aerospace and beyond, right from
-                    the pincers of expert Rustaceans.
-                    <br />
-                    Finding Rustaceans weird but intriguing? Secretly wanting to
-                    become one? Tune-in, <b>Sep 15</b>, to the{" "}
-                    <a href="http://mng.bz/1g9X">live@Manning</a> <i>#Rust</i>{" "}
-                    conference to find your <i> #Rustlang </i>
-                    pincers! Striving to build reliable and efficient software,
-                    but finding your language of choice lacking in some key
-                    departments? Find the solution with Ferris the crab and the
-                    Rustacean tribe. When? <b>Sep 15</b>, at the{" "}
-                    <a href="http://mng.bz/1g9X">live@Manning</a> Rust
-                    conference!
-                    <br />
-                    <i>
-                      <b>#Rust #Rustlang #Rustacean</b>
-                    </i>
+                    {" "}
+                    When the girls get coding!. Join us on your screens,{" "}
+                    <b> Oct 13, </b>
+                    for the <a href="http://mng.bz/P1ow">live@Manning</a>{" "}
+                    <b>Women in Tech</b> conference to celebrate the rising
+                    movement of women in technology.  We still have a long way
+                    to go to achieve diversity, inclusion and equality in
+                    technology. <br /> Our contribution is the{" "}
+                    <a href="http://mng.bz/P1ow">live@Manning</a>{" "}
+                    <b>Women in Tech</b> online conference,<b> Oct 13,</b>{" "}
+                    starring the women rocking the tech boat! Cloud navigators
+                    and serverless gurus; algorithm sorceresses and community
+                    advocates; we proudly bring you the women creating the tech
+                    world we live in. When? <b>Oct 13,</b>
+                    <a href="http://mng.bz/P1ow"> live@Manning</a>{" "}
+                    <b>Women in Tech </b>
+                    Twitch conference! <br />
+                    <b>
+                      <i> #womenintech #womenwhocode </i>{" "}
+                    </b>
                   </p>
+
+                  <h4></h4>
+                  {/*[http://mng.bz/P1ow](http://mng.bz/P1ow)*/}
+
                   <div className="col-12">
                     <div
                       className="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp"
@@ -176,7 +177,7 @@ const Rust = () => {
                     >
                       <a
                         className="btn confer-btn"
-                        href="http://mng.bz/1g9X"
+                        href="http://mng.bz/P1ow"
                         target="_blank"
                       >
                         Register Here{" "}
@@ -197,9 +198,9 @@ const Rust = () => {
                     </b>{" "}
                     coupon code during the purchase of any Books at
                     <a href="https://www.manning.com/?utm_source=affiliates&utm_medium=affiliates&a_aid=exploitchat">
-                      <b>Manning.com</b>
+                      <b> Manning.com</b>
                     </a>{" "}
-                    Ksnow more about giveaways at{" "}
+                    Know more about giveaways at{" "}
                     <a href="https://www.instagram.com/exploit.chat">
                       @exploit.chat
                     </a>

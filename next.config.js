@@ -34,7 +34,7 @@ module.exports = {
         permanent: false,
       },
       {
-        source: "/rust",
+        source: "/wit",
         destination: "/sponsors/manning",
         permanent: false,
       },

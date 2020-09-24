@@ -1,6 +1,6 @@
 import React from "react";
 
-const Rustconf = () => {
+const Witconf = () => {
   return (
     <section
       className="about-us-countdown-area section-padding-100-0"
@@ -22,13 +22,14 @@ const Rustconf = () => {
                   textTransform: "none",
                 }}
               >
-                <b>Rust: live@Manning conferences</b>
+                <b id="conf">Women in Tech: live@Manning conferences</b>
               </h3>
               <p className="wow fadeInUp" data-wow-delay="300ms">
-                Let’s talk about #Rust! Sep 15 , at the live@Manning conference
-                in one Rust-full day go from ways to learn it, to where and how
-                to use it from game-dev to aerospace and beyond, right from the
-                pincers of expert Rustaceans.
+                When the girls get coding!. Join us on your screens, Oct 13, for
+                the live@Manning “Women in Tech” conference to celebrate the
+                rising movement of women in technology We still have a long way
+                to go to achieve diversity, inclusion and equality in
+                technology.
               </p>
             </div>
           </div>
@@ -39,7 +40,7 @@ const Rustconf = () => {
               data-wow-delay="300ms"
             >
               <img
-                src="../img/rust_conf/resize4.jpg"
+                src="../img/rust_conf/3_wit.jpg"
                 alt=""
                 style={{ borderRadius: "10px" }}
               />
@@ -51,15 +52,25 @@ const Rustconf = () => {
               className="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp"
               data-wow-delay="300ms"
             >
-              <a className="btn confer-btn" href="/rust">
+              <a className="btn confer-btn" href="/wit">
                 Know more <i className="zmdi zmdi-long-arrow-right"></i>
               </a>
             </div>
           </div>
         </div>
       </div>
+      <style jsx>{`
+        #conf {
+          font-size: 30px;
+        }
+        @media only screen and (max-width: 767px) {
+          #conf {
+            font-size: 22px;
+          }
+        }
+      `}</style>
     </section>
   );
 };
 
-export default Rustconf;
+export default Witconf;

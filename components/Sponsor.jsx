@@ -53,6 +53,31 @@ const Sponsor = () => {
                     />
                   </a>
                 </li>
+
+                <li>
+                  <a href="http://sundog-education.com/" target="_blank">
+                    {" "}
+                    <img
+                      style={{ borderRadius: "10px" }}
+                      src="../img/core-img/sundog.png"
+                      alt=""
+                    />
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    href="https://codechalleng.es/via/exploiting/"
+                    target="_blank"
+                  >
+                    {" "}
+                    <img
+                      style={{ borderRadius: "10px" }}
+                      src="../img/core-img/Pybites_400_255.png"
+                      alt=""
+                    />
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
