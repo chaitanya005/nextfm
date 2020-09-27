@@ -25,7 +25,7 @@ function MyApp({ Component, pageProps }) {
       <meta charSet="UTF-8" />
       <meta
         name="description"
-        content="The exploting podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
+        content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
       />
       <meta
         name="keywords"
@@ -54,7 +54,7 @@ function MyApp({ Component, pageProps }) {
       <meta name="twitter:title" content="Exploiting with Teja Kummarikuntla" />
       <meta
         name="twitter:description"
-        content="The exploting podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
+        content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
       />
       <meta
         name="twitter:image"
