@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const SHORTNAME = "podcastfm";
-const WEBSITE_URL = "http://localhost:3000/blog";
+const WEBSITE_URL = "http://exploit.chat/";
 
 function renderDisqus() {
   if (window.DISQUS === undefined) {

@@ -25,7 +25,7 @@ function MyApp({ Component, pageProps }) {
       <meta charSet="UTF-8" />
       <meta
         name="description"
-        content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
+        content="The exploting podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
       />
       <meta
         name="keywords"
@@ -36,7 +36,6 @@ function MyApp({ Component, pageProps }) {
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no"
       />
-
       <meta property="og:title" content="Exploiting with Teja Kummarikuntla" />
       <meta
         property="og:description"
@@ -47,13 +46,21 @@ function MyApp({ Component, pageProps }) {
         content="https://exploit.chat/img/Podcast/Exploiting_v2_400s.png"
       />
       <meta property="og:url" content="https://exploit.chat" />
+      {/* -----------------Twitter---------------------------- */}
+      <meta name="twitter:card" content="summary" />
+
+      {/*The_exploting_podcast_is_a_weekly_show_resonating_by_diving_deep_into_the_exploiting_actions_by_the_incredible_Technical,_and_Business_leaders,_hosted_by_Teja_Kummarikuntla*/}
+      <meta name="twitter:site" content="@exploitchat" />
+      <meta name="twitter:title" content="Exploiting with Teja Kummarikuntla" />
       <meta
-        name="twitter:card"
-        content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
+        name="twitter:description"
+        content="The exploting podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
       />
-
+      <meta
+        name="twitter:image"
+        content="https://exploit.chat/img/Podcast/Exploiting_v2_400s.png"
+      />
       <title>Exploiting with Teja Kummarikuntla</title>
-
       <link
         rel="apple-touch-icon"
         sizes="57x57"
