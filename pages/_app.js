@@ -39,7 +39,7 @@ function MyApp({ Component, pageProps }) {
       <meta property="og:title" content="Exploiting with Teja Kummarikuntla" />
       <meta
         property="og:description"
-        content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
+        content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
       />
       <meta
         property="og:image"

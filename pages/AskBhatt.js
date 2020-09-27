@@ -10,7 +10,7 @@ const Ama1 = () => {
 
         <meta
           name="description"
-          content="The exploting podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
+          content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
         />
         <link
           rel="apple-touch-icon"
