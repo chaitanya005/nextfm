@@ -25,6 +25,59 @@ const Podcast = () => {
                 <div className="card-body" data-wow-delay="300ms">
                   <div id="Container">
                     <iframe
+                      src="https://open.spotify.com/embed-podcast/episode/1dMZalMRIqBuRjWpzlo0AE"
+                      width="100%"
+                      height="232"
+                      frameBorder="0"
+                      allowtransparency="true"
+                      allow="encrypted-media"
+                    ></iframe>
+                  </div>
+                  <div className="single-blog-text text-center">
+                    <a
+                      className="blog-title"
+                      href="/episodes/ep_14"
+                      target="_blank"
+                    >
+                      Unicast | ELI5 ON: Explaining Machine Learning To A Five
+                      Year Old
+                    </a>
+                    <div className="post-meta">
+                      <a className="post-date">
+                        <i className="zmdi zmdi-alarm-check"></i> Sep 28, 2020
+                      </a>
+                      <a
+                        className="post-author"
+                        href="https://www.linkedin.com/in/tejakummarikuntla/"
+                        target="_blank"
+                      >
+                        <i className="zmdi zmdi-account"></i> Teja Kummarikuntla
+                      </a>
+                    </div>
+                    <p>
+                      ELI5: Explain Like I’m Five Year Old, More than anything
+                      we learn, the actual intuition frames up stronger when we
+                      could deliver to a 5-year-old. In this Unicast of ELI5,
+                      amplifying the content from the Book Grokking Machine
+                      Learning, Beautifully Unfolded the intuition behind
+                      Predictions and Machine learning with a cute story of a
+                      kid.
+                    </p>
+                  </div>
+                </div>
+                <div className="blog-btn">
+                  <a href="/episodes/ep_14" target="_blank">
+                    <i className="zmdi zmdi-long-arrow-right"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="single-blog-area wow fadeInUp">
+              <div className="card" data-wow-delay="300ms">
+                <div className="card-body" data-wow-delay="300ms">
+                  <div id="Container">
+                    <iframe
                       src="https://open.spotify.com/embed-podcast/episode/61JyUcCVJv8lDHivX4rrdN"
                       width="100%"
                       height="232"
@@ -66,55 +119,6 @@ const Podcast = () => {
                 </div>
                 <div className="blog-btn">
                   <a href="/episodes/ep_13" target="_blank">
-                    <i className="zmdi zmdi-long-arrow-right"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="single-blog-area wow fadeInUp">
-              <div className="card" data-wow-delay="300ms">
-                <div className="card-body" data-wow-delay="300ms">
-                  <div id="Container">
-                    <iframe
-                      src="https://open.spotify.com/embed-podcast/episode/68j3t4eHwWY9GBaXPzoWR0"
-                      width="100%"
-                      height="232"
-                      frameBorder="0"
-                      allowtransparency="true"
-                      allow="encrypted-media"
-                    ></iframe>
-                  </div>
-                  <div className="single-blog-text text-center">
-                    <a
-                      className="blog-title"
-                      href="/episodes/ep_12"
-                      target="_blank"
-                    >
-                      Unicast: On Chasing Grit With Transformation
-                    </a>
-                    <div className="post-meta">
-                      <a className="post-date">
-                        <i className="zmdi zmdi-alarm-check"></i> Aug 24, 2020
-                      </a>
-                      <a
-                        className="post-author"
-                        href="https://www.linkedin.com/in/tejakummarikuntla/"
-                        target="_blank"
-                      >
-                        <i className="zmdi zmdi-account"></i> Teja Kummarikuntla
-                      </a>
-                    </div>
-                    <p>
-                      Angela Duckworth defines, Grit is a passion and sustained
-                      persistence applied towards long-term achievement, the
-                      secret to that outstanding achievement is not talent but
-                      grit, it’s a special blend of passion and persistence
-                    </p>
-                  </div>
-                </div>
-                <div className="blog-btn">
-                  <a href="/episodes/ep_12" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>

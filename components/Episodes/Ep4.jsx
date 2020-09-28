@@ -162,7 +162,7 @@ const ep_4 = () => {
               height="763"
               width="380"
               frameBorder="0"
-              allowfullscreen=""
+              allowFullscreen=""
               title="Embedded post"
             ></iframe>
 

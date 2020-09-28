@@ -99,18 +99,18 @@ class DemoNavbar extends React.Component {
           <Navbar
             className="navbar-main  header"
             expand="lg"
-            style={{ backgroundColor: "black" }}
+            style={{ backgroundColor: "black", cursor: "pointer" }}
             id="navbar-main"
           >
             <Container>
-              <a className="nav-brand" href="/">
+              <Link className="nav-brand" href="/">
                 <img
                   src="/img/core-img/Exploiting_logo.png"
                   alt="Teja Kummarikuntla"
                   height="100"
                   width="200"
                 />
-              </a>
+              </Link>
 
               <button className="navbar-toggler" id="navbar_global">
                 <span className="navbar-toggler-icon" />
