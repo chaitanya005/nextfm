@@ -7,7 +7,7 @@ const sidebar_12 = () => {
         <div className="single-widget-area">
           <div className="post-author-widget">
             <div className="post-author-avatar">
-              <img src="../img/Podcast/Exploiting_v2_400s.png" alt="" />
+              <img src="../img/Podcast/Exploiting_v2_400s.png" alt="img" />
             </div>
 
             <div className="post-author-content">

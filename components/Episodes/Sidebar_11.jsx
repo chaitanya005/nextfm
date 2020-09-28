@@ -9,7 +9,7 @@ const sidebar_11 = () => {
             <div className="post-author-avatar">
               <img
                 src="../img/Podcast/episodes/ep_11/guest/Morales_Miguel_resize_2.jpg"
-                alt=""
+                alt="guestimage"
               />
             </div>
 

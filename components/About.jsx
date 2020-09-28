@@ -203,7 +203,10 @@ const About = () => {
                 className="about-thumb mb-80 wow fadeInUp"
                 data-wow-delay="300ms"
               >
-                <img src="img/Podcast/Exploiting_v2_400s.png" alt="" />
+                <img
+                  src="img/Podcast/Exploiting_v2_400s.png"
+                  alt="host podcast"
+                />
               </div>
             </div>
           </div>

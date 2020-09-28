@@ -24,7 +24,7 @@ const Sponsor = () => {
                         borderRadius: "10px",
                       }}
                       src="../img/core-img/TalkPython_gt.png"
-                      alt=""
+                      alt="sponsor talkpython"
                     />
                   </a>
                 </li>
@@ -38,7 +38,7 @@ const Sponsor = () => {
                     <img
                       style={{ borderRadius: "10px" }}
                       src="../img/core-img/manning_logo_gt.png"
-                      alt=""
+                      alt="sponsor manning"
                     />
                   </a>
                 </li>
@@ -49,7 +49,7 @@ const Sponsor = () => {
                     <img
                       style={{ borderRadius: "10px" }}
                       src="../img/core-img/crio_gt.png"
-                      alt=""
+                      alt="sponsor crio"
                     />
                   </a>
                 </li>
@@ -60,7 +60,7 @@ const Sponsor = () => {
                     <img
                       style={{ borderRadius: "10px" }}
                       src="../img/core-img/sundog.png"
-                      alt=""
+                      alt="sponsor sundog"
                     />
                   </a>
                 </li>
@@ -74,7 +74,7 @@ const Sponsor = () => {
                     <img
                       style={{ borderRadius: "10px" }}
                       src="../img/core-img/Pybites_400_255.png"
-                      alt=""
+                      alt="sponsor pybites"
                     />
                   </a>
                 </li>

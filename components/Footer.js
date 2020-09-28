@@ -110,7 +110,7 @@ export default class Subscribe extends Component {
                         src="/img/core-img/Exploiting_logo.png"
                         height="100"
                         width="200"
-                        alt=""
+                        alt="exploting logo"
                       />
                     </a>
 

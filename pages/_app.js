@@ -62,6 +62,7 @@ function MyApp({ Component, pageProps }) {
       />
       <title>Exploiting with Teja Kummarikuntla</title>
       <link rel="canonical" href="http://www.exploit.chat/" />
+      <link rel="canonical" href="http://exploit.chat/" />
 
       <link
         rel="apple-touch-icon"

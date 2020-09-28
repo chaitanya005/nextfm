@@ -11,7 +11,7 @@ const sidebar_4 = () => {
               <div className="post-author-avatar">
                 <img
                   src="../img/Podcast/episodes/ep_4/guest/luisserrano_resize_2.jpg"
-                  alt=""
+                  alt="guestimage"
                 />
               </div>
               <div className="post-author-content">
@@ -104,7 +104,7 @@ const sidebar_4 = () => {
                   >
                     <img
                       src="../img/Podcast/episodes/ep_4/LuisSerrano_EpisodeArt.png"
-                      alt=""
+                      alt="img"
                     />
                   </a>
                 </div>
@@ -115,7 +115,7 @@ const sidebar_4 = () => {
                   >
                     <img
                       src="../img/Podcast/episodes/ep_4/giveaway/LinkedinGiveaway.png"
-                      alt=""
+                      alt="giveaway"
                     />
                   </a>
                 </div>
@@ -126,7 +126,7 @@ const sidebar_4 = () => {
                   >
                     <img
                       src="../img/Podcast/episodes/ep_4/giveaway/SwipeSegment.png"
-                      alt=""
+                      alt="giveaway"
                     />
                   </a>
                 </div>
@@ -137,7 +137,7 @@ const sidebar_4 = () => {
                   >
                     <img
                       src="../img/Podcast/episodes/ep_4/giveaway/Winners.png"
-                      alt=""
+                      alt="giveaway"
                     />
                   </a>
                 </div>
@@ -148,7 +148,7 @@ const sidebar_4 = () => {
                   >
                     <img
                       src="../img/Podcast/episodes/ep_4/LuisSerrano_WideBanner.png"
-                      alt=""
+                      alt="img"
                     />
                   </a>
                 </div>
@@ -159,7 +159,7 @@ const sidebar_4 = () => {
                   >
                     <img
                       src="../img/Podcast/episodes/ep_4/LuisSerrano_AMA.png"
-                      alt=""
+                      alt="img"
                     />
                   </a>
                 </div>

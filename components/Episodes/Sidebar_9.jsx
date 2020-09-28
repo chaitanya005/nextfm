@@ -9,7 +9,7 @@ const sidebar_7 = () => {
             <div className="post-author-avatar">
               <img
                 src="../img/Podcast/episodes/ep_9/guest/Michael_resize_2.jpg"
-                alt=""
+                alt="guestimage"
               />
             </div>
 

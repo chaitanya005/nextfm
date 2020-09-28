@@ -7,7 +7,10 @@ const Episode_14 = () => {
       <div className="pr-lg-4 mb-100">
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
-            <img src="../img/Podcast/episodes/ep_14/ELI5_1.png" alt="" />
+            <img
+              src="../img/Podcast/episodes/ep_14/ELI5_1.png"
+              alt="episodebanner"
+            />
           </div>
 
           <h4 className="post-title">
@@ -95,7 +98,7 @@ const Episode_14 = () => {
               <a href="/ep13">
                 <img
                   src="../img/Podcast/episodes/ep_13/guest/Rathina2.jpg"
-                  alt=""
+                  alt="guestimage"
                 />
               </a>
             </div>
@@ -111,7 +114,7 @@ const Episode_14 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="">
-                <img src="" alt="" />
+                <img src="" alt="guestimage" />
               </a>
             </div>
             <div className="post-meta">

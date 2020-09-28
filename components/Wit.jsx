@@ -41,7 +41,7 @@ const Witconf = () => {
             >
               <img
                 src="../img/rust_conf/3_wit_resize.jpg"
-                alt=""
+                alt="WIT conf"
                 style={{ borderRadius: "10px" }}
               />
             </div>

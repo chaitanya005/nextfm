@@ -9,7 +9,7 @@ const ep_4 = () => {
             <div className="post-blog-thumbnail mb-30">
               <img
                 src="../img/Podcast/episodes/ep_4/LuisSerrano_WideBanner.png"
-                alt=""
+                alt="Ep4Banner"
               />
             </div>
 
@@ -139,14 +139,14 @@ const ep_4 = () => {
                 <img
                   className="mb-30"
                   src="/img/Podcast/episodes/ep_4/giveaway/LinkedinGiveaway.png"
-                  alt=""
+                  alt="Ep4giveaway"
                 />
               </div>
               <div className="col-6">
                 <img
                   className="mb-30"
                   src="../img/Podcast/episodes/ep_4/giveaway/SwipeSegment.png"
-                  alt=""
+                  alt="giveaway"
                 />
               </div>
             </div>
@@ -154,7 +154,7 @@ const ep_4 = () => {
             <h5>Congratulations to the winners of the Giveaway</h5>
             <img
               src="../img/Podcast/episodes/ep_4/giveaway/Winners.png"
-              alt=""
+              alt="giveawaywinners"
             />
             <br />
             <iframe
@@ -182,7 +182,7 @@ const ep_4 = () => {
             <div className="pager-single-post d-flex align-items-center">
               <div className="post-thumb">
                 <a href="https://open.spotify.com/episode/5RbgqW4hHQTqClSP8xzrOr">
-                  <img src="" alt="" />
+                  <img src="" alt="img" />
                 </a>
               </div>
               <div className="post-meta">
@@ -202,7 +202,7 @@ const ep_4 = () => {
                 <a href="/episodes/ep_5">
                   <img
                     src="../img/Podcast/episodes/ep_5/guest/dp_FrankKane.png"
-                    alt=""
+                    alt="guestimg"
                   />
                 </a>
               </div>

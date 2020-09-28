@@ -8,7 +8,7 @@ const ep_6 = () => {
           <div className="post-blog-thumbnail mb-30">
             <img
               src="../img/Podcast/episodes/ep_8/Unicast_YTBanner.png"
-              alt=""
+              alt="episodebanner"
             />
           </div>
 
@@ -78,7 +78,7 @@ const ep_6 = () => {
               <a href="/episodes/ep_7">
                 <img
                   src="../img/Podcast/episodes/ep_7/guest/Joshua.jpg"
-                  alt=""
+                  alt="guestimg"
                 />
               </a>
             </div>
@@ -95,7 +95,7 @@ const ep_6 = () => {
               <a href="/episodes/ep_9">
                 <img
                   src="../img/Podcast/episodes/ep_9/guest/Michael.jpg"
-                  alt=""
+                  alt="guestimg"
                 />
               </a>
             </div>

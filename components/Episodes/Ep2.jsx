@@ -94,7 +94,7 @@ const ep_7 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="/">
-                <img src="" alt="" />
+                <img src="" alt="img" />
               </a>
             </div>
             <div className="post-meta">
@@ -106,7 +106,7 @@ const ep_7 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="">
-                <img src="" alt="" />
+                <img src="" alt="img" />
               </a>
             </div>
             <div className="post-meta">

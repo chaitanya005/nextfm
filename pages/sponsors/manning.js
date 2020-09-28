@@ -135,7 +135,7 @@ const Rust = () => {
               <div className="pr-lg-4 mb-100">
                 <div className="post-details-content">
                   <div className="post-blog-thumbnail mb-30">
-                    <img src="../img/rust_conf/3_wit.jpg" alt="" />
+                    <img src="../img/rust_conf/3_wit.jpg" alt="wit conf" />
                   </div>
 
                   <h4 className="post-title" id="witconf">

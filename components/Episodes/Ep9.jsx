@@ -8,7 +8,7 @@ const ep_9 = () => {
           <div className="post-blog-thumbnail mb-30">
             <img
               src="../img/Podcast/episodes/ep_9/YouTube_Banner_se.png"
-              alt=""
+              alt="episodebanner"
             />
           </div>
 
@@ -91,7 +91,7 @@ const ep_9 = () => {
             <img
               className="mb-30"
               src="/img/Podcast/episodes/ep_9/giveaway/GiveAway_Banner.png"
-              alt=""
+              alt="giveaway"
             />
           </div>
         </div>
@@ -119,7 +119,10 @@ const ep_9 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="/episodes/ep_8">
-                <img src="../img/Podcast/Exploiting_v2_400s.png" alt="" />
+                <img
+                  src="../img/Podcast/Exploiting_v2_400s.png"
+                  alt="guestimage"
+                />
               </a>
             </div>
             <div className="post-meta">
@@ -133,7 +136,10 @@ const ep_9 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="/episodes/ep_10">
-                <img src="../img/Podcast/Exploiting_v2_400s.png" alt="" />
+                <img
+                  src="../img/Podcast/Exploiting_v2_400s.png"
+                  alt="guestimage"
+                />
               </a>
             </div>
             <div className="post-meta">

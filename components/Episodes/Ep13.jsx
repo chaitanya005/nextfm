@@ -8,7 +8,7 @@ const ep_13 = () => {
           <div class="post-blog-thumbnail mb-30">
             <img
               src="../img/Podcast/episodes/ep_13/youtube_banner.jpg"
-              alt=""
+              alt="episodebanner"
             />
           </div>
 
@@ -88,7 +88,10 @@ const ep_13 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="/episodes/ep_12">
-                <img src="../img/Podcast/Exploiting_v2_400s.png" alt="" />
+                <img
+                  src="../img/Podcast/Exploiting_v2_400s.png"
+                  alt="guestimage"
+                />
               </a>
             </div>
             <div className="post-meta">
@@ -101,7 +104,10 @@ const ep_13 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="/episodes/ep_14">
-                <img src="../img/Podcast/Exploiting_v2_400s.png" alt="" />
+                <img
+                  src="../img/Podcast/Exploiting_v2_400s.png"
+                  alt="guestimage"
+                />
               </a>
             </div>
             <div className="post-meta">

@@ -9,7 +9,7 @@ const sidebar_5 = () => {
             <div className="post-author-avatar">
               <img
                 src="../img/Podcast/episodes/ep_5/guest/dp_FrankKane_resize.png"
-                alt=""
+                alt="guestimage"
               />
             </div>
 
@@ -102,7 +102,7 @@ const sidebar_5 = () => {
                 >
                   <img
                     src="../img/Podcast/episodes/ep_5/EpisodeBanner_Podcast.png"
-                    alt=""
+                    alt="episodebanner"
                   />
                 </a>
               </div>
@@ -113,7 +113,7 @@ const sidebar_5 = () => {
                 >
                   <img
                     src="../img/Podcast/episodes/ep_5/GiveAway/GiveAwayBanner.png"
-                    alt=""
+                    alt="giveaway"
                   />
                 </a>
               </div>
@@ -125,7 +125,7 @@ const sidebar_5 = () => {
                 >
                   <img
                     src="../img/Podcast/episodes/ep_5/YouTube_Banner.png"
-                    alt=""
+                    alt="image"
                   />
                 </a>
               </div>
@@ -136,7 +136,7 @@ const sidebar_5 = () => {
                 >
                   <img
                     src="../img/Podcast/episodes/ep_5/AMA_Frank_Manning.png"
-                    alt=""
+                    alt="image"
                   />
                 </a>
               </div>

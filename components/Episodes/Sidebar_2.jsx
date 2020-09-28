@@ -11,7 +11,7 @@ const sidebar_4 = () => {
               <div className="post-author-avatar">
                 <img
                   src="../img/Podcast/episodes/ep_2/guest/saikiran.jpg"
-                  alt=""
+                  alt="guestimage"
                 />
               </div>
               <div className="post-author-content">

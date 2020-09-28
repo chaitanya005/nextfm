@@ -6,7 +6,10 @@ const ep_5 = () => {
       <div className="pr-lg-4 mb-100">
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
-            <img src="../img/Podcast/episodes/ep_5/YouTube_Banner.png" alt="" />
+            <img
+              src="../img/Podcast/episodes/ep_5/YouTube_Banner.png"
+              alt="episodebanner"
+            />
           </div>
 
           <h4 className="post-title">
@@ -133,7 +136,7 @@ const ep_5 = () => {
               <img
                 className="mb-30"
                 src="../img/Podcast/episodes/ep_5/GiveAway/GiveAwayBanner.png"
-                alt=""
+                alt="giveaway"
               />
             </div>
             <div className="col-6"></div>
@@ -149,7 +152,7 @@ const ep_5 = () => {
               <a href="/episodes/ep_4">
                 <img
                   src="../img/Podcast/episodes/ep_4/guest/luisserrano.jpg"
-                  alt=""
+                  alt="guestimage"
                 />
               </a>
             </div>
