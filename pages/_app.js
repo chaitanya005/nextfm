@@ -46,7 +46,7 @@ function MyApp({ Component, pageProps }) {
         content="https://exploit.chat/img/Podcast/Exploiting_v2_400s.png"
       />
       <meta property="og:url" content="https://exploit.chat" />
-      {/* -----------------Twitter---------------------------- */}
+      {/* -----------------Twitter Tags---------------------------- */}
       <meta name="twitter:card" content="summary" />
 
       {/*The_exploting_podcast_is_a_weekly_show_resonating_by_diving_deep_into_the_exploiting_actions_by_the_incredible_Technical,_and_Business_leaders,_hosted_by_Teja_Kummarikuntla*/}
@@ -61,6 +61,8 @@ function MyApp({ Component, pageProps }) {
         content="https://exploit.chat/img/Podcast/Exploiting_v2_400s.png"
       />
       <title>Exploiting with Teja Kummarikuntla</title>
+      <link rel="canonical" href="http://www.exploit.chat/" />
+
       <link
         rel="apple-touch-icon"
         sizes="57x57"

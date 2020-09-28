@@ -8,11 +8,11 @@ export default function Home() {
         <meta charSet="UTF-8" />
         <meta
           name="description"
-          content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
+          content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
         />
         <meta
           name="keywords"
-          content="Exploiting, Exploit chat, exploit.chat, podcast, Exploiting with Teja Kummarikuntla, Exploiting Podcast, exploiting podcast, the exploiting podcast"
+          content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
         ></meta>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta
@@ -26,7 +26,7 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
+          content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
         />
         <meta
           property="og:image"
@@ -35,7 +35,7 @@ export default function Home() {
         <meta property="og:url" content="https://exploit.chat" />
         <meta
           name="twitter:card"
-          content="A weekly Podcast resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders"
+          content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
         />
 
         <title>Exploiting with Teja Kummarikuntla</title>

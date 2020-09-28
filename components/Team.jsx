@@ -51,7 +51,7 @@ const Team = () => {
                   <a href="https://twitter.com/muvvalachaitan1">
                     <i className="zmdi zmdi-twitter"></i>
                   </a>
-                  <a href="www.linkedin.com/in/chaitanyamuvvala">
+                  <a href="https://linkedin.com/in/chaitanyamuvvala">
                     <i className="zmdi zmdi-linkedin"></i>
                   </a>
                   <a href="https://github.com/chaitanya005">

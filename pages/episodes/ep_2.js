@@ -10,7 +10,9 @@ const Episode12 = () => {
   return (
     <>
       <Head>
-        <title>Unicast: On Chasing Grit With Transformation</title>
+        <title>
+          Saikiran Sondarkar: On Disrupting the Education with LetsUpgrade
+        </title>
 
         <link
           rel="apple-touch-icon"
