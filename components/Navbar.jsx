@@ -148,14 +148,14 @@ class DemoNavbar extends React.Component {
                       color: "#ffffff",
                     }}
                   >
-                    <Link
+                    <NavLink
                       className="nav-link-icon"
                       href="/episodes"
                       id="tooltip356693867"
                       target="_self"
                     >
                       EPISODES
-                    </Link>
+                    </NavLink>
                   </NavItem>
                   <NavItem
                     id="navitems"
@@ -182,7 +182,7 @@ class DemoNavbar extends React.Component {
                       color: "#ffffff",
                     }}
                   >
-                    <Link
+                    <NavLink
                       className="nav-link-icon"
                       href="/team"
                       target="_blank"
@@ -190,7 +190,7 @@ class DemoNavbar extends React.Component {
                       target="_self"
                     >
                       TEAM
-                    </Link>
+                    </NavLink>
                   </NavItem>
                   <NavItem
                     id="navitems"
