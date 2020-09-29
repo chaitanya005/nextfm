@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "postbuild": "node scripts/sitemap.js"
   },
   "dependencies": {
     "@babel/plugin-proposal-do-expressions": "^7.10.4",
@@ -23,6 +24,7 @@
     "@zeit/next-sass": "^1.0.1",
     "bootstrap": "^4.5.2",
     "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1",
     "headroom.js": "^0.11.0",
     "jquery": "^3.5.1",
     "module": "^1.2.5",
