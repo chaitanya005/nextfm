@@ -61,8 +61,7 @@ function MyApp({ Component, pageProps }) {
         content="https://exploit.chat/img/Podcast/Exploiting_v2_400s.png"
       />
       <title>Exploiting with Teja Kummarikuntla</title>
-      <link rel="canonical" href="http://www.exploit.chat/" />
-      <link rel="canonical" href="http://exploit.chat/" />
+      <link rel="canonical" href="exploit.chat/" />
 
       <link
         rel="apple-touch-icon"

@@ -12,9 +12,12 @@ const Episode_12 = () => {
             />
           </div>
 
-          <h4 className="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             Unicast: On Chasing Grit With Transformation
-          </h4>
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">
@@ -48,13 +51,6 @@ const Episode_12 = () => {
             grit has a major intersection with transformation.
           </p>
 
-          <p>
-            Find Rust Conference by Manning Publications on Sept-14, at{" "}
-            <a href="/rust">
-              {" "}
-              <b>exploit.chat/rust</b>{" "}
-            </a>
-          </p>
           <p>
             {" "}
             Join us in Instagram

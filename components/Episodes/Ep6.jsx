@@ -12,9 +12,12 @@ const ep_6 = () => {
             />
           </div>
 
-          <h4 className="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             On How to Transform Your Actions with One Percent Rule
-          </h4>
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">

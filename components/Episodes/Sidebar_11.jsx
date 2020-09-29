@@ -66,7 +66,7 @@ const sidebar_11 = () => {
         </div>
         <div className="single-widget-area">
           <h5 className="widget-title mb-30">Sponsors:</h5>
-          <a href="http://exploit.chat/sponsors/manning" target="_blank">
+          <a href="https://exploit.chat/sponsors/manning" target="_blank">
             <img src="../img/core-img/manning_logo.png" alt="img" />{" "}
           </a>
           <a href="https://talkpython.fm/exploiting" target="_blank">

@@ -12,7 +12,12 @@ const ep_6 = () => {
             />
           </div>
 
-          <h4 className="post-title">Unicast: On Hiking Your On Hike</h4>
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
+            Unicast: On Hiking Your On Hike
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">

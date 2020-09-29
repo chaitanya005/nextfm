@@ -12,10 +12,13 @@ const ep_11 = () => {
             />
           </div>
 
-          <h4 className="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             Miguel Morales: On How Reinforcement Learning Aligned With Human
             Learnings
-          </h4>
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">

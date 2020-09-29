@@ -13,10 +13,13 @@ const ep_4 = () => {
               />
             </div>
 
-            <h4 className="post-title">
+            <h1
+              className="page-title"
+              style={{ lineHeight: "40px", fontSize: "25px" }}
+            >
               Luis Serrano: On Unlocking The Intuition Behind Math and Machine
               Learning
-            </h4>
+            </h1>
 
             <div className="post-meta">
               <a className="post-date">

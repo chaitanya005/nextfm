@@ -13,9 +13,12 @@ const Episode_14 = () => {
             />
           </div>
 
-          <h4 className="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             Unicast | ELI5 ON: Explaining Machine Learning To A Five Year Old
-          </h4>
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">

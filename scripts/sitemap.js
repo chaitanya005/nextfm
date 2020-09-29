@@ -5,7 +5,13 @@ const formatDate = require("./formatDate");
 // ROBOTS.txt
 const robotsTxt = `User-agent: *
 Sitemap: https://exploit.chat/sitemap_local.xml
-Disallow:`;
+Disallow: /AskBhatt/
+Disallow: /AskChan/
+Disallow: /AskMat/
+Disallow: /AskMauro/
+Disallow: /AskNidhi/
+Disallow: /AskPrateek/
+Disallow: /AskRaj/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
 console.log("robots.txt saved!");

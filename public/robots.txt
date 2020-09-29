@@ -1,3 +1,9 @@
 User-agent: *
 Sitemap: https://exploit.chat/sitemap_local.xml
-Disallow:
+Disallow: /AskBhatt/
+Disallow: /AskChan/
+Disallow: /AskMat/
+Disallow: /AskMauro/
+Disallow: /AskNidhi/
+Disallow: /AskPrateek/
+Disallow: /AskRaj/ 

@@ -12,10 +12,13 @@ const ep_7 = () => {
             />
           </div>
 
-          <h4 className="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             Josh Starmer: On Founding StatQuest, and Pivoting Career into
             YouTube | Self-employment
-          </h4>
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">

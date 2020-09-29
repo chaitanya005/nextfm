@@ -9,9 +9,12 @@ const ep_7 = () => {
             <img src="../img/Podcast/episodes/ep_2/YouTube_Banner.png" alt="" />
           </div>
 
-          <h4 className="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             Saikiran Sondarkar: On Disrupting the Education with LetsUpgrade
-          </h4>
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">
@@ -93,9 +96,7 @@ const ep_7 = () => {
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/">
-                <img src="" alt="img" />
-              </a>
+              <a href="/"></a>
             </div>
             <div className="post-meta">
               <a href="" className="post-title"></a>
@@ -105,13 +106,18 @@ const ep_7 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="img" />
+              <a href="/ep4">
+                <img
+                  src="../img/Podcast/episodes/ep_4/guest/luisserrano_resize_2.jpg"
+                  alt="img"
+                />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep4" className="post-title">
+                Luis Serrano
+              </a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

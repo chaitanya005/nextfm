@@ -12,10 +12,13 @@ const ep_5 = () => {
             />
           </div>
 
-          <h4 className="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             Frank Kane: On How to Become a Successful Online Instructor in
             Technology | Self Employment
-          </h4>
+          </h1>
 
           <div className="post-meta">
             <a className="post-date">

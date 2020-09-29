@@ -2,27 +2,33 @@ import React from "react";
 
 const ep_13 = () => {
   return (
-    <div class="col-12 col-lg-8 col-xl-9">
-      <div class="pr-lg-4 mb-100">
-        <div class="post-details-content">
-          <div class="post-blog-thumbnail mb-30">
+    <div className="col-12 col-lg-8 col-xl-9">
+      <div className="pr-lg-4 mb-100">
+        <div className="post-details-content">
+          <div className="post-blog-thumbnail mb-30">
             <img
               src="../img/Podcast/episodes/ep_13/youtube_banner.jpg"
               alt="episodebanner"
             />
           </div>
 
-          <h4 class="post-title">
+          <h1
+            className="page-title"
+            style={{ lineHeight: "40px", fontSize: "25px" }}
+          >
             Rathinamurthy R: On Disrupting The Way Developers Learn | Founding
             Crio.Do
-          </h4>
+          </h1>
 
-          <div class="post-meta">
-            <a class="post-date">
-              <i class="zmdi zmdi-alarm-check"></i> September 14, 2020
+          <div className="post-meta">
+            <a className="post-date">
+              <i className="zmdi zmdi-alarm-check"></i> September 14, 2020
             </a>
-            <a class="post-author" href="https://www.linkedin.com/in/rathina/">
-              <i class="zmdi zmdi-account"></i> Rathinamurthy R
+            <a
+              className="post-author"
+              href="https://www.linkedin.com/in/rathina/"
+            >
+              <i className="zmdi zmdi-account"></i> Rathinamurthy R
             </a>
           </div>
           <div id="Container">
@@ -56,7 +62,7 @@ const ep_13 = () => {
 
           <h4>Episode Highlights</h4>
 
-          <blockquote class="confer-blockquote">
+          <blockquote className="confer-blockquote">
             <h5>
               Skill Building happens most often they ain't when somebody started
               working, Somebody starting doing an internship, is that something
@@ -81,12 +87,12 @@ const ep_13 = () => {
           </a>{" "}
         </p>
 
-        <div class="post-tags-social-area mt-30 pb-5 d-flex flex-wrap align-items-center"></div>
+        <div className="post-tags-social-area mt-30 pb-5 d-flex flex-wrap align-items-center"></div>
         <br />
 
-        <div className="pager-area d-flex align-items-center flex-wrap mb-80">
-          <div className="pager-single-post d-flex align-items-center">
-            <div className="post-thumb">
+        <div classNameName="pager-area d-flex align-items-center flex-wrap mb-80">
+          <div classNameName="pager-single-post d-flex align-items-center">
+            <div classNameName="post-thumb">
               <a href="/episodes/ep_12">
                 <img
                   src="../img/Podcast/Exploiting_v2_400s.png"
@@ -94,15 +100,15 @@ const ep_13 = () => {
                 />
               </a>
             </div>
-            <div className="post-meta">
-              <a href="/episodes/ep_12" className="post-title">
+            <div classNameName="post-meta">
+              <a href="/episodes/ep_12" classNameName="post-title">
                 Teja Kummarikuntla
               </a>
               <span>Previous Post</span>
             </div>
           </div>
-          <div className="pager-single-post d-flex align-items-center">
-            <div className="post-thumb">
+          <div classNameName="pager-single-post d-flex align-items-center">
+            <div classNameName="post-thumb">
               <a href="/episodes/ep_14">
                 <img
                   src="../img/Podcast/Exploiting_v2_400s.png"
@@ -110,8 +116,8 @@ const ep_13 = () => {
                 />
               </a>
             </div>
-            <div className="post-meta">
-              <a href="/ep14" className="post-title">
+            <div classNameName="post-meta">
+              <a href="/ep14" classNameName="post-title">
                 Teja Kummarikuntla
               </a>
               <span>Next Post</span>

@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
           <link
             rel="apple-touch-icon"
@@ -121,6 +121,9 @@ class MyDocument extends Document {
               `,
             }}
           />
+
+          <script src="../js/jquery.min.js"></script>
+          <script src="../js/bootstrap.min.js"></script>
         </Head>
         <body>
           <Main />

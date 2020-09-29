@@ -16,14 +16,21 @@ const About = () => {
                 <h6 className="wow fadeInUp" data-wow-delay="300ms">
                   {" "}
                 </h6>
-                <h3
+                <h1
                   className="wow fadeInUp"
                   data-wow-delay="300ms"
                   id="Host_name"
-                  style={{ fontFamily: "Carter One", fontSize: "30px" }}
+                  style={{
+                    fontFamily: "Carter One",
+                    fontSize: "30px",
+                    color: "#ffffff",
+                    lineHeight: "48px",
+                    marginBottom: "20px",
+                    letterSpacing: "1px",
+                  }}
                 >
                   Exploiting with <br /> Teja Kummarikuntla
-                </h3>
+                </h1>
                 <p className="wow fadeInUp" data-wow-delay="300ms">
                   The Exploiting Podcast is a weekly show with Conversations and
                   Unicasts, Hosted by Teja Kummarikuntla. We resonate by diving
