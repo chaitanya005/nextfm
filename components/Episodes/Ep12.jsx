@@ -93,19 +93,24 @@ const Episode_12 = () => {
               <a href="/ep11" className="post-title">
                 Miguel Morales
               </a>
-              <span>Previous Post</span>
+              <span>Previous Episode</span>
             </div>
           </div>
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="img" />
+              <a href="/ep13">
+                <img
+                  src="../img/Podcast/episodes/ep_13/guest/Rathina2.jpg"
+                  alt="img"
+                />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep13" className="post-title">
+                Rathinamurthy R
+              </a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

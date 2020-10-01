@@ -133,7 +133,7 @@ const ep_11 = () => {
               <a href="/episodes/ep_10" className="post-title">
                 Teja Kummarikuntla
               </a>
-              <span>Previous Post</span>
+              <span>Previous Episode</span>
             </div>
           </div>
           <div className="pager-single-post d-flex align-items-center">
@@ -149,7 +149,7 @@ const ep_11 = () => {
               <a href="/episodes/ep_12" className="post-title">
                 Teja Kummarikuntla
               </a>
-              <span>Next Post</span>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

@@ -90,34 +90,35 @@ const ep_13 = () => {
         <div className="post-tags-social-area mt-30 pb-5 d-flex flex-wrap align-items-center"></div>
         <br />
 
-        <div classNameName="pager-area d-flex align-items-center flex-wrap mb-80">
-          <div classNameName="pager-single-post d-flex align-items-center">
-            <div classNameName="post-thumb">
-              <a href="/episodes/ep12">
+        <div className="pager-area d-flex align-items-center flex-wrap mb-80">
+          <div className="pager-single-post d-flex align-items-center">
+            <div className="post-thumb">
+              <a href="/ep12">
                 <img
                   src="../img/Podcast/Exploiting_v2_400s.png"
                   alt="guestimage"
                 />
               </a>
             </div>
-            <div classNameName="post-meta">
-              <a href="/episodes/ep12" classNameName="post-title">
+            <div className="post-meta">
+              <a href="/ep12" className="post-title">
                 Teja Kummarikuntla
               </a>
               <span>Previous Post</span>
             </div>
           </div>
-          <div classNameName="pager-single-post d-flex align-items-center">
-            <div classNameName="post-thumb">
-              <a href="/episodes/ep14">
+
+          <div className="pager-single-post d-flex align-items-center">
+            <div className="post-thumb">
+              <a href="/ep14">
                 <img
                   src="../img/Podcast/Exploiting_v2_400s.png"
                   alt="guestimage"
                 />
               </a>
             </div>
-            <div classNameName="post-meta">
-              <a href="/ep14" classNameName="post-title">
+            <div className="post-meta">
+              <a href="/ep14" className="post-title">
                 Teja Kummarikuntla
               </a>
               <span>Next Post</span>

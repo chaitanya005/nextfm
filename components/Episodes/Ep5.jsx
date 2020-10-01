@@ -163,7 +163,7 @@ const ep_5 = () => {
               <a href="/episodes/ep4" className="post-title">
                 Luis Serrano
               </a>
-              <span>Previous Post</span>
+              <span>Previous Episode</span>
             </div>
           </div>
 
@@ -177,7 +177,7 @@ const ep_5 = () => {
               <a href="/episodes/ep6" className="post-title">
                 Teja Kummarikuntla
               </a>
-              <span>Next Post</span>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

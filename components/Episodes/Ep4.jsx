@@ -196,7 +196,7 @@ const ep_4 = () => {
                 >
                   Balamurugan SP
                 </a>
-                <span>Previous Post</span>
+                <span>Previous Episode</span>
               </div>
             </div>
 
@@ -213,7 +213,7 @@ const ep_4 = () => {
                 <a href="/episodes/ep5" className="post-title">
                   Frank Kane
                 </a>
-                <span>Next Post</span>
+                <span>Next Episode</span>
               </div>
             </div>
           </div>

@@ -110,14 +110,14 @@ const Episode_14 = () => {
                 Rathinamurthy R
               </a>
 
-              <span>Previous Post</span>
+              <span>Previous Episode</span>
             </div>
           </div>
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="">
-                <img src="" alt="guestimage" />
+                <img src="" alt="" />
               </a>
             </div>
             <div className="post-meta">

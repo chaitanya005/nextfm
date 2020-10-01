@@ -91,7 +91,7 @@ const ep_6 = () => {
               <a href="/episodes/ep7" className="post-title">
                 Josh Starmer
               </a>
-              <span>Previous Post</span>
+              <span>Previous Episode</span>
             </div>
           </div>
 
@@ -108,7 +108,7 @@ const ep_6 = () => {
               <a href="/episodes/ep9" className="post-title">
                 Michael Kennedy
               </a>
-              <span>Next Post</span>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

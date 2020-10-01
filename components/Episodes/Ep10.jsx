@@ -93,7 +93,7 @@ const ep_10 = () => {
               <a href="/ep9" className="post-title">
                 Michael Kennedy
               </a>
-              <span>Previous Post</span>
+              <span>Previous Episode</span>
             </div>
           </div>
 
@@ -111,7 +111,7 @@ const ep_10 = () => {
                 {" "}
                 Miguel Morales
               </a>
-              <span>Next Post</span>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>
