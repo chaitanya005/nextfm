@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import CountUp from "react-countup";
 
 const About = () => {
   return (
@@ -215,14 +216,6 @@ const About = () => {
                   alt="host podcast"
                 />
               </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="countdown-up-area">
-          <div className="container">
-            <div className="row align-items-center">
-              <div className="col-12 col-md-3"></div>
             </div>
           </div>
         </div>

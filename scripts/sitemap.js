@@ -11,7 +11,8 @@ Disallow: /AskMat/
 Disallow: /AskMauro/
 Disallow: /AskNidhi/
 Disallow: /AskPrateek/
-Disallow: /AskRaj/ `;
+Disallow: /AskRaj/
+Disallow: /cal/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
 console.log("robots.txt saved!");

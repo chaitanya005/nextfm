@@ -13,7 +13,7 @@ import "../public/scss/_footer.scss";
 import "../public/scss/_header.scss";
 // import "../public/scss/_heading.scss";
 import "../public/scss/_sponsor.scss";
-// import "../public/scss/_reboot.scss";
+import "../public/scss/_counter.scss";
 
 import "slick-carousel/slick/slick.css";
 // import "tailwindcss/dist/base.min.css";

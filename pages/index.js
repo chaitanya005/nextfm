@@ -40,6 +40,9 @@ export default function Home() {
 
         <link rel="canonical" href="exploit.chat/" />
         <title>Exploiting with Teja Kummarikuntla</title>
+
+        <script src="../js/jquery.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
       </Head>
       <Layout />
 

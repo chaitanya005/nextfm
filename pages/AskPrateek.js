@@ -7,6 +7,7 @@ const Ama1 = () => {
     <div>
       <Head>
         <title>Prateek Narang -Ask Me Anything</title>
+        <link rel="canonical" href="exploit.chat/AskPrateek" />
       </Head>
 
       <Navbar />
