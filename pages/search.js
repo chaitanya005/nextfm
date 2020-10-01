@@ -8,7 +8,7 @@ const episodes = [
     guestName: "Rathinamurthy R",
     description:
       "Something Something Something Something Something Something Something ",
-    url: "/episodes/ep_13",
+    url: "/episodes/ep13",
     date: "Sep 14, 2020",
   },
   {
@@ -17,7 +17,7 @@ const episodes = [
     guestName: "Frank Kane",
     description:
       "Something Something Something Something Something Something Something ",
-    url: "/episodes/ep_5",
+    url: "/episodes/ep5",
     date: "Sep 14, 2020",
   },
 ];

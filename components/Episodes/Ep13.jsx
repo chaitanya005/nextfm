@@ -93,7 +93,7 @@ const ep_13 = () => {
         <div classNameName="pager-area d-flex align-items-center flex-wrap mb-80">
           <div classNameName="pager-single-post d-flex align-items-center">
             <div classNameName="post-thumb">
-              <a href="/episodes/ep_12">
+              <a href="/episodes/ep12">
                 <img
                   src="../img/Podcast/Exploiting_v2_400s.png"
                   alt="guestimage"
@@ -101,7 +101,7 @@ const ep_13 = () => {
               </a>
             </div>
             <div classNameName="post-meta">
-              <a href="/episodes/ep_12" classNameName="post-title">
+              <a href="/episodes/ep12" classNameName="post-title">
                 Teja Kummarikuntla
               </a>
               <span>Previous Post</span>
@@ -109,7 +109,7 @@ const ep_13 = () => {
           </div>
           <div classNameName="pager-single-post d-flex align-items-center">
             <div classNameName="post-thumb">
-              <a href="/episodes/ep_14">
+              <a href="/episodes/ep14">
                 <img
                   src="../img/Podcast/Exploiting_v2_400s.png"
                   alt="guestimage"

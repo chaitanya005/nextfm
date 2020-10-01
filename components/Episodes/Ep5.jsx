@@ -152,7 +152,7 @@ const ep_5 = () => {
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/episodes/ep_4">
+              <a href="/episodes/ep4">
                 <img
                   src="../img/Podcast/episodes/ep_4/guest/luisserrano.jpg"
                   alt="guestimage"
@@ -160,7 +160,7 @@ const ep_5 = () => {
               </a>
             </div>
             <div className="post-meta">
-              <a href="/episodes/ep_4" className="post-title">
+              <a href="/episodes/ep4" className="post-title">
                 Luis Serrano
               </a>
               <span>Previous Post</span>
@@ -169,12 +169,12 @@ const ep_5 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/episodes/ep_6">
+              <a href="/episodes/ep6">
                 <img src="../img/Podcast/Exploiting_v2_400s.png" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/episodes/ep_6" className="post-title">
+              <a href="/episodes/ep6" className="post-title">
                 Teja Kummarikuntla
               </a>
               <span>Next Post</span>

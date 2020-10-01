@@ -22,7 +22,7 @@ const Unicasts = () => {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_14"
+                      href="/episodes/ep14"
                       target="_blank"
                     >
                       Unicast | ELI5 ON: Explaining Machine Learning To A Five
@@ -52,7 +52,7 @@ const Unicasts = () => {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_14" target="_blank">
+                  <a href="/episodes/ep14" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
@@ -75,7 +75,7 @@ const Unicasts = () => {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_12"
+                      href="/episodes/ep12"
                       target="_blank"
                     >
                       Unicast: On Chasing Grit With Transformation
@@ -101,7 +101,7 @@ const Unicasts = () => {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_12" target="_blank">
+                  <a href="/episodes/ep12" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
@@ -124,7 +124,7 @@ const Unicasts = () => {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_10"
+                      href="/episodes/ep10"
                       target="_blank"
                     >
                       Unicast: On Killing ANTs, Automatic Negative Thoughts
@@ -149,7 +149,7 @@ const Unicasts = () => {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_10" target="_blank">
+                  <a href="/episodes/ep10" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
@@ -172,7 +172,7 @@ const Unicasts = () => {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_8"
+                      href="/episodes/ep8"
                       target="_blank"
                     >
                       Unicast: On Hiking Your On Hike
@@ -198,7 +198,7 @@ const Unicasts = () => {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_8" target="_blank">
+                  <a href="/episodes/ep8" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
@@ -221,7 +221,7 @@ const Unicasts = () => {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_5"
+                      href="/episodes/ep6"
                       target="_blank"
                     >
                       Unicast: On How to Transform Your Actions with One Percent
@@ -250,7 +250,7 @@ const Unicasts = () => {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_6" target="_blank">
+                  <a href="/episodes/ep6" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>

@@ -12,7 +12,7 @@ export default function Home() {
         />
         <meta
           name="keywords"
-          content="The Exploiting Podcast is a weekly show resonating by diving deep into the exploiting actions by the incredible Technical, and Business leaders, hosted by Teja Kummarikuntla"
+          content="podcasts, Exploiting, Exploit chat, exploit.chat, podcast, Exploiting with Teja Kummarikuntla, Exploiting Podcast, exploiting podcast, the exploiting podcast, podcasts free online"
         ></meta>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta

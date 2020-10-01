@@ -21,7 +21,7 @@ const Conversations = () => {
                 <div className="single-blog-text text-center">
                   <a
                     className="blog-title"
-                    href="/episodes/ep_13"
+                    href="/episodes/ep13"
                     target="_blank"
                   >
                     Rathinamurthy R: On Disrupting The Way Developers Learn |
@@ -50,7 +50,7 @@ const Conversations = () => {
                 </div>
               </div>
               <div className="blog-btn">
-                <a href="/episodes/ep_13" target="_blank">
+                <a href="/episodes/ep13" target="_blank">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>
@@ -73,7 +73,7 @@ const Conversations = () => {
                 <div className="single-blog-text text-center">
                   <a
                     className="blog-title"
-                    href="/episodes/ep_11"
+                    href="/episodes/ep11"
                     target="_blank"
                   >
                     Miguel Morales: On How Reinforcement Learning Aligned With
@@ -101,7 +101,7 @@ const Conversations = () => {
                 </div>
               </div>
               <div className="blog-btn">
-                <a href="/episodes/ep_11" target="_blank">
+                <a href="/episodes/ep11" target="_blank">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>
@@ -124,7 +124,7 @@ const Conversations = () => {
                 <div className="single-blog-text text-center">
                   <a
                     className="blog-title"
-                    href="/episodes/ep_9"
+                    href="/episodes/ep9"
                     target="_blank"
                   >
                     Michael Kennedy: On Building a Successful Podcast in
@@ -156,7 +156,7 @@ const Conversations = () => {
                 </div>
               </div>
               <div className="blog-btn">
-                <a href="/episodes/ep_9" target="_blank">
+                <a href="/episodes/ep9" target="_blank">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>
@@ -179,7 +179,7 @@ const Conversations = () => {
                 <div className="single-blog-text text-center">
                   <a
                     className="blog-title"
-                    href="/episodes/ep_7"
+                    href="/episodes/ep7"
                     target="_blank"
                   >
                     Josh Starmer: On Founding StatQuest, and Pivoting Career
@@ -207,7 +207,7 @@ const Conversations = () => {
                 </div>
               </div>
               <div className="blog-btn">
-                <a href="/episodes/ep_7" target="_blank">
+                <a href="/episodes/ep7" target="_blank">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>
@@ -230,7 +230,7 @@ const Conversations = () => {
                 <div className="single-blog-text text-center">
                   <a
                     className="blog-title"
-                    href="/episodes/ep_5"
+                    href="/episodes/ep5"
                     target="_blank"
                   >
                     Frank Kane: On How to Become a Successful Online Instructor
@@ -257,7 +257,7 @@ const Conversations = () => {
                 </div>
               </div>
               <div className="blog-btn">
-                <a href="/episodes/ep_5" target="_blank">
+                <a href="/episodes/ep5" target="_blank">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>
@@ -277,7 +277,7 @@ const Conversations = () => {
                   ></iframe>
                 </div>
                 <div className="single-blog-text text-center">
-                  <a className="blog-title" href="/episodes/ep_4">
+                  <a className="blog-title" href="/episodes/ep4">
                     Luis Serrano: On Unlocking The Intuition Behind Math and
                     Machine Learning
                   </a>
@@ -305,7 +305,7 @@ const Conversations = () => {
                 </div>
               </div>
               <div className="blog-btn">
-                <a href="/episodes/ep_4" target="_blank">
+                <a href="/episodes/ep4" target="_blank">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>
@@ -376,7 +376,7 @@ const Conversations = () => {
                   ></iframe>{" "}
                 </div>
                 <div className="single-blog-text text-center">
-                  <a className="blog-title" href="/episodes/ep_2">
+                  <a className="blog-title" href="/episodes/ep2">
                     Saikiran Sondarkar: On Disrupting the Education with
                     LetsUpgrade
                   </a>
@@ -406,7 +406,7 @@ const Conversations = () => {
                 </div>
               </div>
               <div className="blog-btn">
-                <a href="/episodes/ep_2" target="_blank">
+                <a href="/episodes/ep2" target="_blank">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>

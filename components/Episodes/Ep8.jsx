@@ -80,7 +80,7 @@ const ep_6 = () => {
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/episodes/ep_7">
+              <a href="/episodes/ep7">
                 <img
                   src="../img/Podcast/episodes/ep_7/guest/Joshua.jpg"
                   alt="guestimg"
@@ -88,7 +88,7 @@ const ep_6 = () => {
               </a>
             </div>
             <div className="post-meta">
-              <a href="/episodes/ep_7" className="post-title">
+              <a href="/episodes/ep7" className="post-title">
                 Josh Starmer
               </a>
               <span>Previous Post</span>
@@ -97,7 +97,7 @@ const ep_6 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/episodes/ep_9">
+              <a href="/episodes/ep9">
                 <img
                   src="../img/Podcast/episodes/ep_9/guest/Michael.jpg"
                   alt="guestimg"
@@ -105,7 +105,7 @@ const ep_6 = () => {
               </a>
             </div>
             <div className="post-meta">
-              <a href="/episodes/ep_9" className="post-title">
+              <a href="/episodes/ep9" className="post-title">
                 Michael Kennedy
               </a>
               <span>Next Post</span>

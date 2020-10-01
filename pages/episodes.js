@@ -1,9 +1,19 @@
-import React from "react";
+import React, { lazy, Suspense } from "react";
+import dynamic from "next/dynamic";
 import Head from "next/head";
 import Unicasts from "../components/Episodes/Unicasts";
 import Conversations from "../components/Episodes/Conversations";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
+
+// const UnicastsDynamic = dynamic(
+//   () => import("../components/Episodes/Unicasts"),
+//   { loading: () => <h1>loading Episdoes</h1> }
+// );
+// const ConversationsDynamic = dynamic(
+//   () => import("../components/Episodes/Conversations"),
+//   { loading: () => <h1>loading Episdoes</h1> }
+// );
 
 const Episdoes = () => {
   return (
@@ -13,6 +23,7 @@ const Episdoes = () => {
         <link rel="canonical" href="exploit.chat/episodes" />
       </Head>
       <Navbar />
+
       <section
         className="breadcrumb-area bg-img bg-gradient-overlay jarallax"
         id="breadcrumb-area"

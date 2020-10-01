@@ -75,7 +75,7 @@ class Search extends Component {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_13"
+                      href="/episodes/ep13"
                       target="_blank"
                     >
                       {episode.episodeName}
@@ -97,7 +97,7 @@ class Search extends Component {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_13" target="_blank">
+                  <a href="/episodes/ep13" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>

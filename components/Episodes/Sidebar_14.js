@@ -69,8 +69,8 @@ const sidebar_12 = () => {
           </ul>
         </div>
 
-        <div class="single-widget-area">
-          <h5 class="widget-title mb-30">Sponsors:</h5>
+        <div className="single-widget-area">
+          <h5 className="widget-title mb-30">Sponsors:</h5>
           <a href="http://sundog-education.com/" target="_blank">
             <img src="../img/core-img/sundog.png" alt="img" />{" "}
           </a>

@@ -182,7 +182,7 @@ class DemoNavbar extends React.Component {
                       color: "#ffffff",
                     }}
                   >
-                    <NavLink
+                    <Link
                       className="nav-link-icon"
                       href="/team"
                       target="_blank"
@@ -190,7 +190,7 @@ class DemoNavbar extends React.Component {
                       target="_self"
                     >
                       TEAM
-                    </NavLink>
+                    </Link>
                   </NavItem>
                   <NavItem
                     id="navitems"

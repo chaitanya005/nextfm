@@ -36,7 +36,7 @@ const Podcast = () => {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_14"
+                      href="/episodes/ep14"
                       target="_blank"
                     >
                       Unicast | ELI5 ON: Explaining Machine Learning To A Five
@@ -66,7 +66,7 @@ const Podcast = () => {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_14" target="_blank">
+                  <a href="/episodes/ep14" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
@@ -89,7 +89,7 @@ const Podcast = () => {
                   <div className="single-blog-text text-center">
                     <a
                       className="blog-title"
-                      href="/episodes/ep_13"
+                      href="/episodes/ep13"
                       target="_blank"
                     >
                       Rathinamurthy R: On Disrupting The Way Developers Learn |
@@ -118,7 +118,7 @@ const Podcast = () => {
                   </div>
                 </div>
                 <div className="blog-btn">
-                  <a href="/episodes/ep_13" target="_blank">
+                  <a href="/episodes/ep13" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
