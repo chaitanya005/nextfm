@@ -43,6 +43,7 @@ export default function Home() {
 
         <script src="../js/jquery.min.js"></script>
         <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/jquery.counterup.min.js"></script>
       </Head>
       <Layout />
 

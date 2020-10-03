@@ -1,10 +1,11 @@
 import React from "react";
 import Head from "next/head";
 import CountUp from "react-countup";
+// import "./css/app.module.css";
 
 const About = () => {
   return (
-    <>
+    <div>
       <Head></Head>
       <section
         className="about-us-countdown-area section-padding-100-0"
@@ -217,11 +218,178 @@ const About = () => {
                 />
               </div>
             </div>
+            {/*<div className="container" style={{ marginTop: "0px" }}>
+              <div className="row">
+                <div className="col-lg-4 col-md-6">
+                  <div
+                    className="counter"
+                    style={{
+                      padding: "55px 20px",
+                      margin: "65px 0px 30px 0px",
+                      // border: "1px solid white",
+                      textAlign: "center",
+                    }}
+                  >
+                    <CountUp start={0} end={100} delay={0}>
+                      {({ countUpRef }) => (
+                        <div>
+                          <h2
+                            style={{
+                              color: "white",
+                              fontWeight: "400",
+                              lineHeight: "1.8",
+                            }}
+                            ref={countUpRef}
+                          ></h2>
+                        </div>
+                      )}
+                    </CountUp>
+
+                    <p
+                      style={{
+                        color: "white",
+                        letterSpacing: "2px",
+                        lineHeight: "28px",
+                        textAlign: "center",
+                      }}
+                    >
+                      IMPRESSSIONS
+                    </p>
+                  </div>
+                </div>
+                <div className="col-lg-4 col-md-6">
+                  <div
+                    className="counter"
+                    style={{
+                      padding: "55px 20px",
+                      margin: "65px 0px 30px 0px",
+                      // border: "0.5px solid white",
+                      textAlign: "center",
+                    }}
+                  >
+                    <CountUp start={0} end={100} delay={0} duration={10}>
+                      {({ countUpRef }) => (
+                        <div>
+                          <h2
+                            style={{
+                              color: "white",
+                              fontWeight: "400",
+                              lineHeight: "1.8",
+                            }}
+                            ref={countUpRef}
+                          ></h2>
+                        </div>
+                      )}
+                    </CountUp>
+
+                    <p
+                      style={{
+                        color: "white",
+                        letterSpacing: "2px",
+                        lineHeight: "28px",
+                        textAlign: "center",
+                      }}
+                    >
+                      IMPRESSSIONS
+                    </p>
+                  </div>
+                </div>
+
+                <div className="col-lg-4 col-md-6">
+                  <div
+                    className="counter"
+                    style={{
+                      padding: "55px 20px",
+                      margin: "65px 0px 30px 0px",
+                      // border: "1px solid white",
+                      textAlign: "center",
+                    }}
+                  >
+                    <CountUp start={0} end={100} delay={0}>
+                      {({ countUpRef }) => (
+                        <div>
+                          <h2
+                            style={{
+                              color: "white",
+                              fontWeight: "400",
+                              lineHeight: "1.8",
+                            }}
+                            ref={countUpRef}
+                          ></h2>
+                        </div>
+                      )}
+                    </CountUp>
+
+                    <p
+                      style={{
+                        color: "white",
+                        letterSpacing: "2px",
+                        lineHeight: "28px",
+                        textAlign: "center",
+                      }}
+                    >
+                      IMPRESSSIONS
+                    </p>
+                  </div>
+                </div>
+              </div>
+                    </div>*/}
           </div>
         </div>
       </section>
-    </>
+    </div>
   );
 };
 
 export default About;
+
+{
+  /*<div>
+              <p
+                style={{
+                  color: "black",
+                  textAlign: "center",
+                  fontWeight: "600",
+                  backgroundColor: "white",
+                  borderRadius: "10px",
+                  padding: "40px 30px",
+                  margin: "50px 40px",
+                  // marginBottom
+                }}
+              >
+                2000
+              </p>
+            </div>
+            <div>
+              <p
+                style={{
+                  color: "black",
+                  textAlign: "center",
+                  fontWeight: "600",
+                  backgroundColor: "white",
+                  borderRadius: "10px",
+                  padding: "40px 30px",
+                  margin: "50px 30px",
+                  // marginBottom
+                }}
+              >
+                2000
+              </p>
+            </div>
+            <div>
+              <p
+                style={{
+                  color: "black",
+                  textAlign: "center",
+                  fontWeight: "600",
+                  backgroundColor: "white",
+                  borderRadius: "10px",
+                  padding: "40px 30px",
+                  margin: "50px 40px",
+                  // marginBottom
+                }}
+              >
+                2000
+              </p>
+            </div> */
+}

@@ -25,7 +25,7 @@ module.exports = {
     return [
       {
         source: "/newsletter",
-        destination: "https://exploit.substack.com/embed",
+        destination: "https://exploit.substack.com/",
         permanent: false,
       },
       {

@@ -12,7 +12,8 @@ Disallow: /AskMauro/
 Disallow: /AskNidhi/
 Disallow: /AskPrateek/
 Disallow: /AskRaj/
-Disallow: /cal/ `;
+Disallow: /cal/
+Disallow: /AskMarco/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
 console.log("robots.txt saved!");
