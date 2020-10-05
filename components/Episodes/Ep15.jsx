@@ -7,7 +7,7 @@ const ep_15 = () => {
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
             <img
-              src="../img/Podcast/episodes/ep_15/YT_banner.png"
+              src="../img/Podcast/episodes/ep_15/YT_Banner.png"
               alt="episodebanner"
             />
           </div>
