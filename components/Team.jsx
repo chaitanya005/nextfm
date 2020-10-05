@@ -16,7 +16,7 @@ const Team = () => {
                 data-wow-delay="300ms"
               >
                 <div className="speaker-single-thumb">
-                  <img src="img/gif/teja.gif" alt="host" />
+                  <img src="img/team/teja.gif" alt="host" />
                 </div>
                 <div className="social-info">
                   <a href="https://www.instagram.com/tejakummarikuntla/">
@@ -45,7 +45,7 @@ const Team = () => {
                 data-wow-delay="300ms"
               >
                 <div className="speaker-single-thumb">
-                  <img src="img/gif/chaitanya.gif" alt="developer" />
+                  <img src="img/team/chaitanya.gif" alt="developer" />
                 </div>
                 <div className="social-info">
                   <a href="https://twitter.com/muvvalachaitan1">
@@ -71,7 +71,7 @@ const Team = () => {
                 data-wow-delay="300ms"
               >
                 <div className="speaker-single-thumb">
-                  <img src="img/gif/mohan.gif" alt="designer" />
+                  <img src="img/team/mohan.gif" alt="designer" />
                 </div>
                 <div className="social-info">
                   <a href="http://instagram.com/algokun">
@@ -90,6 +90,32 @@ const Team = () => {
                 <div className="speaker-info">
                   <h5>Mohan Talupula</h5>
                   <p>Designer</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-12 col-sm-6 col-lg-4">
+              <div
+                className="single-speaker-area bg-gradient-overlay-2 wow fadeInUp"
+                data-wow-delay="300ms"
+              >
+                <div className="speaker-single-thumb">
+                  <img src="img/team/sanjay.gif" alt="graphicdesigner" />
+                </div>
+                <div className="social-info">
+                  <a href="https://www.instagram.com/sanjaysanjup/">
+                    <i className="zmdi zmdi-instagram"></i>
+                  </a>
+                  <a href="https://www.twitter.com/sanjaysanjup">
+                    <i className="zmdi zmdi-twitter"></i>
+                  </a>
+                  <a href="https://www.linkedin.com/in/sanjay-panaganti-3295221b8">
+                    <i className="zmdi zmdi-linkedin"></i>
+                  </a>
+                </div>
+                <div className="speaker-info">
+                  <h5>Sanjay Panaganti</h5>
+                  <p>Graphic Designer</p>
                 </div>
               </div>
             </div>

@@ -25,6 +25,57 @@ const Podcast = () => {
                 <div className="card-body" data-wow-delay="300ms">
                   <div id="Container">
                     <iframe
+                      src="https://open.spotify.com/embed-podcast/episode/1fl5oVIU7mBd7J7T2FEl5G"
+                      width="100%"
+                      height="232"
+                      frameBorder="0"
+                      allowtransparency="true"
+                      allow="encrypted-media"
+                    ></iframe>
+                  </div>
+                  <div className="single-blog-text text-center">
+                    <a className="blog-title" href="/ep15" target="_blank">
+                      Bob Belderbos: On How To Build and Grow Communities In
+                      Technology | Founding PyBites
+                    </a>
+                    <div className="post-meta">
+                      <a className="post-date">
+                        <i className="zmdi zmdi-alarm-check"></i> Oct 05, 2020
+                      </a>
+                      <a
+                        className="post-author"
+                        href="https://www.linkedin.com/in/bbelderbos/"
+                        target="_blank"
+                      >
+                        <i className="zmdi zmdi-account"></i> Bob Belderbos
+                      </a>
+                    </div>
+                    <p>
+                      Discovering the potential and applying the values for
+                      mutual growth is not just a key-value for sustainable
+                      community development, Into the core, Bob, shared his
+                      personal, professional exploits with all the hustles on
+                      building a learning community in technology. Revealing the
+                      early days of PyBites made this conversation more powerful
+                      for everyone wishing to build and grow a community in
+                      Technology and for everyone wishing to kickstart their
+                      career in programming.
+                    </p>
+                  </div>
+                </div>
+                <div className="blog-btn">
+                  <a href="/episodes/ep15" target="_blank">
+                    <i className="zmdi zmdi-long-arrow-right"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="single-blog-area wow fadeInUp">
+              <div className="card" data-wow-delay="300ms">
+                <div className="card-body" data-wow-delay="300ms">
+                  <div id="Container">
+                    <iframe
                       src="https://open.spotify.com/embed-podcast/episode/1dMZalMRIqBuRjWpzlo0AE"
                       width="100%"
                       height="232"
@@ -67,58 +118,6 @@ const Podcast = () => {
                 </div>
                 <div className="blog-btn">
                   <a href="/episodes/ep14" target="_blank">
-                    <i className="zmdi zmdi-long-arrow-right"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="single-blog-area wow fadeInUp">
-              <div className="card" data-wow-delay="300ms">
-                <div className="card-body" data-wow-delay="300ms">
-                  <div id="Container">
-                    <iframe
-                      src="https://open.spotify.com/embed-podcast/episode/61JyUcCVJv8lDHivX4rrdN"
-                      width="100%"
-                      height="232"
-                      frameBorder="0"
-                      allowtransparency="true"
-                      allow="encrypted-media"
-                    ></iframe>
-                  </div>
-                  <div className="single-blog-text text-center">
-                    <a
-                      className="blog-title"
-                      href="/episodes/ep13"
-                      target="_blank"
-                    >
-                      Rathinamurthy R: On Disrupting The Way Developers Learn |
-                      Founding Crio.Do
-                    </a>
-                    <div className="post-meta">
-                      <a className="post-date">
-                        <i className="zmdi zmdi-alarm-check"></i> Sep 14, 2020
-                      </a>
-                      <a
-                        className="post-author"
-                        href="https://www.linkedin.com/in/rathina/"
-                        target="_blank"
-                      >
-                        <i className="zmdi zmdi-account"></i> Rathinamurthy R
-                      </a>
-                    </div>
-                    <p>
-                      Learning can be real and transformative, only we do also
-                      apply in real-time, “Learning by Doing” into the core,
-                      Rathinamurthy, Co-Founder of Crio.Do, revealed his
-                      experience in the initial days of Crio, and how
-                      engineering graduates and software aspirants can make an
-                      impact on the way they learn.
-                    </p>
-                  </div>
-                </div>
-                <div className="blog-btn">
-                  <a href="/episodes/ep13" target="_blank">
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
