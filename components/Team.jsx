@@ -106,7 +106,7 @@ const Team = () => {
                   <a href="https://www.instagram.com/sanjaysanjup/">
                     <i className="zmdi zmdi-instagram"></i>
                   </a>
-                  <a href="https://www.twitter.com/sanjaysanjup">
+                  <a href="https://www.twitter.com/sanjaysanjupp">
                     <i className="zmdi zmdi-twitter"></i>
                   </a>
                   <a href="https://www.linkedin.com/in/sanjay-panaganti-3295221b8">
