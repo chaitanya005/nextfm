@@ -13,7 +13,8 @@ Disallow: /AskNidhi/
 Disallow: /AskPrateek/
 Disallow: /AskRaj/
 Disallow: /cal/
-Disallow: /AskMarco/ `;
+Disallow: /AskMarco/
+Disallow: /AskHeath/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
 console.log("robots.txt saved!");
