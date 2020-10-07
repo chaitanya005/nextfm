@@ -39,6 +39,16 @@ module.exports = {
         permanent: false,
       },
       {
+        source: "/rcs",
+        destination: "/files/Episode_Release_Terms.pdf",
+        permanent: false,
+      },
+      {
+        source: "/ert",
+        destination: "/files/Exploiting_Recording_Cheat_Sheet.pdf",
+        permanent: false,
+      },
+      {
         source: "/episodes/all",
         destination: "/episodes",
         permanent: false,
