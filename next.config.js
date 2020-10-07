@@ -39,12 +39,12 @@ module.exports = {
         permanent: false,
       },
       {
-        source: "/rcs",
+        source: "/ert",
         destination: "/files/Episode_Release_Terms.pdf",
         permanent: false,
       },
       {
-        source: "/ert",
+        source: "/rcs",
         destination: "/files/Exploiting_Recording_Cheat_Sheet.pdf",
         permanent: false,
       },
