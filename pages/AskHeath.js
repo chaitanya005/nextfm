@@ -7,7 +7,6 @@ const Ama1 = () => {
     <div>
       <Head>
         <title>Heath Slawner -Ask Me Anything </title>
-        <link rel="canonical" href="exploit.chat/AskChan" />
       </Head>
 
       <Navbar />

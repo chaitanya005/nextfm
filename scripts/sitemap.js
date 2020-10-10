@@ -14,6 +14,8 @@ Disallow: /AskPrateek/
 Disallow: /AskRaj/
 Disallow: /cal/
 Disallow: /AskMarco/
+Disallow: /AskLerner/
+Disallow: /AskPaul/
 Disallow: /AskHeath/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
