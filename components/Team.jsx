@@ -19,16 +19,16 @@ const Team = () => {
                   <img src="img/team/teja.gif" alt="host" />
                 </div>
                 <div className="social-info">
-                  <a href="https://www.instagram.com/tejakummarikuntla/">
+                  <a target = "_blank" href="https://www.instagram.com/tejakummarikuntla/">
                     <i className="zmdi zmdi-instagram"></i>
                   </a>
-                  <a href="https://www.linkedin.com/in/tejakummarikuntla">
+                  <a target = "_blank" href="https://www.linkedin.com/in/tejakummarikuntla">
                     <i className="zmdi zmdi-linkedin"></i>
                   </a>
-                  <a href="hhttps://twitter.com/tejakkuntla">
+                  <a target = "_blank" href="hhttps://twitter.com/tejakkuntla">
                     <i className="zmdi zmdi-twitter"></i>
                   </a>
-                  <a href="https://github.com/tejakummarikuntla/">
+                  <a target = "_blank" href="https://github.com/tejakummarikuntla/">
                     <i className="zmdi zmdi-github"></i>
                   </a>
                 </div>
@@ -48,13 +48,16 @@ const Team = () => {
                   <img src="img/team/chaitanya.gif" alt="developer" />
                 </div>
                 <div className="social-info">
-                  <a href="https://twitter.com/muvvalachaitan1">
+                <a target = "_blank" href="https://www.instagram.com/kchaitanyamuvvala/">
+                    <i className="zmdi zmdi-instagram"></i>
+                  </a>
+                  <a target = "_blank" href="https://twitter.com/kcmuvvala">
                     <i className="zmdi zmdi-twitter"></i>
                   </a>
-                  <a href="https://linkedin.com/in/chaitanyamuvvala">
+                  <a target = "_blank" href="https://linkedin.com/in/chaitanyamuvvala">
                     <i className="zmdi zmdi-linkedin"></i>
                   </a>
-                  <a href="https://github.com/chaitanya005">
+                  <a target = "_blank" href="https://github.com/chaitanya005">
                     <i className="zmdi zmdi-github"></i>
                   </a>
                 </div>
@@ -74,16 +77,16 @@ const Team = () => {
                   <img src="img/team/mohan.gif" alt="designer" />
                 </div>
                 <div className="social-info">
-                  <a href="http://instagram.com/algokun">
+                  <a target = "_blank" href="http://instagram.com/algokun">
                     <i className="zmdi zmdi-instagram"></i>
                   </a>
-                  <a href="https://www.twitter.com/algokun">
+                  <a target = "_blank" href="https://www.twitter.com/algokun">
                     <i className="zmdi zmdi-twitter"></i>
                   </a>
-                  <a href="https://www.linkedin.com/in/mohantalupula">
+                  <a target = "_blank" href="https://www.linkedin.com/in/mohantalupula">
                     <i className="zmdi zmdi-linkedin"></i>
                   </a>
-                  <a href="http://github.com/algokun">
+                  <a target = "_blank" href="http://github.com/algokun">
                     <i className="zmdi zmdi-github"></i>
                   </a>
                 </div>
@@ -103,13 +106,13 @@ const Team = () => {
                   <img src="img/team/sanjay.gif" alt="graphicdesigner" />
                 </div>
                 <div className="social-info">
-                  <a href="https://www.instagram.com/sanjaysanjup/">
+                  <a target = "_blank" href="https://www.instagram.com/sanjaysanjup/">
                     <i className="zmdi zmdi-instagram"></i>
                   </a>
-                  <a href="https://www.twitter.com/sanjaysanjupp">
+                  <a target = "_blank" href="https://www.twitter.com/sanjaysanjupp">
                     <i className="zmdi zmdi-twitter"></i>
                   </a>
-                  <a href="https://www.linkedin.com/in/sanjay-panaganti-3295221b8">
+                  <a target = "_blank" href="https://www.linkedin.com/in/sanjay-panaganti-3295221b8">
                     <i className="zmdi zmdi-linkedin"></i>
                   </a>
                 </div>
