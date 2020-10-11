@@ -25,7 +25,7 @@ const Team = () => {
                   <a target = "_blank" href="https://www.linkedin.com/in/tejakummarikuntla">
                     <i className="zmdi zmdi-linkedin"></i>
                   </a>
-                  <a target = "_blank" href="hhttps://twitter.com/tejakkuntla">
+                  <a target = "_blank" href="https://twitter.com/tejakkuntla">
                     <i className="zmdi zmdi-twitter"></i>
                   </a>
                   <a target = "_blank" href="https://github.com/tejakummarikuntla/">
