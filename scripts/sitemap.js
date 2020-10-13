@@ -16,6 +16,7 @@ Disallow: /cal/
 Disallow: /AskMarco/
 Disallow: /AskLerner/
 Disallow: /AskPaul/
+Disallow: /AskBoris/
 Disallow: /AskHeath/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
