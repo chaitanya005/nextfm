@@ -1,6 +1,6 @@
 import React from "react";
 
-const sidebar_15 = () => {
+const sidebar_16 = () => {
   return (
     <div className="col-12 col-md-6 col-lg-4 col-xl-3">
       <div className="confer-sidebar-area mb-100">
@@ -8,21 +8,21 @@ const sidebar_15 = () => {
           <div className="post-author-widget">
             <div className="post-author-avatar">
               <img
-                src="../img/Podcast/episodes/ep_15/guest/bob.jpg"
+                src="../img/Podcast/episodes/ep_16/guest/paul_resize.jpg"
                 alt="guestimage"
               />
             </div>
 
             <div className="post-author-content">
-              <h5> Bob Belderbos </h5>
-              <span>Co-Founder, PyBites</span>
+              <h5> Paul Orland </h5>
+              <span>Founder, Tachyus</span>
             </div>
 
             <div className="author-social-info">
-              <a target="_balnk" href="https://twitter.com/bbelderbos">
+              <a target="_balnk" href="https://twitter.com/orlandpm?lang=en">
                 <i className="zmdi zmdi-twitter"></i>
               </a>
-              <a target="_balnk" href="https://www.linkedin.com/in/bbelderbos/">
+              <a target="_balnk" href="https://www.linkedin.com/in/paul-orland-4b293a58/">
                 <i className="zmdi zmdi-linkedin"></i>
               </a>
             </div>
@@ -34,14 +34,14 @@ const sidebar_15 = () => {
 
           <ul className="tag-cloud">
             <li>
-              <a target="_blank" href="https://youtu.be/4uE1xTHPl5U">
+              <a target="_blank" href="https://www.youtube.com/watch?v=Su8bDx9leMA">
                 YouTube
               </a>
             </li>
             <li>
               <a
                 target="_blank"
-                href="https://open.spotify.com/episode/1fl5oVIU7mBd7J7T2FEl5G"
+                href="https://open.spotify.com/episode/504XRCzLkqFFovqnX876ji"
               >
                 Spotify
               </a>
@@ -49,7 +49,7 @@ const sidebar_15 = () => {
             <li>
               <a
                 target="_blank"
-                href="https://podcasts.apple.com/us/podcast/bob-belderbos-on-how-to-build-grow-communities-in-technology/id1517209695?i=1000493602536"
+                href="https://podcasts.apple.com/us/podcast/paul-orland-on-applying-machine-learning-in-oil-gas/id1517209695?i=1000494373901"
               >
                 Apple Podcast
               </a>
@@ -57,7 +57,7 @@ const sidebar_15 = () => {
             <li>
               <a
                 target="_blank"
-                href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZmVmMmI1Yy9wb2RjYXN0L3Jzcw/episode/OGQ0ODNkZmYtMTlkMS00MjgxLWI2MjQtNzNlYTQ5NDMyZDU2?sa=X&ved=2ahUKEwi4pIPd3ZzsAhWY4XMBHaWwCcgQkfYCegQIARAF"
+                href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZmVmMmI1Yy9wb2RjYXN0L3Jzcw/episode/ZGIwYmUzMDUtYzNiNy00ZTEzLTk3M2MtY2RmYWM0NWY4OTMw?sa=X&ved=2ahUKEwi5h_D077DsAhVKJrcAHdp_DD0QkfYCegQIARAF"
               >
                 Google Podcast
               </a>
@@ -66,8 +66,8 @@ const sidebar_15 = () => {
         </div>
         <div className="single-widget-area">
           <h5 className="widget-title mb-30">Sponsors:</h5>
-          <a href="https://talkpython.fm/exploiting" target="_blank">
-            <img src="../img/core-img/TalkPython.png" alt="img" />{" "}
+          <a href="http://sundog-education.com/" target="_blank">
+            <img src="../img/core-img/sundog.png" alt="img" />{" "}
           </a>
         </div>
         <div className="single-widget-area">
@@ -96,4 +96,4 @@ const sidebar_15 = () => {
   );
 };
 
-export default sidebar_15;
+export default sidebar_16;

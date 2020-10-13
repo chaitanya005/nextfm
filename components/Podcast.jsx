@@ -21,6 +21,48 @@ const Podcast = () => {
             </div>
 
             <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/504XRCzLkqFFovqnX876ji"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a className="blog-title" href="/ep16">
+                  Paul Orland: On Applying Machine Learning in Oil and Gas Industry | Founding Tachyus
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> Oct 11, 2020
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/paul-orland-4b293a58/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Paul Orland
+                    </a>
+                  </div>
+                  <p>
+                  My only lesson out of fun raising is like, be fundraising when you company is in a great situation and you don't need to fund raise, if you need to fund raise, it will be unpleasant, If I ever start an other company from scratch, I'll make sure to get some traction get a product that really as product market fit, have a small core team that isn't burning all of that money and then go raise money to accelerate not just to stay alive 
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep16">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+            <div className="single-blog-area wow fadeInUp">
               <div className="card" data-wow-delay="300ms">
                 <div className="card-body" data-wow-delay="300ms">
                   <div id="Container">
@@ -71,58 +113,7 @@ const Podcast = () => {
               </div>
             </div>
 
-            <div className="single-blog-area wow fadeInUp">
-              <div className="card" data-wow-delay="300ms">
-                <div className="card-body" data-wow-delay="300ms">
-                  <div id="Container">
-                    <iframe
-                      src="https://open.spotify.com/embed-podcast/episode/1dMZalMRIqBuRjWpzlo0AE"
-                      width="100%"
-                      height="232"
-                      frameBorder="0"
-                      allowtransparency="true"
-                      allow="encrypted-media"
-                    ></iframe>
-                  </div>
-                  <div className="single-blog-text text-center">
-                    <a
-                      className="blog-title"
-                      href="/episodes/ep14"
-                      target="_blank"
-                    >
-                      Unicast | ELI5 ON: Explaining Machine Learning To A Five
-                      Year Old
-                    </a>
-                    <div className="post-meta">
-                      <a className="post-date">
-                        <i className="zmdi zmdi-alarm-check"></i> Sep 28, 2020
-                      </a>
-                      <a
-                        className="post-author"
-                        href="https://www.linkedin.com/in/tejakummarikuntla/"
-                        target="_blank"
-                      >
-                        <i className="zmdi zmdi-account"></i> Teja Kummarikuntla
-                      </a>
-                    </div>
-                    <p>
-                      ELI5: Explain Like I’m Five Year Old, More than anything
-                      we learn, the actual intuition frames up stronger when we
-                      could deliver to a 5-year-old. In this Unicast of ELI5,
-                      amplifying the content from the Book Grokking Machine
-                      Learning, Beautifully Unfolded the intuition behind
-                      Predictions and Machine learning with a cute story of a
-                      kid.
-                    </p>
-                  </div>
-                </div>
-                <div className="blog-btn">
-                  <a href="/episodes/ep14" target="_blank">
-                    <i className="zmdi zmdi-long-arrow-right"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
+           
           </div>
         </div>
 

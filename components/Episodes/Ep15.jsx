@@ -36,7 +36,7 @@ const ep_15 = () => {
               src="https://open.spotify.com/embed-podcast/episode/1fl5oVIU7mBd7J7T2FEl5G"
               width="100%"
               height="232"
-              frameborder="0"
+              frameBorder="0"
               allowtransparency="true"
               allow="encrypted-media"
             ></iframe>
@@ -98,19 +98,19 @@ const ep_15 = () => {
               <a href="/ep14" className="post-title">
                 Teja Kummarikuntla
               </a>
-              <span>Previous Post</span>
+              <span>Previous Episode</span>
             </div>
           </div>
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/">
-                <img src="" alt="" />
+              <a href="/ep16">
+                <img src="../img/Podcast/episodes/ep_16/guest/paul_resize.jpg" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/" className="post-title"></a>
-              <span></span>
+              <a href="/ep16" className="post-title">Paul Orland</a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

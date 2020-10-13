@@ -54,6 +54,11 @@ module.exports = {
         permanent: false,
       },
       {
+        source: "/ep16",
+        destination: "/episodes/ep16",
+        permanent: false,
+      },
+      {
         source: "/ep15",
         destination: "/episodes/ep15",
         permanent: false,

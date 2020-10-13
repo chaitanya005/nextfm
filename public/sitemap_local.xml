@@ -7,8 +7,14 @@
     <loc>https://exploit.chat/AskChan</loc>
     <lastmod>2020-09-29</lastmod>
   </url>,<url>
+    <loc>https://exploit.chat/AskHeath</loc>
+    <lastmod>2020-10-10</lastmod>
+  </url>,<url>
+    <loc>https://exploit.chat/AskLerner</loc>
+    <lastmod>2020-10-10</lastmod>
+  </url>,<url>
     <loc>https://exploit.chat/AskMarco</loc>
-    <lastmod>2020-10-03</lastmod>
+    <lastmod>2020-10-10</lastmod>
   </url>,<url>
     <loc>https://exploit.chat/AskMat</loc>
     <lastmod>2020-09-29</lastmod>
@@ -18,6 +24,9 @@
   </url>,<url>
     <loc>https://exploit.chat/AskNidhi</loc>
     <lastmod>2020-09-29</lastmod>
+  </url>,<url>
+    <loc>https://exploit.chat/AskPaul</loc>
+    <lastmod>2020-10-10</lastmod>
   </url>,<url>
     <loc>https://exploit.chat/AskPrateek</loc>
     <lastmod>2020-09-30</lastmod>
@@ -42,6 +51,12 @@
   </url>,<url>
     <loc>https://exploit.chat/episodes/ep14</loc>
     <lastmod>2020-09-29</lastmod>
+  </url>,<url>
+    <loc>https://exploit.chat/episodes/ep15</loc>
+    <lastmod>2020-10-05</lastmod>
+  </url>,<url>
+    <loc>https://exploit.chat/episodes/ep16</loc>
+    <lastmod>2020-10-13</lastmod>
   </url>,<url>
     <loc>https://exploit.chat/episodes/ep2</loc>
     <lastmod>2020-09-29</lastmod>

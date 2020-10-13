@@ -8,4 +8,7 @@ Disallow: /AskNidhi/
 Disallow: /AskPrateek/
 Disallow: /AskRaj/
 Disallow: /cal/
-Disallow: /AskMarco/ 
+Disallow: /AskMarco/
+Disallow: /AskLerner/
+Disallow: /AskPaul/
+Disallow: /AskHeath/ 
