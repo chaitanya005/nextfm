@@ -50,7 +50,7 @@ const Podcast = () => {
                     </a>
                   </div>
                   <p>
-                  My only lesson out of fun raising is like, be fundraising when you company is in a great situation and you don't need to fund raise, if you need to fund raise, it will be unpleasant, If I ever start an other company from scratch, I'll make sure to get some traction get a product that really as product market fit, have a small core team that isn't burning all of that money and then go raise money to accelerate not just to stay alive 
+                  Taking time to introspect and reflect back on our thoughts and emphasizing our inner passion and true purpose’s voice could lead your path in a way that could have a massive impact on you and others, Paul Orland on The Exploiting Podcast, revealed his pivoting and exploiting moment from Microsoft to his initiative Tachyus, a company eases the optimization of Oil and Gas Production, Sharing his initial days and 7 biggest lessons from past 7 years made this conversation with Teja Kummarikuntla more powerful, His thought process behind taking actions on rising venture capitals or customer acquisition and even about being pragmatics about Pandemic in business made the conversation loaded with value and fun
                   </p>
                 </div>
               </div>

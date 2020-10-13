@@ -8,7 +8,7 @@ const sidebar_16 = () => {
           <div className="post-author-widget">
             <div className="post-author-avatar">
               <img
-                src="../img/Podcast/episodes/ep_16/guest/paul_resize.jpg"
+                src="../img/Podcast/episodes/ep_16/guest/paulorland__Square.jpg"
                 alt="guestimage"
               />
             </div>

@@ -105,7 +105,7 @@ const ep_15 = () => {
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
               <a href="/ep16">
-                <img src="../img/Podcast/episodes/ep_16/guest/paul_resize.jpg" alt="" />
+                <img src="../img/Podcast/episodes/ep_16/guest/paulorland__Square.jpg" alt="" />
               </a>
             </div>
             <div className="post-meta">
