@@ -11,6 +11,48 @@ const Conversations = () => {
               <div className="card-body" data-wow-delay="300ms">
                 <div id="Container">
                   <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/3y1dFVjwTUJHdg5LyXk1vt"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a className="blog-title" href="/ep17">
+                  Todd McLeod: On How to Become Healthier, Wealthier and Happier
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> Oct 19, 2020
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/tamcleod/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Todd McLeod
+                    </a>
+                  </div>
+                  <p>
+                  What's a true fulfillment mean to a human?, is that Knowledge, Money, or fame, or something beyond that? or something which is always with us? Identifying the true potential and purpose of an individual and letting that purpose become the passion with a lot of wisdom can be a life-changing fulfillment. Todd and Teja spoke about the incredible journey of becoming Healthier, Wealthier, and Happier.
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep17">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+        <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
                     src="https://open.spotify.com/embed-podcast/episode/504XRCzLkqFFovqnX876ji"
                     width="100%"
                     height="232"
