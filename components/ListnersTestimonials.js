@@ -63,8 +63,12 @@ const ControlButton = styled.button`
 export default ({
   subheading = "",
   heading = "Testimonials",
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   testimonials = [
+    {
+      customerName: "Julian Sequeira",
+      quote:
+        "This was a great listen. I thoroughly enjoy Teja's interview style. He brings such wonderful energy, enthusiasm, and passion to the conversation. As I listened I felt like I was in the room with both he and Bob. Can't wait to go through previous episodes now mate. Thanks for the effort you clearly put into your episodes!",
+    },
     {
       customerName: "Pragarthi muthukumar ",
       quote:
@@ -76,6 +80,11 @@ export default ({
         "Teja is an excellent speaker and always a joy to listen. He has insightful perspectives and brings in a catalog of interesting conversations. A perfect mix of - Technology, Humour and Experience. The points raised over each episode are highly succinct. The podcast has ample of real life examples, resources and learning. Eagerly looking forward to the next ones. DEFINITELY worth a listen!",
     },
     {
+      customerName: "Monisha Damodaran",
+      quote:
+        "Teja is always passionate about exploring and  learning new things. Seizing every opportunity in his way is one of the most valuable traits he has got. It is very evident that discipline and dedication towards his work has enabled him to create this podcast. Each and every episode is distinct and interesting. Choosing the good questions makes this podcast more informative. I was excited when one of my favourite guests was invited. I thoroughly enjoyed listening to it.  I will never miss to listen 'EXPLOITING'. Thank You for giving us quality contents through this podcast.  ",
+    },
+    {
       customerName: "Sai Sumanth",
       quote:
         "A Worthwhile Listen!! Greatly enjoyed Teja's perspective of exploring the Tech. A top-shelf podcast with a clear and concise matter. The way you deal with guests is impressive. Thank you for all your efforts and for providing good content. ",
@@ -84,6 +93,11 @@ export default ({
       customerName: "Sruthi",
       quote:
         "I can say with no doubt that The Exploiting Podcast is really wonderful, the conversations are absolutely interesting, informative and entertaining,  I could see Teja's in-depth homework for all the podcast as it turns out very professional when we listen, keep doing this, best wishes. ",
+    },
+    {
+      customerName: "Suchismita Chakraborti",
+      quote:
+        "By far one of the best podcasts I have ever heard. Always a great time to listen to Exploit Chat. Keep doing what you do and make the world a better place. More power. ",
     },
     {
       customerName: "Anonymous",

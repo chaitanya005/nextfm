@@ -73,7 +73,7 @@ const ep_17 = () => {
             </div>
             <div className="post-meta">
               <a href="/ep16" className="post-title">
-              Paul Orland
+                Paul Orland
               </a>
               <span>Previous Episode</span>
             </div>
@@ -81,13 +81,15 @@ const ep_17 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/">
-                <img src="" alt="" />
+              <a href="/ep18">
+                <img src="../img/Podcast/Exploiting_v2_400s.png" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/" className="post-title"></a>
-              <span></span>
+              <a href="/ep18" className="post-title">
+                Teja Kummarikuntla
+              </a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

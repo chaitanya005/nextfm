@@ -101,6 +101,13 @@ export default ({
       quote:
         "Great podcast with interesting guests and an original approach. Looking forward to further collaboration",
     },
+    {
+      customerName: "Todd McLeod",
+      customerProfile: "Founder, Greater Commons",
+      imageSrc: "../img/Podcast/episodes/ep_17/guest/Tod_Square.jpg",
+      quote:
+        "Teja's podcast is inspiring. His quest for truth, wisdom, and personal growth are valuable to all. It is a joy to listen to his conversations with others about the different ways to best live one's life.",
+    },
   ],
 }) => {
   const [sliderRef, setSliderRef] = useState(null);

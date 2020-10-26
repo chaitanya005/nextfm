@@ -200,9 +200,10 @@ class DemoNavbar extends React.Component {
                   >
                     <Link
                       className="nav-link-icon"
-                      href="/sponsor"
+                      href="https://form.typeform.com/to/TFQwzKux"
                       id="tooltip112445449"
                       style={{ color: "white" }}
+                      target = "_blank"
                     >
                       SUPPORT US
                     </Link>

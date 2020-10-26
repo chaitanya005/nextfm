@@ -20,7 +20,55 @@ const Podcast = () => {
               </div>
             </div>
 
-
+            <div className="single-blog-area wow fadeInUp">
+              <div className="card" data-wow-delay="300ms">
+                <div className="card-body" data-wow-delay="300ms">
+                  <div id="Container">
+                    <iframe
+                      src="https://open.spotify.com/embed-podcast/episode/5ZIMIbEKrit43dS2MjYfTr"
+                      width="100%"
+                      height="232"
+                      frameBorder="0"
+                      allowtransparency="true"
+                      allow="encrypted-media"
+                    ></iframe>
+                  </div>
+                  <div className="single-blog-text text-center">
+                    <a
+                      className="blog-title"
+                      href="/episodes/ep18"
+                      target="_blank"
+                    >
+                      Unicast: On Bursting The Brain Biases and BRules
+                    </a>
+                    <div className="post-meta">
+                      <a className="post-date">
+                        <i className="zmdi zmdi-alarm-check"></i> Oct  26, 2020
+                      </a>
+                      <a
+                        className="post-author"
+                        href="https://www.linkedin.com/in/tejakummarikuntla/"
+                        target="_blank"
+                      >
+                        <i className="zmdi zmdi-account"></i> Teja Kummarikuntla
+                      </a>
+                    </div>
+                    <p>
+                      The most significant types of thinking we adopt from friends, family, and society 
+                      are typically biased by the rules that have been created by people and the culture 
+                      scape; putting those rules into execution may end up in a lack of fulfillment, 
+                      figuring out and knowing what rules to follow and what rules to break can make you 
+                      empowered with a Purpose.
+                    </p>
+                  </div>
+                </div>
+                <div className="blog-btn">
+                  <a href="/episodes/ep18" target="_blank">
+                    <i className="zmdi zmdi-long-arrow-right"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
             <div className="single-blog-area wow fadeInUp">
             <div className="card" data-wow-delay="300ms">
               <div className="card-body" data-wow-delay="300ms">
@@ -63,47 +111,7 @@ const Podcast = () => {
             </div>
           </div>
 
-            <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/504XRCzLkqFFovqnX876ji"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a className="blog-title" href="/ep16">
-                  Paul Orland: On Applying Machine Learning in Oil and Gas Industry | Founding Tachyus
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> Oct 11, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/paul-orland-4b293a58/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Paul Orland
-                    </a>
-                  </div>
-                  <p>
-                  Taking time to introspect and reflect back on our thoughts and emphasizing our inner passion and true purpose’s voice could lead your path in a way that could have a massive impact on you and others, Paul Orland on The Exploiting Podcast, revealed his pivoting and exploiting moment from Microsoft to his initiative Tachyus, a company eases the optimization of Oil and Gas Production, Sharing his initial days and 7 biggest lessons from past 7 years made this conversation with Teja Kummarikuntla more powerful, His thought process behind taking actions on rising venture capitals or customer acquisition and even about being pragmatics about Pandemic in business made the conversation loaded with value and fun
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep16">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div>
+           
 
             
            

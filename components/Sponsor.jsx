@@ -83,7 +83,7 @@ const Sponsor = () => {
           </div>
         </div>
       </div>
-      <a href="/sponsor" className="btn-2">
+      <a href="https://form.typeform.com/to/TFQwzKux" className="btn-2" target = "_blank">
         BECOME A SPONSOR
       </a>
 
