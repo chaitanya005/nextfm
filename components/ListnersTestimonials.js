@@ -65,6 +65,11 @@ export default ({
   heading = "Testimonials",
   testimonials = [
     {
+      customerName: "Monisha Damodaran",
+      quote:
+        "Teja is always passionate about exploring and  learning new things. Seizing every opportunity in his way is one of the most valuable traits he has got. It is very evident that discipline and dedication towards his work has enabled him to create this podcast. Each and every episode is distinct and interesting. Choosing the good questions makes this podcast more informative. I was excited when one of my favourite guests was invited. I thoroughly enjoyed listening to it.  I will never miss to listen 'EXPLOITING'. Thank You for giving us quality contents through this podcast.  ",
+    },
+    {
       customerName: "Julian Sequeira",
       quote:
         "This was a great listen. I thoroughly enjoy Teja's interview style. He brings such wonderful energy, enthusiasm, and passion to the conversation. As I listened I felt like I was in the room with both he and Bob. Can't wait to go through previous episodes now mate. Thanks for the effort you clearly put into your episodes!",
@@ -78,11 +83,6 @@ export default ({
       customerName: "Jyothirmai Thimmaraju",
       quote:
         "Teja is an excellent speaker and always a joy to listen. He has insightful perspectives and brings in a catalog of interesting conversations. A perfect mix of - Technology, Humour and Experience. The points raised over each episode are highly succinct. The podcast has ample of real life examples, resources and learning. Eagerly looking forward to the next ones. DEFINITELY worth a listen!",
-    },
-    {
-      customerName: "Monisha Damodaran",
-      quote:
-        "Teja is always passionate about exploring and  learning new things. Seizing every opportunity in his way is one of the most valuable traits he has got. It is very evident that discipline and dedication towards his work has enabled him to create this podcast. Each and every episode is distinct and interesting. Choosing the good questions makes this podcast more informative. I was excited when one of my favourite guests was invited. I thoroughly enjoyed listening to it.  I will never miss to listen 'EXPLOITING'. Thank You for giving us quality contents through this podcast.  ",
     },
     {
       customerName: "Sai Sumanth",
