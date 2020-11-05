@@ -51,7 +51,7 @@ const Witconf = () => {
               className="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp"
               data-wow-delay="300ms"
             >
-              <a className="btn confer-btn" href="http://mng.bz/GdQM">
+              <a className="btn confer-btn" href="http://mng.bz/GdQM" target = "_blank">
                 Register Here <i className="zmdi zmdi-long-arrow-right"></i>
               </a>
             </div>
