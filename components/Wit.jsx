@@ -22,14 +22,13 @@ const Witconf = () => {
                   textTransform: "none",
                 }}
               >
-                <b id="conf">Women in Tech: live@Manning conferences</b>
+                <b id="conf">Math for Data Science: live@Manning conferences</b>
               </h3>
               <p className="wow fadeInUp" data-wow-delay="300ms">
-                When the girls get coding!. Join us on your screens, Oct 13, for
-                the live@Manning “Women in Tech” conference to celebrate the
-                rising movement of women in technology We still have a long way
-                to go to achieve diversity, inclusion and equality in
-                technology.
+              Securing a job in data science, AI, machine learning, cryptography, and other programming 
+              fields requires strong math skills. <br />
+              Register for <b>FREE</b> to the Math for Data Science conference, 
+              <b><i> Nov 17th</i></b>, a unique chance to learn from statisticians and math masters
               </p>
             </div>
           </div>
@@ -40,8 +39,8 @@ const Witconf = () => {
               data-wow-delay="300ms"
             >
               <img
-                src="../img/rust_conf/3_wit_resize.jpg"
-                alt="WIT conf"
+                src="../img/rust_conf/math_conf.jpg"
+                alt="Math for Data Sci conf"
                 style={{ borderRadius: "10px" }}
               />
             </div>
@@ -52,8 +51,8 @@ const Witconf = () => {
               className="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp"
               data-wow-delay="300ms"
             >
-              <a className="btn confer-btn" href="/wit">
-                Know more <i className="zmdi zmdi-long-arrow-right"></i>
+              <a className="btn confer-btn" href="http://mng.bz/GdQM">
+                Register Here <i className="zmdi zmdi-long-arrow-right"></i>
               </a>
             </div>
           </div>
