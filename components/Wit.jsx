@@ -39,7 +39,7 @@ const Witconf = () => {
               data-wow-delay="300ms"
             >
               <img
-                src="../img/rust_conf/math_conf.jpg"
+                src="../img/rust_conf/math_conference.jpg"
                 alt="Math for Data Sci conf"
                 style={{ borderRadius: "10px" }}
               />
