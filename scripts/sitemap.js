@@ -18,6 +18,7 @@ Disallow: /AskLerner/
 Disallow: /AskPaul/
 Disallow: /AskBoris/
 Disallow: /AskEric/
+Disallow: /AskRahul/
 Disallow: /AskHeath/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
