@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 20, 
+        epTitle: "Prateek Narang: On How to Build an Effective Path in Engineering",
+        date: "Nov 16, 2020",
+        guest_name: "Prateek Narang",
+        ep_desc: "Are you an engineering fresher? Or a sophomore. Figuring out an optimal approach to learning various technologies and balancing programming skills is challenging for most. In this conversation, Prateek and Teja spoke about How to build an effective path for all the college mates.",
+        ep_link: "/ep20",
+        guest_linkedln: "https://www.linkedin.com/in/prateek-narang-0108b39a/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/27Tuf6PEsiQ94KgGVLBFoT"
+      },
       { id: 19, 
         epTitle: "Mat Leonard: On How to Start, Shift, or Build Career in Data Science",
         date: "Nov 02, 2020",
