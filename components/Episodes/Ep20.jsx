@@ -41,7 +41,7 @@ const ep_20 = () => {
           </div>
 
           <p> </p>
-          <h4>Guest Introduction:</h4>
+          <h5>Guest Introduction:</h5>
           <p>
           Prateek is a software developer, technology freak, ace programmer, and one of the most 
           popular programming instructors in India. He also happens to be the co-founder of Coding 
@@ -51,13 +51,13 @@ const ep_20 = () => {
           guiding juniors, and playing table tennis in his free time. His interactive JavaScript 
           Resume is highly popular among the student community. On top of all of that, he's someone 
           so deep into empowering student's careers and mentoring with immense care and love. 
-          I can’t wait anymore to start exploiting with Prateek Narang
           </p>
-
-          
-
-            <br />
-          <h5>Prateek answered questions like:</h5>
+          <br />
+          <b>Interactive Resume:</b><a href = "http://www.prateeknarang.com/"> www.prateeknarang.com</a> <br />
+          <b>Email:</b> <a href = "mailto:prateeknarang111@gmail.com"> prateeknarang111@gmail.com</a> 
+          <br />
+          <br />
+          <b>Prateek answered questions like:</b>
 
           <div className="ticket-pricing-table-details">
             <p>
