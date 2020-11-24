@@ -21,6 +21,54 @@ const Podcast = () => {
             </div>
 
 
+            
+            <div className="single-blog-area wow fadeInUp">
+                <div className="card" data-wow-delay="300ms">
+                  <div className="card-body" data-wow-delay="300ms">
+                    <div id="Container">
+                      <iframe
+                        src="https://open.spotify.com/embed-podcast/episode/1wN5i7iPRSz3UUOm2Rb5xX"
+                        width="100%"
+                        height="232"
+                        frameBorder="0"
+                        allowtransparency="true"
+                        allow="encrypted-media"
+                      ></iframe>
+                    </div>
+                    <div className="single-blog-text text-center">
+                      <a
+                        className="blog-title"
+                        href="/episodes/ep21"
+                      >
+                      Gianluca Mauro: On Making AI Democratic | Founding AI Academy
+                      </a>
+                      <div className="post-meta">
+                        <a className="post-date">
+                          <i className="zmdi zmdi-alarm-check"></i> Nov 02, 2020
+                        </a>
+                        <a
+                          className="post-author"
+                          href="https://www.linkedin.com/in/matcleonard/"
+                          target="_blank"
+                        >
+                          <i className="zmdi zmdi-account"></i> Gianluca Mauro
+                        </a>
+                      </div>
+                      <p>
+                      Applying AI for business could be empowering, but knowing the purpose and understand the actual results could be though, Gianluca Mauro, founder of AI Academy shared his deep purpose of the company AI Academy and how he pivoted from an Energy engineer to an AI Educator and a consultant, and how entering silicon valley made him realize his superpowers.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="blog-btn">
+                    <a href="/episodes/ep21">
+                      <i className="zmdi zmdi-long-arrow-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+
             <div className="single-blog-area wow fadeInUp">
                 <div className="card" data-wow-delay="300ms">
                   <div className="card-body" data-wow-delay="300ms">
@@ -69,53 +117,6 @@ const Podcast = () => {
                 </div>
               </div>
 
-
-            <div className="single-blog-area wow fadeInUp">
-                <div className="card" data-wow-delay="300ms">
-                  <div className="card-body" data-wow-delay="300ms">
-                    <div id="Container">
-                      <iframe
-                        src="https://open.spotify.com/embed-podcast/episode/72oCAAJBw7NuxruHCIHUs9"
-                        width="100%"
-                        height="232"
-                        frameBorder="0"
-                        allowtransparency="true"
-                        allow="encrypted-media"
-                      ></iframe>
-                    </div>
-                    <div className="single-blog-text text-center">
-                      <a
-                        className="blog-title"
-                        href="/episodes/ep19"
-                      >
-                      Mat Leonard: On How to Start, Shift, or Build Career in Data Science
-                      </a>
-                      <div className="post-meta">
-                        <a className="post-date">
-                          <i className="zmdi zmdi-alarm-check"></i> Nov 02, 2020
-                        </a>
-                        <a
-                          className="post-author"
-                          href="https://www.linkedin.com/in/matcleonard/"
-                          target="_blank"
-                        >
-                          <i className="zmdi zmdi-account"></i> Mat Leonard
-                        </a>
-                      </div>
-                      <p>
-                      No matter where you’re at with technologies, you may want to start or shift or build a career 
-                      in data science, with Mat Leanord, Senior AI Engineer and the one who launched the school of 
-                      AI at Udacity shared his life journey from Physics to Neuro Science and to Data Science.
-                      </p>
-                    </div>
-                  </div>
-                  <div className="blog-btn">
-                    <a href="/episodes/ep19">
-                      <i className="zmdi zmdi-long-arrow-right"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
 
             
 

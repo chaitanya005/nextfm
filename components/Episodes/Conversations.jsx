@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 21, 
+        epTitle: "Gianluca Mauro: On Making AI Democratic | Founding AI Academy",
+        date: "Nov 23, 2020",
+        guest_name: "Gianluca Mauro",
+        ep_desc: "Applying AI for business could be empowering, but knowing the purpose and understand the actual results could be though, Gianluca Mauro, founder of AI Academy shared his deep purpose of the company AI Academy and how he pivoted from an Energy engineer to an AI Educator and a consultant, and how entering silicon valley made him realize his superpowers.",
+        ep_link: "/ep21",
+        guest_linkedln: "https://www.linkedin.com/in/gianlucamauro/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/1wN5i7iPRSz3UUOm2Rb5xX"
+      },
       { id: 20, 
         epTitle: "Prateek Narang: On How to Build an Effective Path in Engineering",
         date: "Nov 16, 2020",

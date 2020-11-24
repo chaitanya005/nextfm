@@ -100,13 +100,13 @@ const ep_20 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="" />
+              <a href="/ep21">
+                <img src="../img/Podcast/episodes/ep_21/Mauro.jpg" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/" className="post-title"></a>
-              <span></span>
+              <a href="/ep21" className="post-title">Gianluca Mauro</a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>
