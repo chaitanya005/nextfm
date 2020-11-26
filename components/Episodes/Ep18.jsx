@@ -101,13 +101,13 @@ const Episode_18 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="" />
+              <a href="/ep19">
+                <img src="../img/Podcast/episodes/ep_19/guest/Mat.jpg" alt="guestimage" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep19" className="post-title">Mat Leonard</a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

@@ -50,13 +50,32 @@ const ep_21 = () => {
            all over Europe. He’s also an author of the book Zero to AI together with Nicolò , a 
            nontechnical, hype-free guide to help people without a technical background understand 
            the use of AI in their Jobs, On top of all of that, Gianluca's mission is to make AI more 
-           democratic and empower people to use it in their business. 
+           democratic and empower people to use it in their business. <br />
+           <br />
+           Grab  <b><a href = "https://www.manning.com/books/zero-to-ai?utm_source=exploitchat&utm_medium=affiliate&utm_campaign=book_valigi_zero_4_13_20&a_aid=exploitchat&a_bid=1110307b" target = "_blank">Zero-to-AI</a></b> at <a href = "https://www.manning.com/books/zero-to-ai?utm_source=exploitchat&utm_medium=affiliate&utm_campaign=book_valigi_zero_4_13_20&a_aid=exploitchat&a_bid=1110307b" target  ="_blank"> Manning publications</a>
           </p>
+
+          
+     
           <br />
 
-          <b>AI Academy:</b><a href = "https://ai-academy.com/"> gianlucamauro.com</a> <br />
-         
-
+          <b>AI Academy:</b><a href = "https://ai-academy.com/" target = "_blank"> ai-academy.com</a> 
+          <p>
+          {" "}
+          <i>
+            <a target="_blank" href="https://www.manning.com/">
+              Manning publications
+            </a>
+          </i>{" "}
+          is offering a complete 40% off on applying{" "}
+          <b>
+            <i>“podexploit20”</i>
+          </b>{" "}
+          coupon code during the purchase of any Manning Books. Know more about
+          giveaways at{" "}
+          <a href="https://www.instagram.com/exploit.chat" target = "_blank">@exploit.chat</a>
+        </p>
+          
        
         </div>
         <br />

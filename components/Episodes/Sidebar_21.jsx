@@ -14,7 +14,7 @@ const sidebar_20 = () => {
             </div>
 
             <div className="post-author-content">
-              <h5>Gianluca Mauro</h5>
+              <h5><a href = "https://gianlucamauro.com" target = "_blank"><b>Gianluca Mauro</b></a></h5>
               <span>Founder, AI Academy</span>
             </div>
 
