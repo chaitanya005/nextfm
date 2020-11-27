@@ -1,6 +1,6 @@
 import React from "react";
 
-const sidebar_20 = () => {
+const sidebar_21 = () => {
   return (
     <div className="col-12 col-md-6 col-lg-4 col-xl-3">
       <div className="confer-sidebar-area mb-100">
@@ -14,7 +14,7 @@ const sidebar_20 = () => {
             </div>
 
             <div className="post-author-content">
-              <h5><a href = "https://gianlucamauro.com" target = "_blank"><b>Gianluca Mauro</b></a></h5>
+              <h5><a href="https://gianlucamauro.com" target="_blank"><b>Gianluca Mauro</b></a></h5>
               <span>Founder, AI Academy</span>
             </div>
 
@@ -41,7 +41,7 @@ const sidebar_20 = () => {
             <li>
               <a
                 target="_blank"
-                href="https://open.spotify.com/episode/27Tuf6PEsiQ94KgGVLBFoT"
+                href="https://open.spotify.com/episode/1wN5i7iPRSz3UUOm2Rb5xX"
               >
                 Spotify
               </a>
@@ -96,4 +96,4 @@ const sidebar_20 = () => {
   );
 };
 
-export default sidebar_20;
+export default sidebar_21
