@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 22, 
+        epTitle: "Yan Cui: On Becoming an AWS Servlerless Hero",
+        date: "Nov 30, 2020",
+        guest_name: "Yan Cui",
+        ep_desc: "What does it take to be consistent on a certain technology and build a career with valiant efforts? Yan Cui, AWS Servels Hero, Developer Advocate at lumigo.io and helping companies around the world adopt serverless as an independent consultant and the host of the Real-world serverless podcast shared his journey behind becoming a burning monk in the cloud ecosystem",
+        ep_link: "/ep22",
+        guest_linkedln: "https://www.linkedin.com/in/theburningmonk/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/5TQNxBHQWeTSQgS1gkPwOV"
+      },
       { id: 21, 
         epTitle: "Gianluca Mauro: On Making AI Democratic | Founding AI Academy",
         date: "Nov 23, 2020",

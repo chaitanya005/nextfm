@@ -1,13 +1,13 @@
 import React from "react";
 
-const ep_21 = () => {
+const ep_22 = () => {
   return (
     <div className="col-12 col-lg-8 col-xl-9">
       <div className="pr-lg-4 mb-100">
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
             <img
-              src="../img/Podcast/episodes/ep_21/AMA_AskMaurio.png"
+              src="../img/Podcast/episodes/ep_22/yan_cui.png"
               alt="episodebanner"
             />
           </div>
@@ -15,23 +15,23 @@ const ep_21 = () => {
           <h1
             className="page-title"
             style={{ lineHeight: "40px", fontSize: "25px" }}
-          >Gianluca Mauro: On Making AI Democratic | Founding AI Academy
+          >Yan Cui: On Becoming an AWS Servlerless Hero
           </h1>
 
           <div className="post-meta">
             <a className="post-date">
-              <i className="zmdi zmdi-alarm-check"></i> Nov 23, 2020
+              <i className="zmdi zmdi-alarm-check"></i> Nov 30, 2020
             </a>
             <a
               className="post-author"
-              href="https://www.linkedin.com/in/gianlucamauro/"
+              href="https://www.linkedin.com/in/theburningmonk/"
             >
-              <i className="zmdi zmdi-account"></i>Gianluca Mauro
+              <i className="zmdi zmdi-account"></i>Yan Cui
             </a>
           </div>
           <div id="Container">
             <iframe
-              src="https://open.spotify.com/embed-podcast/episode/1wN5i7iPRSz3UUOm2Rb5xX"
+              src="https://open.spotify.com/embed-podcast/episode/5TQNxBHQWeTSQgS1gkPwOV"
               width="100%"
               height="232"
               frameBorder="0"
@@ -43,23 +43,26 @@ const ep_21 = () => {
           <p> </p>
           <h5>Guest Introduction:</h5>
           <p>
-           Gianluca is an Artificial Intelligence coach, Turned people at 1B Euro companies into AI 
-           leaders, He’s the founder of AI Academy a company specialized in training, coaching, and 
-           strategic consulting on Artificial Intelligence, He has been working in AI education for 
-           over 4 years, with various entrepreneurs, students, managers and executives at organizations
-           all over Europe. He’s also an author of the book Zero to AI together with Nicolò , a 
-           nontechnical, hype-free guide to help people without a technical background understand 
-           the use of AI in their Jobs, On top of all of that, Gianluca's mission is to make AI more 
-           democratic and empower people to use it in their business. <br />
-           <br />
-           Grab  <b><a href = "https://www.manning.com/books/zero-to-ai?utm_source=exploitchat&utm_medium=affiliate&utm_campaign=book_valigi_zero_4_13_20&a_aid=exploitchat&a_bid=1110307b" target = "_blank">Zero-to-AI</a></b> at <a href = "https://www.manning.com/books/zero-to-ai?utm_source=exploitchat&utm_medium=affiliate&utm_campaign=book_valigi_zero_4_13_20&a_aid=exploitchat&a_bid=1110307b" target  ="_blank"> Manning publications</a>
+           Yan is an experienced engineer who has run production workload at scale in AWS for over 10 years. 
+           He has been an architect and principal engineer with a variety of industries ranging from banking, 
+           e-commerce, sports streaming to mobile gaming. He has worked extensively with AWS Lambda in 
+           production in the last 4 years. Nowadays, he splits his time between advancing the state of 
+           serverless observability as a Developer Advocate at 
+            <a href = "https://lumigo.io/" target = "_blank"> lumigo.io </a> 
+           and helping companies around the 
+           world adopt serverless as an independent consultant. <br />
+           Yan is also an AWS Serverless Hero and a regular speaker at user groups and conferences internationally.
+           He is also the author of Production-Ready Serverless and co-author of Serverless Architectures
+           on AWS, 2nd Edition, both by Manning. 
+           <br />And he creates and maintains an active blog at 
+            <a href = "https://theburningmonk.com" target = "_blank"> https://theburningmonk.com </a> and hosts a weekly podcast at <a href = "https://realworldserverless.com">https://realworldserverless.com.</a>
+           
+          
           </p>
 
-          
-     
+          <p>Book: <a href = 'https://www.manning.com/books/serverless-architectures-on-aws-second-edition/' target = "_blank">Serverless Architectures on AWS, Second Edition | Manning Publications</a></p>
           <br />
 
-          <b>AI Academy:</b><a href = "https://ai-academy.com/" target = "_blank"> ai-academy.com</a> 
           <p>
           {" "}
           <i>
@@ -86,16 +89,16 @@ const ep_21 = () => {
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep20">
+              <a href="/ep21">
                 <img
-                  src="../img/Podcast/episodes/ep_20/guest/prateek.jpg"
+                  src="../img/Podcast/episodes/ep_21/Mauro.jpg"
                   alt="guestimage"
                 />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep20" className="post-title">
-                Prateek Narang
+              <a href="/ep21" className="post-title">
+                Gianluca Mauro
               </a>
               <span>Previous Episode</span>
             </div>
@@ -103,13 +106,13 @@ const ep_21 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep22">
-                <img src="../img/Podcast/episodes/ep_22/Yan_Cui.jpg" alt="" />
+              <a href="">
+                <img src="" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep22" className="post-title">Yan Cui</a>
-              <span>Next Episode</span>
+              <a href="" className="post-title"></a>
+              <span></span>
             </div>
           </div>
         </div>
@@ -118,4 +121,4 @@ const ep_21 = () => {
   );
 };
 
-export default ep_21;
+export default ep_22;
