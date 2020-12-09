@@ -20,6 +20,9 @@ Disallow: /AskBoris/
 Disallow: /AskEric/
 Disallow: /AskRahul/
 Disallow: /AskMoot/
+Disallow: /AskWilliam/
+Disallow: /AskTommy/
+Disallow: /AskVictor/
 Disallow: /AskHeath/ `;
 
 fs.writeFileSync("public/robots.txt", robotsTxt);
