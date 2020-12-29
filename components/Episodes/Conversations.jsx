@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 23, 
+        epTitle: "Roy Osherove: On Getting Out of Comfort Zone | Elastic Leadership",
+        date: "Dec 28, 2020",
+        guest_name: "Roy Osherove",
+        ep_desc: "Uncovering the significant importance of being visible and growing by producing valuable content made this conversation much connected. Roy shared his leveraging pivot points in his personal and professional life that possibly opened up multiple opportunities and an initiative of being a technical leader. His impactful journey of getting out of his comfort zone and letting the team become much effective with various viable approaches made this talk much potential.",
+        ep_link: "/ep23",
+        guest_linkedln: "https://www.linkedin.com/in/osherove/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/5mXt7gkuvm6PPYAuDdCUyD"
+      },
       { id: 22, 
         epTitle: "Yan Cui: On Becoming an AWS Servlerless Hero",
         date: "Nov 30, 2020",

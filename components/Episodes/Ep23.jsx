@@ -1,13 +1,13 @@
 import React from "react";
 
-const ep_22 = () => {
+const ep_23 = () => {
   return (
     <div className="col-12 col-lg-8 col-xl-9">
       <div className="pr-lg-4 mb-100">
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
             <img
-              src="../img/Podcast/episodes/ep_22/yan_cui.png"
+              src="../img/Podcast/episodes/ep_23/Roy_Banner_min.png"
               alt="episodebanner"
             />
           </div>
@@ -15,23 +15,23 @@ const ep_22 = () => {
           <h1
             className="page-title"
             style={{ lineHeight: "40px", fontSize: "25px" }}
-          >Yan Cui: On Becoming an AWS Servlerless Hero
+          >Roy Osherove: On Getting Out of Comfort Zone | Elastic Leadership
           </h1>
 
           <div className="post-meta">
             <a className="post-date">
-              <i className="zmdi zmdi-alarm-check"></i> Nov 30, 2020
+              <i className="zmdi zmdi-alarm-check"></i> Dec 28, 2020
             </a>
             <a
               className="post-author"
-              href="https://www.linkedin.com/in/theburningmonk/"
+              href="https://www.linkedin.com/in/osherove/"
             >
-              <i className="zmdi zmdi-account"></i>Yan Cui
+              <i className="zmdi zmdi-account"></i>Roy Osherove
             </a>
           </div>
           <div id="Container">
             <iframe
-              src="https://open.spotify.com/embed-podcast/episode/5TQNxBHQWeTSQgS1gkPwOV"
+              src="https://open.spotify.com/embed-podcast/episode/5mXt7gkuvm6PPYAuDdCUyD"
               width="100%"
               height="232"
               frameBorder="0"
@@ -43,24 +43,21 @@ const ep_22 = () => {
           <p> </p>
           <h5>Guest Introduction:</h5>
           <p>
-           Yan is an experienced engineer who has run production workload at scale in AWS for over 10 years. 
-           He has been an architect and principal engineer with a variety of industries ranging from banking, 
-           e-commerce, sports streaming to mobile gaming. He has worked extensively with AWS Lambda in 
-           production in the last 4 years. Nowadays, he splits his time between advancing the state of 
-           serverless observability as a Developer Advocate at 
-            <a href = "https://lumigo.io/" target = "_blank"> lumigo.io </a> 
-           and helping companies around the 
-           world adopt serverless as an independent consultant. <br />
-           Yan is also an AWS Serverless Hero and a regular speaker at user groups and conferences internationally.
-           He is also the author of Production-Ready Serverless and co-author of Serverless Architectures
-           on AWS, 2nd Edition, both by Manning. 
-           <br />And he creates and maintains an active blog at 
-            <a href = "https://theburningmonk.com" target = "_blank"> https://theburningmonk.com </a> and hosts a weekly podcast at <a href = "https://realworldserverless.com">https://realworldserverless.com.</a>
-           
-          
+           Roy is an Software engineer, tester, consultant, coach and a Leader 
+           He worked in various technical positions for over 20 years in both small startups and 
+           some of the world's largest technology companies (Siemens, DELL, AT&T) and spoken at 
+           various countries around the world on Unit Testing and Test Driven Development, DevOps 
+           transformations, practices, and Leadership for technical leaders.
+           He worked in various technical positions for over 20 years in both small startups and 
+           some of the world's largest technology companies (Siemens, DELL, AT&T) and spoken at 
+           various countries around the world on Unit Testing and Test Driven Development, DevOps 
+           transformations, practices, and Leadership for technical leaders.
+  
+           <br />
+           You can find a lot of his work at <a href ="https://osherove.com/" target="_blank">osherove.com </a>, <a href ="https://www.5whys.com/" target="_blank"> 5whys.com </a> and <a href = "https://www.artofunittesting.com/" target="_blank"> ArtOfUnitTesting.com </a>
           </p>
 
-          <p>Book: <a href = 'https://www.manning.com/books/serverless-architectures-on-aws-second-edition/' target = "_blank">Serverless Architectures on AWS, Second Edition | Manning Publications</a></p>
+          
           <br />
 
           <p>
@@ -89,16 +86,16 @@ const ep_22 = () => {
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep21">
+              <a href="/ep22">
                 <img
-                  src="../img/Podcast/episodes/ep_21/Mauro.jpg"
+                  src="../img/Podcast/episodes/ep_22/Yan_Cui.jpg"
                   alt="guestimage"
                 />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep21" className="post-title">
-                Gianluca Mauro
+              <a href="/ep22" className="post-title">
+                Yan Cui
               </a>
               <span>Previous Episode</span>
             </div>
@@ -106,13 +103,13 @@ const ep_22 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep23">
-                <img src="../img/Podcast/episodes/ep_23/Roy_.jpg" alt="" />
+              <a href="">
+                <img src="" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep23" className="post-title">Roy Osherove</a>
-              <span>Next Episode</span>
+              <a href="" className="post-title"></a>
+              <span></span>
             </div>
           </div>
         </div>
@@ -121,4 +118,4 @@ const ep_22 = () => {
   );
 };
 
-export default ep_22;
+export default ep_23;

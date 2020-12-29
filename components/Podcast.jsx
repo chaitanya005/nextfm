@@ -20,6 +20,51 @@ const Podcast = () => {
               </div>
             </div>
 
+            <div className="single-blog-area wow fadeInUp">
+                <div className="card" data-wow-delay="300ms">
+                  <div className="card-body" data-wow-delay="300ms">
+                    <div id="Container">
+                      <iframe
+                        src="https://open.spotify.com/embed-podcast/episode/5mXt7gkuvm6PPYAuDdCUyD"
+                        width="100%"
+                        height="232"
+                        frameBorder="0"
+                        allowtransparency="true"
+                        allow="encrypted-media"
+                      ></iframe>
+                    </div>
+                    <div className="single-blog-text text-center">
+                      <a
+                        className="blog-title"
+                        href="/episodes/ep23"
+                      >
+                      Roy Osherove: On Getting Out of Comfort Zone | Elastic Leadership
+                      </a>
+                      <div className="post-meta">
+                        <a className="post-date">
+                          <i className="zmdi zmdi-alarm-check"></i> Dec 28, 2020
+                        </a>
+                        <a
+                          className="post-author"
+                          href="https://www.linkedin.com/in/osherove/"
+                          target="_blank"
+                        >
+                          <i className="zmdi zmdi-account"></i> Roy Osherove
+                        </a>
+                      </div>
+                      <p>
+                      Uncovering the significant importance of being visible and growing by producing valuable content made this conversation much connected. Roy shared his leveraging pivot points in his personal and professional life that possibly opened up multiple opportunities and an initiative of being a technical leader. His impactful journey of getting out of his comfort zone and letting the team become much effective with various viable approaches made this talk much potential.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="blog-btn">
+                    <a href="/episodes/ep23">
+                      <i className="zmdi zmdi-long-arrow-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
 
 
             <div className="single-blog-area wow fadeInUp">
@@ -72,50 +117,7 @@ const Podcast = () => {
           </div>
 
             
-            <div className="single-blog-area wow fadeInUp">
-                <div className="card" data-wow-delay="300ms">
-                  <div className="card-body" data-wow-delay="300ms">
-                    <div id="Container">
-                      <iframe
-                        src="https://open.spotify.com/embed-podcast/episode/1wN5i7iPRSz3UUOm2Rb5xX"
-                        width="100%"
-                        height="232"
-                        frameBorder="0"
-                        allowtransparency="true"
-                        allow="encrypted-media"
-                      ></iframe>
-                    </div>
-                    <div className="single-blog-text text-center">
-                      <a
-                        className="blog-title"
-                        href="/episodes/ep21"
-                      >
-                      Gianluca Mauro: On Making AI Democratic | Founding AI Academy
-                      </a>
-                      <div className="post-meta">
-                        <a className="post-date">
-                          <i className="zmdi zmdi-alarm-check"></i> Nov 02, 2020
-                        </a>
-                        <a
-                          className="post-author"
-                          href="https://www.linkedin.com/in/gianlucamauro/"
-                          target="_blank"
-                        >
-                          <i className="zmdi zmdi-account"></i> Gianluca Mauro
-                        </a>
-                      </div>
-                      <p>
-                      Applying AI for business could be empowering, but knowing the purpose and understand the actual results could be though, Gianluca Mauro, founder of AI Academy shared his deep purpose of the company AI Academy and how he pivoted from an Energy engineer to an AI Educator and a consultant, and how entering silicon valley made him realize his superpowers.
-                      </p>
-                    </div>
-                  </div>
-                  <div className="blog-btn">
-                    <a href="/episodes/ep21">
-                      <i className="zmdi zmdi-long-arrow-right"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
+            
 
 
 
