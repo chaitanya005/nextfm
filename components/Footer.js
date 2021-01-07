@@ -227,7 +227,7 @@ export default class Subscribe extends Component {
             </div>
           </div>
 
-          <div className="container">
+          {/*<div className="container">
             <div className="copywrite-content">
               <div className="row">
                 <div className="col-12 col-md-6">
@@ -263,7 +263,7 @@ export default class Subscribe extends Component {
                 </div>
               </div>
             </div>
-          </div>
+          </div>*/}
         </footer>
       </>
     );
