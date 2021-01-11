@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 24, 
+        epTitle: "Bhavesh Bhatt: On How to Propel and to Prepare for Data Science Interviews",
+        date: "Jan 11, 2020",
+        guest_name: "Bhavesh Bhatt",
+        ep_desc: "I think there was a lot of lessons we could learn from the past year 2020, I know its been really the toughest year straight from the beginning, and we always have that opportunity to learn from them, In this episode, Bhavesh revealed his personal learnings and professional approaches of becoming the better of him, sharing all about acing data science interviews with his experience made this conversation much impactful.",
+        ep_link: "/ep24",
+        guest_linkedln: "https://www.linkedin.com/in/bhattbhavesh91/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/2r2rTaAinJ4lQT804jCsjs"
+      },
       { id: 23, 
         epTitle: "Roy Osherove: On Getting Out of Comfort Zone | Elastic Leadership",
         date: "Dec 28, 2020",

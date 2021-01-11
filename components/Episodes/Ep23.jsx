@@ -103,13 +103,13 @@ const ep_23 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="" />
+              <a href="/ep24">
+                <img src="../img/Podcast/episodes/ep_24/Bhavesh_bhatt.jpg" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep24" className="post-title">Bhavesh Bhatt</a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

@@ -21,6 +21,51 @@ const Podcast = () => {
             </div>
 
             <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/2r2rTaAinJ4lQT804jCsjs"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a
+                    className="blog-title"
+                    href="/episodes/ep24"
+                  >
+                  Bhavesh Bhatt: On How to Propel and to Prepare for Data Science Interviews
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> Jan 11, 2020
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/bhattbhavesh91/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Bhavesh Bhatt
+                    </a>
+                  </div>
+                  <p>
+                  I think there was a lot of lessons we could learn from the past year 2020, I know its been really the toughest year straight from the beginning, and we always have that opportunity to learn from them, In this episode, Bhavesh revealed his personal learnings and professional approaches of becoming the better of him, sharing all about acing data science interviews with his experience made this conversation much impactful.
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep24">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+            <div className="single-blog-area wow fadeInUp">
                 <div className="card" data-wow-delay="300ms">
                   <div className="card-body" data-wow-delay="300ms">
                     <div id="Container">
@@ -67,70 +112,6 @@ const Podcast = () => {
 
 
 
-            <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/5TQNxBHQWeTSQgS1gkPwOV"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a
-                    className="blog-title"
-                    href="/episodes/ep22"
-                  >
-                  Yan Cui: On Becoming an AWS Servlerless Hero
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> Nov 30, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/theburningmonk/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Yan Cui
-                    </a>
-                  </div>
-                  <p>
-                  What does it take to be consistent on a certain technology and build a career with 
-                  valiant efforts? Yan Cui, AWS Servels Hero, Developer Advocate at lumigo.io and 
-                  helping companies around the world adopt serverless as an independent consultant 
-                  and the host of the Real-world serverless podcast shared his journey behind becoming 
-                  a burning monk in the cloud ecosystem.
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep22">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-
-            
-            
-
-
-
-           
-
-
-            
-
-
-            
-
-            
-           
           </div>
         </div>
 
