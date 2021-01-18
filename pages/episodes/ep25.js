@@ -11,7 +11,7 @@ const Episode22 = () => {
     <>
       <Head>
         <title>
-        Bhavesh Bhatt: On How to Propel and to Prepare for Data Science Interviews
+        Christian Clausen: On Grounding The Five Lines of Code with Consistency
         </title>
 
         <link
