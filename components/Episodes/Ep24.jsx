@@ -69,21 +69,6 @@ const ep_23 = () => {
 
            <br />
 
-          <p>
-          {" "}
-          <i>
-            <a target="_blank" href="https://www.manning.com/">
-              Manning publications
-            </a>
-          </i>{" "}
-          is offering a complete 40% off on applying{" "}
-          <b>
-            <i>“podexploit20”</i>
-          </b>{" "}
-          coupon code during the purchase of any Manning Books. Know more about
-          giveaways at{" "}
-          <a href="https://www.instagram.com/exploit.chat" target = "_blank">@exploit.chat</a>
-        </p>
           
        
         </div>
@@ -112,13 +97,13 @@ const ep_23 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="" />
+              <a href="/ep25">
+                <img src="../img/Podcast/episodes/ep_25/Christian.jpg" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep25" className="post-title">Christian Clausen</a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 25, 
+        epTitle: "Christian Clausen: On Grounding The Five Lines of Code with Consistency",
+        date: "Jan 18, 2020",
+        guest_name: "Christian Clausen",
+        ep_desc: "Refactoring is a fact of life. All code is imperfect, and refactoring is a systematic process you can use to improve the quality of your codebase. Whatever your architecture, choice of OO language. Christian Clausen, author of The Five Lines of Code by Manning Publications shared his personal and professional journey behind learning and applying with consistency.",
+        ep_link: "/ep25",
+        guest_linkedln: "https://www.linkedin.com/in/christian-clausen-276a792b/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/03812Nslt0iIFKz13uJRPa"
+      },
       { id: 24, 
         epTitle: "Bhavesh Bhatt: On How to Propel and to Prepare for Data Science Interviews",
         date: "Jan 11, 2020",
