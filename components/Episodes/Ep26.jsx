@@ -1,13 +1,13 @@
 import React from "react";
 
-const ep_25 = () => {
+const ep_26 = () => {
   return (
     <div className="col-12 col-lg-8 col-xl-9">
       <div className="pr-lg-4 mb-100">
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
             <img
-              src="../img/Podcast/episodes/ep_25/YouTube_Banner.jpg"
+              src="../img/Podcast/episodes/ep_26/episode_banner.png"
               alt="episodebanner"
             />
           </div>
@@ -15,23 +15,23 @@ const ep_25 = () => {
           <h1
             className="page-title"
             style={{ lineHeight: "40px", fontSize: "25px" }}
-          >Christian Clausen: On Grounding The Five Lines of Code with Consistency
+          >Reuven M. Lerner: On Understanding the Crux of Consulting and Training
           </h1>
 
           <div className="post-meta">
             <a className="post-date">
-              <i className="zmdi zmdi-alarm-check"></i> Jan 18, 2020
+              <i className="zmdi zmdi-alarm-check"></i> Feb 01, 2020
             </a>
             <a
               className="post-author"
-              href="https://www.linkedin.com/in/christian-clausen-276a792b/"
+              href="https://www.linkedin.com/in/reuven/"
             >
-              <i className="zmdi zmdi-account"></i>Christian Clausen
+              <i className="zmdi zmdi-account"></i>Reuven M. Lerner
             </a>
           </div>
           <div id="Container">
             <iframe
-              src="https://open.spotify.com/embed-podcast/episode/03812Nslt0iIFKz13uJRPa"
+              src="https://open.spotify.com/embed-podcast/episode/1SkwC4bxS6cQz8qxeg7ibQ"
               width="100%"
               height="232"
               frameBorder="0"
@@ -43,17 +43,20 @@ const ep_25 = () => {
           <p> </p>
           <h5>Guest Introduction:</h5>
           <p>
-          Christian works as a Technical Agile Coach, teaching teams how to properly refactor 
-          their code and, Previously worked as a software engineer on the Coccinelle(koksinella) 
-          semantic patching project, an automated refactoring tool. And also he holds an MSc in 
-          computer science and five years’ of experience in teaching all about software quality
-          at a university level, on top all of that he's the author of the book "Five Lines of Code",
-          on teaching clear and actionable rules that anyone can apply to achieve to improve the 
-          quality of the codebase, and Christian is the one who quotes his mentor words "The key 
-          to being consistently brilliant is: hard work, every day".
+          Reuven is a full-time Python trainer. In a given year, he teaches courses at companies across
+          the world, he created one of the first 100 Websites in the world just after graduating 
+          from MIT’s computer science department. He opened Lerner Consulting in 1995 and has been 
+          offering training services since 1996, as mentioned he holds a bachelor’s degree from MIT 
+          and a Ph.D. in learning sciences from Northwestern University. On top of all of that, he’s the author of the Book “Python Workout”, a collection 
+          of Python exercises with extensive explanations by Manning Publications. Reuven also 
+          runs a free weekly newsletter which I'm part of “Better Developers” and “trainer weekly”
           </p>
 
-           <br />
+         <br />
+
+         Consulting and Training: <a href = "https://lerner.co.il/">https://lerner.co.il/</a>
+         <br />
+         Book: <a href = "https://www.manning.com/books/python-workout/">https://www.manning.com/books/python-workout</a>
 
           
        
@@ -66,16 +69,16 @@ const ep_25 = () => {
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep24">
+              <a href="/ep25">
                 <img
-                  src="../img/Podcast/episodes/ep_24/Bhavesh_bhatt.jpg"
+                  src="../img/Podcast/episodes/ep_25/Christian.jpg"
                   alt="guestimage"
                 />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep24" className="post-title">
-                Bhavesh Bhatt
+              <a href="/ep25" className="post-title">
+               Christian Clausen
               </a>
               <span>Previous Episode</span>
             </div>
@@ -83,13 +86,13 @@ const ep_25 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep26">
-                <img src="../img/Podcast/episodes/ep_26/Reuven_Lerner.jpg" alt="" />
+              <a href="">
+                <img src="" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep26" className="post-title">Reuven M. Lerner</a>
-              <span>Next Episode</span>
+              <a href="" className="post-title"></a>
+              <span></span>
             </div>
           </div>
         </div>
@@ -98,4 +101,4 @@ const ep_25 = () => {
   );
 };
 
-export default ep_25;
+export default ep_26;

@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 26, 
+        epTitle: "Reuven M. Lerner: On Understanding the Crux of Consulting and Training",
+        date: "Feb 01, 2020",
+        guest_name: "Reuven M. Lerner",
+        ep_desc: "If you're a trainer, teacher, learner, or any individual looking for taking an initiative to start a business with your scope of technology and also want to build your career into training, freelancing, and creating newsletters, books, and writing in journals, this episode is for you. Teja and Ruven spoke all about building an individual personal brand and becoming self-employed with the area of expertise, sharing Ruven's personal journey which began in 1995 made this conversation much impactful.",
+        ep_link: "/ep26",
+        guest_linkedln: "https://www.linkedin.com/in/reuven/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/1SkwC4bxS6cQz8qxeg7ibQ"
+      },
       { id: 25, 
         epTitle: "Christian Clausen: On Grounding The Five Lines of Code with Consistency",
         date: "Jan 18, 2020",

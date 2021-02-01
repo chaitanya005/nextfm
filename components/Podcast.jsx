@@ -26,6 +26,52 @@ const Podcast = () => {
               <div className="card-body" data-wow-delay="300ms">
                 <div id="Container">
                   <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/1SkwC4bxS6cQz8qxeg7ibQ"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a
+                    className="blog-title"
+                    href="/episodes/ep26"
+                  >
+                  Reuven M. Lerner: On Understanding the Crux of Consulting and Training
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> Feb 01, 2020
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/reuven/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Reuven M. Lerner
+                    </a>
+                  </div>
+                  <p>
+                  If you're a trainer, teacher, learner, or any individual looking for taking an initiative to start a business with your scope of technology and also want to build your career into training, freelancing, and creating newsletters, books, and writing in journals, this episode is for you. If you're a trainer, teacher, learner, or any individual looking for taking an initiative to start a business with your scope of technology and also want to build your career into training, freelancing, and creating newsletters, books, and writing in journals, this episode is for you.
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep26">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+            <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
                     src="https://open.spotify.com/embed-podcast/episode/03812Nslt0iIFKz13uJRPa"
                     width="100%"
                     height="232"
@@ -60,52 +106,6 @@ const Podcast = () => {
               </div>
               <div className="blog-btn">
                 <a href="/episodes/ep25">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-
-
-            <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/2r2rTaAinJ4lQT804jCsjs"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a
-                    className="blog-title"
-                    href="/episodes/ep24"
-                  >
-                  Bhavesh Bhatt: On How to Propel and to Prepare for Data Science Interviews
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> Jan 11, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/bhattbhavesh91/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Bhavesh Bhatt
-                    </a>
-                  </div>
-                  <p>
-                  I think there was a lot of lessons we could learn from the past year 2020, I know its been really the toughest year straight from the beginning, and we always have that opportunity to learn from them, In this episode, Bhavesh revealed his personal learnings and professional approaches of becoming the better of him, sharing all about acing data science interviews with his experience made this conversation much impactful.
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep24">
                   <i className="zmdi zmdi-long-arrow-right"></i>
                 </a>
               </div>
