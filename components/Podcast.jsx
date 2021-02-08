@@ -21,7 +21,54 @@ const Podcast = () => {
             </div>
 
 
+
             <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/01SBfatiCMsiZoAJAbRmB5"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a
+                    className="blog-title"
+                    href="/episodes/ep27"
+                  >
+                  Dr. Justin Chan: On Making Data Driven Decisions | DDI
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> Feb 08, 2020
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/justinspchan/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Dr. Justin Chan
+                    </a>
+                  </div>
+                  <p>
+                  On Connecting People via Connecting Minds, Dr. Justin Chan shared his deep purpose behind building the Data-Driven Community, The DDI(Data-Driven Investor). Being so vulnerable with all of his entrepreneurship experience made this conversation much more impactful, with his passion for creating an impact on the people around him, Dr.Chan launched The DDI Chat, Marketplace for Expertise.
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep27">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+          <div className="single-blog-area wow fadeInUp">
             <div className="card" data-wow-delay="300ms">
               <div className="card-body" data-wow-delay="300ms">
                 <div id="Container">
@@ -65,54 +112,6 @@ const Podcast = () => {
               </div>
             </div>
           </div>
-
-
-            <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/03812Nslt0iIFKz13uJRPa"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a
-                    className="blog-title"
-                    href="/episodes/ep25"
-                  >
-                  Christian Clausen: On Grounding The Five Lines of Code with Consistency
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> Jan 18, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/christian-clausen-276a792b/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Christian Clausen
-                    </a>
-                  </div>
-                  <p>
-                  Refactoring is a fact of life. All code is imperfect, and refactoring is a systematic process you can use to improve the quality of your codebase. Whatever your architecture, choice of OO language. Christian Clausen, author of The Five Lines of Code by Manning Publications shared his personal and professional journey behind learning and applying with consistency.
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep25">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-
-
 
 
           </div>

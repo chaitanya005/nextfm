@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 27, 
+        epTitle: "Dr. Justin Chan: On Making Data Driven Decisions | DDI",
+        date: "Feb 08, 2020",
+        guest_name: "Justin Chan",
+        ep_desc: "On Connecting People via Connecting Minds, Dr. Justin Chan shared his deep purpose behind building the Data-Driven Community, The DDI(Data-Driven Investor). Being so vulnerable with all of his entrepreneurship experience made this conversation much more impactful, with his passion for creating an impact on the people around him, Dr.Chan launched The DDI Chat, Marketplace for Expertise.",
+        ep_link: "/ep27",
+        guest_linkedln: "https://www.linkedin.com/in/justinspchan/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/01SBfatiCMsiZoAJAbRmB5"
+      },
       { id: 26, 
         epTitle: "Reuven M. Lerner: On Understanding the Crux of Consulting and Training",
         date: "Feb 01, 2020",
