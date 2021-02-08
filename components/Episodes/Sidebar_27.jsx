@@ -34,9 +34,9 @@ const sidebar_25 = () => {
 
           <ul className="tag-cloud">
             <li>
-              <a target="_blank" href="">
+              {/* <a target="_blank" href="">
                 YouTube
-              </a>
+              </a> */}
             </li>
             <li>
               <a
