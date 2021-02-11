@@ -6,6 +6,7 @@ import Sponsor from "./Sponsor";
 import Testimonials from "./Testimonials";
 import ListnersTestimonials from "./ListnersTestimonials";
 import Footer from "./Footer";
+import Wit from './Wit'
 
 export default class AppLayout extends React.Component {
   render() {
@@ -15,6 +16,7 @@ export default class AppLayout extends React.Component {
         {this.props.children}
         <About />
         <Podcast />
+        <Wit />
         <Testimonials />
         <ListnersTestimonials />
         <Sponsor />

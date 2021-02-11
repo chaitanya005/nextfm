@@ -22,13 +22,11 @@ const Witconf = () => {
                   textTransform: "none",
                 }}
               >
-                <b id="conf">Math for Data Science: live@Manning conferences</b>
+                <b id="conf">Graph Data Science Conference</b>
               </h3>
               <p className="wow fadeInUp" data-wow-delay="300ms">
-              Securing a job in data science, AI, machine learning, cryptography, and other programming 
-              fields requires strong math skills. <br />
-              Register for <b>FREE</b> to the Math for Data Science conference, 
-              <b><i> Nov 17th</i></b>, a unique chance to learn from statisticians and math masters
+                Discover the power of graphs! Tune-in to the  <a href = "http://mng.bz/4ZYv" target = "_blank">live@Manning</a> Graph Data Science conference, this Feb 16 to hear talks from data scientists explaining how, where, and how to use graph data to your advantage. <br />
+                #datascience
               </p>
             </div>
           </div>
@@ -39,7 +37,7 @@ const Witconf = () => {
               data-wow-delay="300ms"
             >
               <img
-                src="../img/rust_conf/math_conference.jpg"
+                src="../img/rust_conf/Graph_data.jpg"
                 alt="Math for Data Sci conf"
                 style={{ borderRadius: "10px" }}
               />
@@ -51,7 +49,7 @@ const Witconf = () => {
               className="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp"
               data-wow-delay="300ms"
             >
-              <a className="btn confer-btn" href="http://mng.bz/GdQM" target = "_blank">
+              <a className="btn confer-btn" href="http://mng.bz/4ZYv" target = "_blank">
                 Register Here <i className="zmdi zmdi-long-arrow-right"></i>
               </a>
             </div>
