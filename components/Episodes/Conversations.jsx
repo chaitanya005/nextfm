@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 28, 
+        epTitle: "Craig Dennis: On Becoming a Developer Educator",
+        date: "Feb 15, 2020",
+        guest_name: "Craig Dennis",
+        ep_desc: "Uncovering Craig’s journey in technology and sharing his thoughts behind finding the purpose, potential, and passion of the generation made this conversation much impactful. Craig and Teja spoke about the learning barriers and how could someone be much more effective in online learning and content creation.",
+        ep_link: "/ep28",
+        guest_linkedln: "https://www.linkedin.com/in/craigsdennis/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/3nwjLeDLRp491toKsZxZfm"
+      },
       { id: 27, 
         epTitle: "Dr. Justin Chan: On Making Data Driven Decisions | DDI",
         date: "Feb 08, 2020",

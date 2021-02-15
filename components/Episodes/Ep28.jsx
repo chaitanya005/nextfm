@@ -7,7 +7,7 @@ const ep_27 = () => {
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
             <img
-              src="../img/Podcast/episodes/ep_27/AMA_AskChan.jpg"
+              src="../img/Podcast/episodes/ep_28/Craig.jpg"
               alt="episodebanner"
             />
           </div>
@@ -15,23 +15,23 @@ const ep_27 = () => {
           <h1
             className="page-title"
             style={{ lineHeight: "40px", fontSize: "25px" }}
-          >Dr. Justin Chan: On Making Data Driven Decisions | DDI
+          >Craig Dennis: On Becoming a Developer Educator
           </h1>
 
           <div className="post-meta">
             <a className="post-date">
-              <i className="zmdi zmdi-alarm-check"></i> Feb 08, 2020
+              <i className="zmdi zmdi-alarm-check"></i> Feb 15, 2020
             </a>
             <a
               className="post-author"
-              href="https://www.linkedin.com/in/justinspchan/"
+              href="https://www.linkedin.com/in/craigsdennis/"
             >
-              <i className="zmdi zmdi-account"></i>Dr. Justin Chan
+              <i className="zmdi zmdi-account"></i>Craig Dennis
             </a>
           </div>
           <div id="Container">
             <iframe
-              src="https://open.spotify.com/embed-podcast/episode/01SBfatiCMsiZoAJAbRmB5"
+              src="https://open.spotify.com/embed-podcast/episode/3nwjLeDLRp491toKsZxZfm"
               width="100%"
               height="232"
               frameBorder="0"
@@ -43,39 +43,38 @@ const ep_27 = () => {
           <p> </p>
           <h5>Guest Introduction:</h5>
           <p>
-          Dr. Chan founded JCube Capital Partners and is the founding editor of DataDrivenInvestor.com (DDI).
-          Specialized in strategy development, alternative data analytics, and behavioral finance, 
-          Dr. Chan also has extensive experience in investment management and financial services 
-          industries. Prior to forming JCube and DDI, Dr. Chan served in the capacity of strategy 
-          development in multiple hedge funds, fintech companies, and also served as a senior quantitative 
-          strategist at GMO. A published author at professional journals in finance, Dr. Chan holds a 
-          doctoral degree in finance from UCLA.
+            Craig is a software teacher, backend developer, and self-taught polyglot who thrives in 
+            the deep end and loves doing what people say I can’t. Throughout his life, whether figuring 
+            out how to escape grues on Zork, automating PC installations, or creating site generation 
+            tools to empower admins, He has always subscribed to the growth mindset.
+            <br />
+            Craig is a huge supporter and incredible person who made coding fun. With a decade of
+            software experience. Craig encourages learners of all skill levels to embrace the growth 
+            mindset.
+            <br />
+            On top of all of that, he’s a technology volunteer,  at Peace Corps and he’s someone so 
+            deep and down to the tech, making the world a better place with technology.
           </p>
 
-          <br />
-
-          DDI Chat: <a href="https://www.ddichat.com/">https://www.ddichat.com/</a> <br />
-          DDI Blog: <a href="https://www.datadriveninvestor.com/">https://www.datadriveninvestor.com/</a>
        
         </div>
         <br />
 
         <div className="post-tags-social-area mt-30 pb-5 d-flex flex-wrap align-items-center"></div>
         <br />
-
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep26">
+              <a href="/ep27">
                 <img
-                  src="../img/Podcast/episodes/ep_26/Reuven_Lerner.jpg"
+                  src="../img/Podcast/episodes/ep_27/Justin_Chan.jpg"
                   alt="guestimage"
                 />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep26" className="post-title">
-                Ruven M. Lerner
+              <a href="/ep27" className="post-title">
+                Dr. Justin Chan
               </a>
               <span>Previous Episode</span>
             </div>
@@ -83,15 +82,13 @@ const ep_27 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep28">
-                <img src="../img/Podcast/episodes/ep_28/Craig_Dennis.jpg" alt="" />
+              <a href="">
+                <img src="" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep28" className="post-title">
-                Craig Dennis
-              </a>
-              <span>Next Episode</span>
+              <a href="" className="post-title"></a>
+              <span></span>
             </div>
           </div>
         </div>
