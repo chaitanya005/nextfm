@@ -55,7 +55,9 @@ const ep_27 = () => {
             On top of all of that, he’s a technology volunteer,  at Peace Corps and he’s someone so 
             deep and down to the tech, making the world a better place with technology.
           </p>
-
+        
+          <br />
+          <p>Twitter Feed: <a href='https://twitter.com/craigsdennis/status/1259865336146358272?s=19'>https://twitter.com/craigsdennis/status/1259865336146358272?s=19</a></p>
        
         </div>
         <br />
