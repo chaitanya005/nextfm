@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 29, 
+        epTitle: "Marco Faella: On Building a Seriously Good Software",
+        date: "Mar 15, 2020",
+        guest_name: "Marco Faella",
+        ep_desc: "Building high-quality software which is never simple, and it is always a good idea to reexamine the principles of good design and craftsmanship, and it's a never ending process of designing and developing, seriously a good software, to talk about that, we have a senior educator, researcher, who has been teaching advanced programming for the past 15 years, Marco Faella.",
+        ep_link: "/ep29",
+        guest_linkedln: "https://www.linkedin.com/in/marco-faella-8675574/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/5QC2kp0pqrfLxuYRnSZOpY"
+      },
       { id: 28, 
         epTitle: "Craig Dennis: On Becoming a Developer Educator",
         date: "Feb 15, 2020",

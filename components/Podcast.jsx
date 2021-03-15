@@ -26,6 +26,52 @@ const Podcast = () => {
               <div className="card-body" data-wow-delay="300ms">
                 <div id="Container">
                   <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/5QC2kp0pqrfLxuYRnSZOpY"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a
+                    className="blog-title"
+                    href="/episodes/ep29"
+                  >
+                  Marco Faella: On Building a Seriously Good Software
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> Mar 15, 2020
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/marco-faella-8675574/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Marco Faella
+                    </a>
+                  </div>
+                  <p>
+                    Building high-quality software which is never simple, and it is always a good idea to reexamine the principles of good design and craftsmanship, and it's a never ending process of designing and developing, seriously a good software, to talk about that, we have a senior educator, researcher, who has been teaching advanced programming for the past 15 years, Marco Faella.
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep29">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+            <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
                     src="https://open.spotify.com/embed-podcast/episode/3nwjLeDLRp491toKsZxZfm"
                     width="100%"
                     height="232"
@@ -67,50 +113,7 @@ const Podcast = () => {
           </div>
 
 
-            <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/01SBfatiCMsiZoAJAbRmB5"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a
-                    className="blog-title"
-                    href="/episodes/ep27"
-                  >
-                  Dr. Justin Chan: On Making Data Driven Decisions | DDI
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> Feb 08, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/justinspchan/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Dr. Justin Chan
-                    </a>
-                  </div>
-                  <p>
-                  On Connecting People via Connecting Minds, Dr. Justin Chan shared his deep purpose behind building the Data-Driven Community, The DDI(Data-Driven Investor). Being so vulnerable with all of his entrepreneurship experience made this conversation much more impactful, with his passion for creating an impact on the people around him, Dr.Chan launched The DDI Chat, Marketplace for Expertise.
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep27">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div>
+            
 
 
 
