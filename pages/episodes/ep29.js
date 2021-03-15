@@ -11,7 +11,7 @@ const Episode29 = () => {
     <>
       <Head>
         <title>
-        Craig Dennis: On Becoming a Developer Educator
+          Marco Faella: On Building a Seriously Good Software
         </title>
 
         <link
