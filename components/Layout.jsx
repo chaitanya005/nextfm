@@ -16,7 +16,7 @@ export default class AppLayout extends React.Component {
         {this.props.children}
         <About />
         <Podcast />
-        <Wit />
+        {/* <Wit /> */}
         <Testimonials />
         <ListnersTestimonials />
         <Sponsor />

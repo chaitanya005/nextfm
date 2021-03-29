@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 30, 
+        epTitle: "Nidhi Thakkar: On How to Build Career In Data Science From Academia to Industry",
+        date: "Mar 29, 2020",
+        guest_name: "Nidhi Thakkar",
+        ep_desc: "Introducing the first-ever women guest in the podcast, Nidhi Thakkar, sharing all her experiences from being a student to becoming a Data Science Consultant, exploring across various domains of Artificial intelligence, Nidhi and Teja spoke all about the challenges on starting, shifting or building a career in data science.",
+        ep_link: "/ep30",
+        guest_linkedln: "https://www.linkedin.com/in/nidhithakkar55/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/5P05O272Qr8yxGCBMta3tz"
+      },
       { id: 29, 
         epTitle: "Marco Faella: On Building a Seriously Good Software",
         date: "Mar 15, 2020",

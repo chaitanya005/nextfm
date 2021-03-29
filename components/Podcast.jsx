@@ -20,6 +20,51 @@ const Podcast = () => {
               </div>
             </div>
 
+            <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/5P05O272Qr8yxGCBMta3tz"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a
+                    className="blog-title"
+                    href="/episodes/ep30"
+                  >
+                  Nidhi Thakkar: On How to Build Career In Data Science From Academia to Industry
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> Mar 29, 2020
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/nidhithakkar55/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Nidhi Thakkar
+                    </a>
+                  </div>
+                  <p>
+                  Introducing the first-ever women guest in the podcast, Nidhi Thakkar, sharing all her experiences from being a student to becoming a Data Science Consultant, exploring across various domains of Artificial intelligence, Nidhi and Teja spoke all about the challenges on starting, shifting or building a career in data science.
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep30">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
 
             <div className="single-blog-area wow fadeInUp">
             <div className="card" data-wow-delay="300ms">
@@ -67,50 +112,7 @@ const Podcast = () => {
           </div>
 
 
-            <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/3nwjLeDLRp491toKsZxZfm"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a
-                    className="blog-title"
-                    href="/episodes/ep28"
-                  >
-                  Craig Dennis: On Becoming a Developer Educator
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> Feb 15, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/craigsdennis/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Craig Dennis
-                    </a>
-                  </div>
-                  <p>
-                  Uncovering Craig’s journey in technology and sharing his thoughts behind finding the purpose, potential, and passion of the generation made this conversation much impactful. Craig and Teja spoke about the learning barriers and how could someone be much more effective in online learning and content creation.
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep28">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div>
+            
 
 
             
