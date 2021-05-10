@@ -20,7 +20,7 @@ const ep_27 = () => {
 
           <div className="post-meta">
             <a className="post-date">
-              <i className="zmdi zmdi-alarm-check"></i> Feb 15, 2020
+              <i className="zmdi zmdi-alarm-check"></i> Feb 15, 2021
             </a>
             <a
               className="post-author"

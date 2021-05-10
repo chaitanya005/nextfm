@@ -25,6 +25,51 @@ const Podcast = () => {
               <div className="card-body" data-wow-delay="300ms">
                 <div id="Container">
                   <iframe
+                    src="https://open.spotify.com/embed-podcast/episode/1YwS7Owfm80j3f8EjcWCFD"
+                    width="100%"
+                    height="232"
+                    frameBorder="0"
+                    allowtransparency="true"
+                    allow="encrypted-media"
+                  ></iframe>
+                </div>
+                <div className="single-blog-text text-center">
+                  <a
+                    className="blog-title"
+                    href="/episodes/ep31"
+                  >
+                  Paul Azunre: On Balancing Passion and Profession | Music and Machine Learning
+                  </a>
+                  <div className="post-meta">
+                    <a className="post-date">
+                      <i className="zmdi zmdi-alarm-check"></i> May 10, 2021
+                    </a>
+                    <a
+                      className="post-author"
+                      href="https://www.linkedin.com/in/paulazunre/"
+                      target="_blank"
+                    >
+                      <i className="zmdi zmdi-account"></i> Paul Azunre
+                    </a>
+                  </div>
+                  <p>
+                  There can not be a day lived to the fullest, if you couldn't work on things you love and what makes you the most excited, it begins to become much harder when we move on with professional work not realizing we might be losing up something that we also love doing. And balancing both is where the challenge comes in. Paul Azunre, Founder of Ghana NLP and a Producer shared his journey behind the passion and his deep and clear intentions made the conversation much impactful.
+                  </p>
+                </div>
+              </div>
+              <div className="blog-btn">
+                <a href="/episodes/ep31">
+                  <i className="zmdi zmdi-long-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+            <div className="single-blog-area wow fadeInUp">
+            <div className="card" data-wow-delay="300ms">
+              <div className="card-body" data-wow-delay="300ms">
+                <div id="Container">
+                  <iframe
                     src="https://open.spotify.com/embed-podcast/episode/5P05O272Qr8yxGCBMta3tz"
                     width="100%"
                     height="232"
@@ -64,64 +109,8 @@ const Podcast = () => {
               </div>
             </div>
           </div>
-
-
-            <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/5QC2kp0pqrfLxuYRnSZOpY"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a
-                    className="blog-title"
-                    href="/episodes/ep29"
-                  >
-                  Marco Faella: On Building a Seriously Good Software
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> Mar 15, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/marco-faella-8675574/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Marco Faella
-                    </a>
-                  </div>
-                  <p>
-                    Building high-quality software which is never simple, and it is always a good idea to reexamine the principles of good design and craftsmanship, and it's a never ending process of designing and developing, seriously a good software, to talk about that, we have a senior educator, researcher, who has been teaching advanced programming for the past 15 years, Marco Faella.
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep29">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-
-
-            
-
-
-            
-
-
-
-
-          </div>
         </div>
+      </div>
 
         <div className="col-12">
           <div

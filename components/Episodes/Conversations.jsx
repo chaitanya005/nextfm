@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 31, 
+        epTitle: "Paul Azunre: On Balancing Passion and Profession | Music and Machine Learning",
+        date: "May 10, 2021",
+        guest_name: "Paul Azunre",
+        ep_desc: "There can not be a day lived to the fullest, if you couldn't work on things you love and what makes you the most excited, it begins to become much harder when we move on with professional work not realizing we might be losing up something that we also love doing. And balancing both is where the challenge comes in. Paul Azunre, Founder of Ghana NLP and a Producer shared his journey behind the passion and his deep and clear intentions made the conversation much impactful.",
+        ep_link: "/ep31",
+        guest_linkedln: "https://www.linkedin.com/in/paulazunre/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/1YwS7Owfm80j3f8EjcWCFD"
+      },
       { id: 30, 
         epTitle: "Nidhi Thakkar: On How to Build Career In Data Science From Academia to Industry",
         date: "Mar 29, 2020",

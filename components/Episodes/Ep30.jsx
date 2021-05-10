@@ -20,7 +20,7 @@ const ep_29 = () => {
 
           <div className="post-meta">
             <a className="post-date">
-              <i className="zmdi zmdi-alarm-check"></i> Mar 29, 2020
+              <i className="zmdi zmdi-alarm-check"></i> Mar 29, 2021
             </a>
             <a
               className="post-author"
@@ -74,13 +74,15 @@ const ep_29 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="" />
+              <a href="/ep31">
+                <img src="../img/Podcast/episodes/ep_31/Paul_Azunre.jpg" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep31" className="post-title">
+                Paul Azunre
+              </a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>
