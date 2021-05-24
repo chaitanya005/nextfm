@@ -7,7 +7,7 @@ const ep_32 = () => {
         <div className="post-details-content">
           <div className="post-blog-thumbnail mb-30">
             <img
-              src="../img/Podcast/episodes/ep_32/Jalem_Utube.jpg"
+              src="../img/Podcast/episodes/ep_32/Jalem_Utubee.png"
               alt="episodebanner"
             />
           </div>
