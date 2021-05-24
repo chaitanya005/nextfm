@@ -8,6 +8,15 @@ class Conversations extends Component {
     visible: 4,
     totalPosts: 8,
     episodes: [
+      { id: 32, 
+        epTitle: "Jalem Raj Rohit: On How to Clutch Data Science from Academia to Industry",
+        date: "May 24, 2021",
+        guest_name: "Jalem Raj Rohit",
+        ep_desc: "Clutching Data Science in a potential approach can be tricky. Taking forward right from academia to industry is where the bend of the learning curve comes into the picture, putting all together about learning, executing, and delivering. Raj and Teja spoke all about potential career paths for building or for shifting to one another. Sharing Raj's experience as a senior Data Scientist and the world's #4 Diamond moderator of Stackoverflow made his conversation much impactful.",
+        ep_link: "/ep32",
+        guest_linkedln: "https://www.linkedin.com/in/jalemrajrohit/",
+        spotify_link: "https://open.spotify.com/embed-podcast/episode/5Fot4Nv3rrCYiRZGd5nWBQ"
+      },
       { id: 31, 
         epTitle: "Paul Azunre: On Balancing Passion and Profession | Music and Machine Learning",
         date: "May 10, 2021",
