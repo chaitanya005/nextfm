@@ -22,11 +22,11 @@ const Witconf = () => {
                   textTransform: "none",
                 }}
               >
-                <b id="conf">Graph Data Science Conference</b>
+                <b id="conf">Time is a developer’s most valuable asset.</b>
               </h3>
               <p className="wow fadeInUp" data-wow-delay="300ms">
-                Discover the power of graphs! Tune-in to the  <a href = "http://mng.bz/4ZYv" target = "_blank">live@Manning</a> Graph Data Science conference, this Feb 16 to hear talks from data scientists explaining how, where, and how to use graph data to your advantage. <br />
-                #datascience
+               Get insights on how to increase your efficiency and gain more precious time at the 
+               Developer Productivity live@manning conference, June 15th.
               </p>
             </div>
           </div>
@@ -37,8 +37,8 @@ const Witconf = () => {
               data-wow-delay="300ms"
             >
               <img
-                src="../img/rust_conf/Graph_data.jpg"
-                alt="Math for Data Sci conf"
+                src="../img/rust_conf/conf.png"
+                alt="Time is a developer’s most valuable asset"
                 style={{ borderRadius: "10px" }}
               />
             </div>
@@ -49,7 +49,7 @@ const Witconf = () => {
               className="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp"
               data-wow-delay="300ms"
             >
-              <a className="btn confer-btn" href="http://mng.bz/4ZYv" target = "_blank">
+              <a className="btn confer-btn" href="http://mng.bz/0rOx" target = "_blank">
                 Register Here <i className="zmdi zmdi-long-arrow-right"></i>
               </a>
             </div>
