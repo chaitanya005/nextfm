@@ -34,7 +34,7 @@ const Podcast = () => {
                     ></iframe>
                   </div>
                   <div className="single-blog-text text-center">
-                    <a className="blog-title" href="/episodes/ep31">
+                    <a className="blog-title" href="/episodes/ep33">
                       Boris Paskhaver: On Business Economics to Software
                       Engineering
                     </a>
