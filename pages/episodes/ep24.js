@@ -11,7 +11,8 @@ const Episode22 = () => {
     <>
       <Head>
         <title>
-        Bhavesh Bhatt: On How to Propel and to Prepare for Data Science Interviews
+          Bhavesh Bhatt: On How to Propel and to Prepare for Data Science
+          Interviews
         </title>
 
         <link

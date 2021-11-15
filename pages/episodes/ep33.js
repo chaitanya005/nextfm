@@ -3,14 +3,16 @@ import Head from "next/head";
 import Footer from "../../components/Footer";
 import Navbar from "../../components/Navbar";
 import Disqus from "../../components/DisqusCom";
-import Episode_22 from "../../components/Episodes/Ep22";
-import Sidebar_22 from "../../components/Episodes/Sidebar_22";
+import Episode_33 from "../../components/Episodes/Ep33";
+import Sidebar_33 from "../../components/Episodes/Sidebar_33";
 
-const Episode22 = () => {
+const Episode33 = () => {
   return (
     <>
       <Head>
-        <title>Yan Cui: On Becoming an AWS Servlerless Hero</title>
+        <title>
+          Boris Paskhaver: On Business Economics to Software Engineering
+        </title>
 
         <link
           rel="apple-touch-icon"
@@ -113,7 +115,7 @@ const Episode22 = () => {
           <div className="row h-100 align-items-center">
             <div className="col-12">
               <div className="breadcrumb-content">
-                <h2 className="page-title">Episode #22</h2>
+                <h2 className="page-title">Episode #33</h2>
                 <nav aria-label="breadcrumb">
                   <ol className="breadcrumb">
                     <li className="breadcrumb-item">
@@ -123,7 +125,7 @@ const Episode22 = () => {
                       <a href="/episodes">Episodes</a>
                     </li>
                     <li className="breadcrumb-item active" aria-current="page">
-                      Ep:22
+                      Ep:33
                     </li>
                   </ol>
                 </nav>
@@ -138,8 +140,8 @@ const Episode22 = () => {
       >
         <div className="container">
           <div className="row justify-content-center">
-            <Episode_22 />
-            <Sidebar_22 />
+            <Episode_33 />
+            <Sidebar_33 />
           </div>
           <Disqus />
         </div>
@@ -150,4 +152,4 @@ const Episode22 = () => {
   );
 };
 
-export default Episode22;
+export default Episode33;

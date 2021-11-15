@@ -11,7 +11,7 @@ const Episode20 = () => {
     <>
       <Head>
         <title>
-        Gianluca Mauro: On Making AI Democratic | Founding AI Academy
+          Gianluca Mauro: On Making AI Democratic | Founding AI Academy
         </title>
 
         <link

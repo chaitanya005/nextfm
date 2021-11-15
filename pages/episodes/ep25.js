@@ -11,7 +11,8 @@ const Episode22 = () => {
     <>
       <Head>
         <title>
-        Christian Clausen: On Grounding The Five Lines of Code with Consistency
+          Christian Clausen: On Grounding The Five Lines of Code with
+          Consistency
         </title>
 
         <link
