@@ -15,7 +15,9 @@ const ep_32 = () => {
           <h1
             className="page-title"
             style={{ lineHeight: "40px", fontSize: "25px" }}
-          >Jalem Raj Rohit: On How to Clutch Data Science from Academia to Industry
+          >
+            Jalem Raj Rohit: On How to Clutch Data Science from Academia to
+            Industry
           </h1>
 
           <div className="post-meta">
@@ -43,11 +45,12 @@ const ep_32 = () => {
           <p> </p>
           <h5>Guest Introduction:</h5>
           <p>
-          Raj is currently working as a data scientist at Episource, and he's the author of two books 
-          and video lessons on ML and serverless engineering, Jalem is also an active open-source 
-          contributor, tinkers around in Julia, Go, R, and Python programming languages, On top of all 
-          of that, he worlds #4 Diamond moderator of Stackoverflow and a founding member of PyData Mumbai
-          and Delhi
+            Raj is currently working as a data scientist at Episource, and he's
+            the author of two books and video lessons on ML and serverless
+            engineering, Jalem is also an active open-source contributor,
+            tinkers around in Julia, Go, R, and Python programming languages, On
+            top of all of that, he worlds #4 Diamond moderator of Stackoverflow
+            and a founding member of PyData Mumbai and Delhi
           </p>
         </div>
         <br />
@@ -66,7 +69,7 @@ const ep_32 = () => {
             </div>
             <div className="post-meta">
               <a href="/ep31" className="post-title">
-              Paul Azunre
+                Paul Azunre
               </a>
               <span>Previous Episode</span>
             </div>
@@ -74,13 +77,18 @@ const ep_32 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="" />
+              <a href="/ep33">
+                <img
+                  src="../img/Podcast/episodes/ep_33/Boris.jpg"
+                  alt="guestimage"
+                />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep33" className="post-title">
+                Boris Paskhaver
+              </a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

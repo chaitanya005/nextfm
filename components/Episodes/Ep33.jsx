@@ -74,16 +74,16 @@ const Ep_33 = () => {
         <div className="pager-area d-flex align-items-center flex-wrap mb-80">
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="/ep31">
+              <a href="/ep32">
                 <img
-                  src="../img/Podcast/episodes/ep_31/Paul_Azunre.jpg"
+                  src="../img/Podcast/episodes/ep_32/Jalem.jpg"
                   alt="guestimage"
                 />
               </a>
             </div>
             <div className="post-meta">
-              <a href="/ep31" className="post-title">
-                Paul Azunre
+              <a href="/ep32" className="post-title">
+                Jalem Raj Rohit
               </a>
               <span>Previous Episode</span>
             </div>
@@ -91,13 +91,15 @@ const Ep_33 = () => {
 
           <div className="pager-single-post d-flex align-items-center">
             <div className="post-thumb">
-              <a href="">
-                <img src="" alt="" />
+              <a href="/ep34">
+                <img src="../img/Podcast/episodes/ep_34/Heath.jpg" alt="" />
               </a>
             </div>
             <div className="post-meta">
-              <a href="" className="post-title"></a>
-              <span></span>
+              <a href="/ep34" className="post-title">
+                Heath Slawner
+              </a>
+              <span>Next Episode</span>
             </div>
           </div>
         </div>

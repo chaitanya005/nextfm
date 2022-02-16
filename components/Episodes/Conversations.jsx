@@ -8,6 +8,18 @@ class Conversations extends Component {
     totalPosts: 8,
     episodes: [
       {
+        id: 34,
+        epTitle: "Heath Slawner: On How To Find Your WHY?",
+        date: "Feb 14, 2020",
+        guest_name: "Heath Slawner",
+        ep_desc:
+          "Teja and Heath spoke about his journey with Simon Sinek and various factors on improving leadership in organizations. What do Leaders have in common, How to resolve conflicts in a team, How to keep the team energized and encouraged, Common mistakes Leaders do, How could someone find their purpose and WHY, How do you measure the performance of a team and many more, Heath's candid flow made this conversation much more impactful",
+        ep_link: "/ep34",
+        guest_linkedln: "https://www.linkedin.com/in/heathslawner/",
+        spotify_link:
+          "https://open.spotify.com/embed-podcast/episode/00Dc72U4zyekMirCC3UYK7",
+      },
+      {
         id: 33,
         epTitle:
           "Boris Paskhaver: On Business Economics to Software Engineering",

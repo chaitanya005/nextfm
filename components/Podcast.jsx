@@ -25,6 +25,55 @@ const Podcast = () => {
                 <div className="card-body" data-wow-delay="300ms">
                   <div id="Container">
                     <iframe
+                      src="https://open.spotify.com/embed-podcast/episode/00Dc72U4zyekMirCC3UYK7"
+                      width="100%"
+                      height="232"
+                      frameBorder="0"
+                      allowtransparency="true"
+                      allow="encrypted-media"
+                    ></iframe>
+                  </div>
+                  <div className="single-blog-text text-center">
+                    <a className="blog-title" href="/episodes/ep34">
+                      Heath Slawner: On How To Find Your WHY?
+                    </a>
+                    <div className="post-meta">
+                      <a className="post-date">
+                        <i className="zmdi zmdi-alarm-check"></i> Feb 14, 2022
+                      </a>
+                      <a
+                        className="post-author"
+                        href="https://www.linkedin.com/in/heathslawner/"
+                        target="_blank"
+                      >
+                        <i className="zmdi zmdi-account"></i> Heath Slawner
+                      </a>
+                    </div>
+                    <p>
+                      Teja and Heath spoke about his journey with Simon Sinek
+                      and various factors on improving leadership in
+                      organizations. What do Leaders have in common, How to
+                      resolve conflicts in a team, How to keep the team
+                      energized and encouraged, Common mistakes Leaders do, How
+                      could someone find their purpose and WHY, How do you
+                      measure the performance of a team and many more, Heath's
+                      candid flow made this conversation much more impactful
+                    </p>
+                  </div>
+                </div>
+                <div className="blog-btn">
+                  <a href="/episodes/ep34">
+                    <i className="zmdi zmdi-long-arrow-right"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="single-blog-area wow fadeInUp">
+              <div className="card" data-wow-delay="300ms">
+                <div className="card-body" data-wow-delay="300ms">
+                  <div id="Container">
+                    <iframe
                       src="https://open.spotify.com/embed-podcast/episode/24qXD6wChudXyK2YUGCVcO"
                       width="100%"
                       height="232"
@@ -66,57 +115,6 @@ const Podcast = () => {
                     <i className="zmdi zmdi-long-arrow-right"></i>
                   </a>
                 </div>
-              </div>
-            </div>
-          </div>
-
-          <div className="single-blog-area wow fadeInUp">
-            <div className="card" data-wow-delay="300ms">
-              <div className="card-body" data-wow-delay="300ms">
-                <div id="Container">
-                  <iframe
-                    src="https://open.spotify.com/embed-podcast/episode/5Fot4Nv3rrCYiRZGd5nWBQ"
-                    width="100%"
-                    height="232"
-                    frameBorder="0"
-                    allowtransparency="true"
-                    allow="encrypted-media"
-                  ></iframe>
-                </div>
-                <div className="single-blog-text text-center">
-                  <a className="blog-title" href="/episodes/ep32">
-                    Jalem Raj Rohit: On How to Clutch Data Science from Academia
-                    to Industry
-                  </a>
-                  <div className="post-meta">
-                    <a className="post-date">
-                      <i className="zmdi zmdi-alarm-check"></i> May 24, 2020
-                    </a>
-                    <a
-                      className="post-author"
-                      href="https://www.linkedin.com/in/jalemrajrohit/"
-                      target="_blank"
-                    >
-                      <i className="zmdi zmdi-account"></i> Jalem Raj Rohit
-                    </a>
-                  </div>
-                  <p>
-                    Clutching Data Science in a potential approach can be
-                    tricky. Taking forward right from academia to industry is
-                    where the bend of the learning curve comes into the picture,
-                    putting all together about learning, executing, and
-                    delivering. Raj and Teja spoke all about potential career
-                    paths for building or for shifting to one another. Sharing
-                    Raj's experience as a senior Data Scientist and the world's
-                    #4 Diamond moderator of Stackoverflow made his conversation
-                    much impactful.
-                  </p>
-                </div>
-              </div>
-              <div className="blog-btn">
-                <a href="/episodes/ep32">
-                  <i className="zmdi zmdi-long-arrow-right"></i>
-                </a>
               </div>
             </div>
           </div>
